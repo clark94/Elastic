@@ -1,0 +1,9035 @@
+{
+  "columns": [
+    {
+      "name": "line_id",
+      "type": "integer"
+    },
+    {
+      "name": "line_number",
+      "type": "text"
+    },
+    {
+      "name": "play_name",
+      "type": "keyword"
+    },
+    {
+      "name": "speaker",
+      "type": "keyword"
+    },
+    {
+      "name": "speech_number",
+      "type": "integer"
+    },
+    {
+      "name": "text_entry",
+      "type": "text"
+    },
+    {
+      "name": "type",
+      "type": "text"
+    }
+  ],
+  "rows": [
+    [
+      1,
+      "",
+      "Henry IV",
+      "",
+      null,
+      "ACT I",
+      "act"
+    ],
+    [
+      2,
+      "",
+      "Henry IV",
+      "",
+      null,
+      "SCENE I. London. The palace.",
+      "scene"
+    ],
+    [
+      3,
+      "",
+      "Henry IV",
+      "",
+      null,
+      "Enter KING HENRY, LORD JOHN OF LANCASTER, the EARL of WESTMORELAND, SIR WALTER BLUNT, and others",
+      "line"
+    ],
+    [
+      4,
+      "1.1.1",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "So shaken as we are, so wan with care,",
+      "line"
+    ],
+    [
+      5,
+      "1.1.2",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Find we a time for frighted peace to pant,",
+      "line"
+    ],
+    [
+      6,
+      "1.1.3",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "And breathe short-winded accents of new broils",
+      "line"
+    ],
+    [
+      7,
+      "1.1.4",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "To be commenced in strands afar remote.",
+      "line"
+    ],
+    [
+      8,
+      "1.1.5",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "No more the thirsty entrance of this soil",
+      "line"
+    ],
+    [
+      9,
+      "1.1.6",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Shall daub her lips with her own childrens blood;",
+      "line"
+    ],
+    [
+      10,
+      "1.1.7",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Nor more shall trenching war channel her fields,",
+      "line"
+    ],
+    [
+      11,
+      "1.1.8",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Nor bruise her flowerets with the armed hoofs",
+      "line"
+    ],
+    [
+      12,
+      "1.1.9",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Of hostile paces: those opposed eyes,",
+      "line"
+    ],
+    [
+      13,
+      "1.1.10",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Which, like the meteors of a troubled heaven,",
+      "line"
+    ],
+    [
+      14,
+      "1.1.11",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "All of one nature, of one substance bred,",
+      "line"
+    ],
+    [
+      15,
+      "1.1.12",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Did lately meet in the intestine shock",
+      "line"
+    ],
+    [
+      16,
+      "1.1.13",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "And furious close of civil butchery",
+      "line"
+    ],
+    [
+      17,
+      "1.1.14",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Shall now, in mutual well-beseeming ranks,",
+      "line"
+    ],
+    [
+      18,
+      "1.1.15",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "March all one way and be no more opposed",
+      "line"
+    ],
+    [
+      19,
+      "1.1.16",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Against acquaintance, kindred and allies:",
+      "line"
+    ],
+    [
+      20,
+      "1.1.17",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "The edge of war, like an ill-sheathed knife,",
+      "line"
+    ],
+    [
+      21,
+      "1.1.18",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "No more shall cut his master. Therefore, friends,",
+      "line"
+    ],
+    [
+      22,
+      "1.1.19",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "As far as to the sepulchre of Christ,",
+      "line"
+    ],
+    [
+      23,
+      "1.1.20",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Whose soldier now, under whose blessed cross",
+      "line"
+    ],
+    [
+      24,
+      "1.1.21",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "We are impressed and engaged to fight,",
+      "line"
+    ],
+    [
+      25,
+      "1.1.22",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Forthwith a power of English shall we levy;",
+      "line"
+    ],
+    [
+      26,
+      "1.1.23",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Whose arms were moulded in their mothers womb",
+      "line"
+    ],
+    [
+      27,
+      "1.1.24",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "To chase these pagans in those holy fields",
+      "line"
+    ],
+    [
+      28,
+      "1.1.25",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Over whose acres walkd those blessed feet",
+      "line"
+    ],
+    [
+      29,
+      "1.1.26",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Which fourteen hundred years ago were naild",
+      "line"
+    ],
+    [
+      30,
+      "1.1.27",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "For our advantage on the bitter cross.",
+      "line"
+    ],
+    [
+      31,
+      "1.1.28",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "But this our purpose now is twelve month old,",
+      "line"
+    ],
+    [
+      32,
+      "1.1.29",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "And bootless tis to tell you we will go:",
+      "line"
+    ],
+    [
+      33,
+      "1.1.30",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Therefore we meet not now. Then let me hear",
+      "line"
+    ],
+    [
+      34,
+      "1.1.31",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Of you, my gentle cousin Westmoreland,",
+      "line"
+    ],
+    [
+      35,
+      "1.1.32",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "What yesternight our council did decree",
+      "line"
+    ],
+    [
+      36,
+      "1.1.33",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "In forwarding this dear expedience.",
+      "line"
+    ],
+    [
+      37,
+      "1.1.34",
+      "Henry IV",
+      "WESTMORELAND",
+      2,
+      "My liege, this haste was hot in question,",
+      "line"
+    ],
+    [
+      38,
+      "1.1.35",
+      "Henry IV",
+      "WESTMORELAND",
+      2,
+      "And many limits of the charge set down",
+      "line"
+    ],
+    [
+      39,
+      "1.1.36",
+      "Henry IV",
+      "WESTMORELAND",
+      2,
+      "But yesternight: when all athwart there came",
+      "line"
+    ],
+    [
+      40,
+      "1.1.37",
+      "Henry IV",
+      "WESTMORELAND",
+      2,
+      "A post from Wales loaden with heavy news;",
+      "line"
+    ],
+    [
+      41,
+      "1.1.38",
+      "Henry IV",
+      "WESTMORELAND",
+      2,
+      "Whose worst was, that the noble Mortimer,",
+      "line"
+    ],
+    [
+      42,
+      "1.1.39",
+      "Henry IV",
+      "WESTMORELAND",
+      2,
+      "Leading the men of Herefordshire to fight",
+      "line"
+    ],
+    [
+      43,
+      "1.1.40",
+      "Henry IV",
+      "WESTMORELAND",
+      2,
+      "Against the irregular and wild Glendower,",
+      "line"
+    ],
+    [
+      44,
+      "1.1.41",
+      "Henry IV",
+      "WESTMORELAND",
+      2,
+      "Was by the rude hands of that Welshman taken,",
+      "line"
+    ],
+    [
+      45,
+      "1.1.42",
+      "Henry IV",
+      "WESTMORELAND",
+      2,
+      "A thousand of his people butchered;",
+      "line"
+    ],
+    [
+      46,
+      "1.1.43",
+      "Henry IV",
+      "WESTMORELAND",
+      2,
+      "Upon whose dead corpse there was such misuse,",
+      "line"
+    ],
+    [
+      47,
+      "1.1.44",
+      "Henry IV",
+      "WESTMORELAND",
+      2,
+      "Such beastly shameless transformation,",
+      "line"
+    ],
+    [
+      48,
+      "1.1.45",
+      "Henry IV",
+      "WESTMORELAND",
+      2,
+      "By those Welshwomen done as may not be",
+      "line"
+    ],
+    [
+      49,
+      "1.1.46",
+      "Henry IV",
+      "WESTMORELAND",
+      2,
+      "Without much shame retold or spoken of.",
+      "line"
+    ],
+    [
+      50,
+      "1.1.47",
+      "Henry IV",
+      "KING HENRY IV",
+      3,
+      "It seems then that the tidings of this broil",
+      "line"
+    ],
+    [
+      51,
+      "1.1.48",
+      "Henry IV",
+      "KING HENRY IV",
+      3,
+      "Brake off our business for the Holy Land.",
+      "line"
+    ],
+    [
+      52,
+      "1.1.49",
+      "Henry IV",
+      "WESTMORELAND",
+      4,
+      "This matchd with other did, my gracious lord;",
+      "line"
+    ],
+    [
+      53,
+      "1.1.50",
+      "Henry IV",
+      "WESTMORELAND",
+      4,
+      "For more uneven and unwelcome news",
+      "line"
+    ],
+    [
+      54,
+      "1.1.51",
+      "Henry IV",
+      "WESTMORELAND",
+      4,
+      "Came from the north and thus it did import:",
+      "line"
+    ],
+    [
+      55,
+      "1.1.52",
+      "Henry IV",
+      "WESTMORELAND",
+      4,
+      "On Holy-rood day, the gallant Hotspur there,",
+      "line"
+    ],
+    [
+      56,
+      "1.1.53",
+      "Henry IV",
+      "WESTMORELAND",
+      4,
+      "Young Harry Percy and brave Archibald,",
+      "line"
+    ],
+    [
+      57,
+      "1.1.54",
+      "Henry IV",
+      "WESTMORELAND",
+      4,
+      "That ever-valiant and approved Scot,",
+      "line"
+    ],
+    [
+      58,
+      "1.1.55",
+      "Henry IV",
+      "WESTMORELAND",
+      4,
+      "At Holmedon met,",
+      "line"
+    ],
+    [
+      59,
+      "1.1.56",
+      "Henry IV",
+      "WESTMORELAND",
+      4,
+      "Where they did spend a sad and bloody hour,",
+      "line"
+    ],
+    [
+      60,
+      "1.1.57",
+      "Henry IV",
+      "WESTMORELAND",
+      4,
+      "As by discharge of their artillery,",
+      "line"
+    ],
+    [
+      61,
+      "1.1.58",
+      "Henry IV",
+      "WESTMORELAND",
+      4,
+      "And shape of likelihood, the news was told;",
+      "line"
+    ],
+    [
+      62,
+      "1.1.59",
+      "Henry IV",
+      "WESTMORELAND",
+      4,
+      "For he that brought them, in the very heat",
+      "line"
+    ],
+    [
+      63,
+      "1.1.60",
+      "Henry IV",
+      "WESTMORELAND",
+      4,
+      "And pride of their contention did take horse,",
+      "line"
+    ],
+    [
+      64,
+      "1.1.61",
+      "Henry IV",
+      "WESTMORELAND",
+      4,
+      "Uncertain of the issue any way.",
+      "line"
+    ],
+    [
+      65,
+      "1.1.62",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "Here is a dear, a true industrious friend,",
+      "line"
+    ],
+    [
+      66,
+      "1.1.63",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "Sir Walter Blunt, new lighted from his horse.",
+      "line"
+    ],
+    [
+      67,
+      "1.1.64",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "Staind with the variation of each soil",
+      "line"
+    ],
+    [
+      68,
+      "1.1.65",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "Betwixt that Holmedon and this seat of ours;",
+      "line"
+    ],
+    [
+      69,
+      "1.1.66",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "And he hath brought us smooth and welcome news.",
+      "line"
+    ],
+    [
+      70,
+      "1.1.67",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "The Earl of Douglas is discomfited:",
+      "line"
+    ],
+    [
+      71,
+      "1.1.68",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "Ten thousand bold Scots, two and twenty knights,",
+      "line"
+    ],
+    [
+      72,
+      "1.1.69",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "Balkd in their own blood did Sir Walter see",
+      "line"
+    ],
+    [
+      73,
+      "1.1.70",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "On Holmedons plains. Of prisoners, Hotspur took",
+      "line"
+    ],
+    [
+      74,
+      "1.1.71",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "Mordake the Earl of Fife, and eldest son",
+      "line"
+    ],
+    [
+      75,
+      "1.1.72",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "To beaten Douglas; and the Earl of Athol,",
+      "line"
+    ],
+    [
+      76,
+      "1.1.73",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "Of Murray, Angus, and Menteith:",
+      "line"
+    ],
+    [
+      77,
+      "1.1.74",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "And is not this an honourable spoil?",
+      "line"
+    ],
+    [
+      78,
+      "1.1.75",
+      "Henry IV",
+      "KING HENRY IV",
+      5,
+      "A gallant prize? ha, cousin, is it not?",
+      "line"
+    ],
+    [
+      79,
+      "1.1.76",
+      "Henry IV",
+      "WESTMORELAND",
+      6,
+      "In faith,",
+      "line"
+    ],
+    [
+      80,
+      "1.1.77",
+      "Henry IV",
+      "WESTMORELAND",
+      6,
+      "It is a conquest for a prince to boast of.",
+      "line"
+    ],
+    [
+      81,
+      "1.1.78",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "Yea, there thou makest me sad and makest me sin",
+      "line"
+    ],
+    [
+      82,
+      "1.1.79",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "In envy that my Lord Northumberland",
+      "line"
+    ],
+    [
+      83,
+      "1.1.80",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "Should be the father to so blest a son,",
+      "line"
+    ],
+    [
+      84,
+      "1.1.81",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "A son who is the theme of honours tongue;",
+      "line"
+    ],
+    [
+      85,
+      "1.1.82",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "Amongst a grove, the very straightest plant;",
+      "line"
+    ],
+    [
+      86,
+      "1.1.83",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "Who is sweet Fortunes minion and her pride:",
+      "line"
+    ],
+    [
+      87,
+      "1.1.84",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "Whilst I, by looking on the praise of him,",
+      "line"
+    ],
+    [
+      88,
+      "1.1.85",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "See riot and dishonour stain the brow",
+      "line"
+    ],
+    [
+      89,
+      "1.1.86",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "Of my young Harry. O that it could be proved",
+      "line"
+    ],
+    [
+      90,
+      "1.1.87",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "That some night-tripping fairy had exchanged",
+      "line"
+    ],
+    [
+      91,
+      "1.1.88",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "In cradle-clothes our children where they lay,",
+      "line"
+    ],
+    [
+      92,
+      "1.1.89",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "And calld mine Percy, his Plantagenet!",
+      "line"
+    ],
+    [
+      93,
+      "1.1.90",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "Then would I have his Harry, and he mine.",
+      "line"
+    ],
+    [
+      94,
+      "1.1.91",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "But let him from my thoughts. What think you, coz,",
+      "line"
+    ],
+    [
+      95,
+      "1.1.92",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "Of this young Percys pride? the prisoners,",
+      "line"
+    ],
+    [
+      96,
+      "1.1.93",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "Which he in this adventure hath surprised,",
+      "line"
+    ],
+    [
+      97,
+      "1.1.94",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "To his own use he keeps; and sends me word,",
+      "line"
+    ],
+    [
+      98,
+      "1.1.95",
+      "Henry IV",
+      "KING HENRY IV",
+      7,
+      "I shall have none but Mordake Earl of Fife.",
+      "line"
+    ],
+    [
+      99,
+      "1.1.96",
+      "Henry IV",
+      "WESTMORELAND",
+      8,
+      "This is his uncles teaching; this is Worcester,",
+      "line"
+    ],
+    [
+      100,
+      "1.1.97",
+      "Henry IV",
+      "WESTMORELAND",
+      8,
+      "Malevolent to you in all aspects;",
+      "line"
+    ],
+    [
+      101,
+      "1.1.98",
+      "Henry IV",
+      "WESTMORELAND",
+      8,
+      "Which makes him prune himself, and bristle up",
+      "line"
+    ],
+    [
+      102,
+      "1.1.99",
+      "Henry IV",
+      "WESTMORELAND",
+      8,
+      "The crest of youth against your dignity.",
+      "line"
+    ],
+    [
+      103,
+      "1.1.100",
+      "Henry IV",
+      "KING HENRY IV",
+      9,
+      "But I have sent for him to answer this;",
+      "line"
+    ],
+    [
+      104,
+      "1.1.101",
+      "Henry IV",
+      "KING HENRY IV",
+      9,
+      "And for this cause awhile we must neglect",
+      "line"
+    ],
+    [
+      105,
+      "1.1.102",
+      "Henry IV",
+      "KING HENRY IV",
+      9,
+      "Our holy purpose to Jerusalem.",
+      "line"
+    ],
+    [
+      106,
+      "1.1.103",
+      "Henry IV",
+      "KING HENRY IV",
+      9,
+      "Cousin, on Wednesday next our council we",
+      "line"
+    ],
+    [
+      107,
+      "1.1.104",
+      "Henry IV",
+      "KING HENRY IV",
+      9,
+      "Will hold at Windsor; so inform the lords:",
+      "line"
+    ],
+    [
+      108,
+      "1.1.105",
+      "Henry IV",
+      "KING HENRY IV",
+      9,
+      "But come yourself with speed to us again;",
+      "line"
+    ],
+    [
+      109,
+      "1.1.106",
+      "Henry IV",
+      "KING HENRY IV",
+      9,
+      "For more is to be said and to be done",
+      "line"
+    ],
+    [
+      110,
+      "1.1.107",
+      "Henry IV",
+      "KING HENRY IV",
+      9,
+      "Than out of anger can be uttered.",
+      "line"
+    ],
+    [
+      111,
+      "1.1.108",
+      "Henry IV",
+      "WESTMORELAND",
+      10,
+      "I will, my liege.",
+      "line"
+    ],
+    [
+      112,
+      "",
+      "Henry IV",
+      "WESTMORELAND",
+      10,
+      "Exeunt",
+      "line"
+    ],
+    [
+      113,
+      "",
+      "Henry IV",
+      "WESTMORELAND",
+      10,
+      "SCENE II. London. An apartment of the Princes.",
+      "scene"
+    ],
+    [
+      114,
+      "",
+      "Henry IV",
+      "WESTMORELAND",
+      10,
+      "Enter the PRINCE OF WALES and FALSTAFF",
+      "line"
+    ],
+    [
+      115,
+      "1.2.1",
+      "Henry IV",
+      "FALSTAFF",
+      1,
+      "Now, Hal, what time of day is it, lad?",
+      "line"
+    ],
+    [
+      116,
+      "1.2.2",
+      "Henry IV",
+      "PRINCE HENRY",
+      2,
+      "Thou art so fat-witted, with drinking of old sack",
+      "line"
+    ],
+    [
+      117,
+      "1.2.3",
+      "Henry IV",
+      "PRINCE HENRY",
+      2,
+      "and unbuttoning thee after supper and sleeping upon",
+      "line"
+    ],
+    [
+      118,
+      "1.2.4",
+      "Henry IV",
+      "PRINCE HENRY",
+      2,
+      "benches after noon, that thou hast forgotten to",
+      "line"
+    ],
+    [
+      119,
+      "1.2.5",
+      "Henry IV",
+      "PRINCE HENRY",
+      2,
+      "demand that truly which thou wouldst truly know.",
+      "line"
+    ],
+    [
+      120,
+      "1.2.6",
+      "Henry IV",
+      "PRINCE HENRY",
+      2,
+      "What a devil hast thou to do with the time of the",
+      "line"
+    ],
+    [
+      121,
+      "1.2.7",
+      "Henry IV",
+      "PRINCE HENRY",
+      2,
+      "day? Unless hours were cups of sack and minutes",
+      "line"
+    ],
+    [
+      122,
+      "1.2.8",
+      "Henry IV",
+      "PRINCE HENRY",
+      2,
+      "capons and clocks the tongues of bawds and dials the",
+      "line"
+    ],
+    [
+      123,
+      "1.2.9",
+      "Henry IV",
+      "PRINCE HENRY",
+      2,
+      "signs of leaping-houses and the blessed sun himself",
+      "line"
+    ],
+    [
+      124,
+      "1.2.10",
+      "Henry IV",
+      "PRINCE HENRY",
+      2,
+      "a fair hot wench in flame-coloured taffeta, I see no",
+      "line"
+    ],
+    [
+      125,
+      "1.2.11",
+      "Henry IV",
+      "PRINCE HENRY",
+      2,
+      "reason why thou shouldst be so superfluous to demand",
+      "line"
+    ],
+    [
+      126,
+      "1.2.12",
+      "Henry IV",
+      "PRINCE HENRY",
+      2,
+      "the time of the day.",
+      "line"
+    ],
+    [
+      127,
+      "1.2.13",
+      "Henry IV",
+      "FALSTAFF",
+      3,
+      "Indeed, you come near me now, Hal; for we that take",
+      "line"
+    ],
+    [
+      128,
+      "1.2.14",
+      "Henry IV",
+      "FALSTAFF",
+      3,
+      "purses go by the moon and the seven stars, and not",
+      "line"
+    ],
+    [
+      129,
+      "1.2.15",
+      "Henry IV",
+      "FALSTAFF",
+      3,
+      "by Phoebus, he,that wandering knight so fair. And,",
+      "line"
+    ],
+    [
+      130,
+      "1.2.16",
+      "Henry IV",
+      "FALSTAFF",
+      3,
+      "I prithee, sweet wag, when thou art king, as, God",
+      "line"
+    ],
+    [
+      131,
+      "1.2.17",
+      "Henry IV",
+      "FALSTAFF",
+      3,
+      "save thy grace,--majesty I should say, for grace",
+      "line"
+    ],
+    [
+      132,
+      "1.2.18",
+      "Henry IV",
+      "FALSTAFF",
+      3,
+      "thou wilt have none,--",
+      "line"
+    ],
+    [
+      133,
+      "1.2.19",
+      "Henry IV",
+      "PRINCE HENRY",
+      4,
+      "What, none?",
+      "line"
+    ],
+    [
+      134,
+      "1.2.20",
+      "Henry IV",
+      "FALSTAFF",
+      5,
+      "No, by my troth, not so much as will serve to",
+      "line"
+    ],
+    [
+      135,
+      "1.2.21",
+      "Henry IV",
+      "FALSTAFF",
+      5,
+      "prologue to an egg and butter.",
+      "line"
+    ],
+    [
+      136,
+      "1.2.22",
+      "Henry IV",
+      "PRINCE HENRY",
+      6,
+      "Well, how then? come, roundly, roundly.",
+      "line"
+    ],
+    [
+      137,
+      "1.2.23",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "Marry, then, sweet wag, when thou art king, let not",
+      "line"
+    ],
+    [
+      138,
+      "1.2.24",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "us that are squires of the nights body be called",
+      "line"
+    ],
+    [
+      139,
+      "1.2.25",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "thieves of the days beauty: let us be Dianas",
+      "line"
+    ],
+    [
+      140,
+      "1.2.26",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "foresters, gentlemen of the shade, minions of the",
+      "line"
+    ],
+    [
+      141,
+      "1.2.27",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "moon; and let men say we be men of good government,",
+      "line"
+    ],
+    [
+      142,
+      "1.2.28",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "being governed, as the sea is, by our noble and",
+      "line"
+    ],
+    [
+      143,
+      "1.2.29",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "chaste mistress the moon, under whose countenance we steal.",
+      "line"
+    ],
+    [
+      144,
+      "1.2.30",
+      "Henry IV",
+      "PRINCE HENRY",
+      8,
+      "Thou sayest well, and it holds well too; for the",
+      "line"
+    ],
+    [
+      145,
+      "1.2.31",
+      "Henry IV",
+      "PRINCE HENRY",
+      8,
+      "fortune of us that are the moons men doth ebb and",
+      "line"
+    ],
+    [
+      146,
+      "1.2.32",
+      "Henry IV",
+      "PRINCE HENRY",
+      8,
+      "flow like the sea, being governed, as the sea is,",
+      "line"
+    ],
+    [
+      147,
+      "1.2.33",
+      "Henry IV",
+      "PRINCE HENRY",
+      8,
+      "by the moon. As, for proof, now: a purse of gold",
+      "line"
+    ],
+    [
+      148,
+      "1.2.34",
+      "Henry IV",
+      "PRINCE HENRY",
+      8,
+      "most resolutely snatched on Monday night and most",
+      "line"
+    ],
+    [
+      149,
+      "1.2.35",
+      "Henry IV",
+      "PRINCE HENRY",
+      8,
+      "dissolutely spent on Tuesday morning; got with",
+      "line"
+    ],
+    [
+      150,
+      "1.2.36",
+      "Henry IV",
+      "PRINCE HENRY",
+      8,
+      "swearing Lay by and spent with crying Bring in;",
+      "line"
+    ],
+    [
+      151,
+      "1.2.37",
+      "Henry IV",
+      "PRINCE HENRY",
+      8,
+      "now in as low an ebb as the foot of the ladder",
+      "line"
+    ],
+    [
+      152,
+      "1.2.38",
+      "Henry IV",
+      "PRINCE HENRY",
+      8,
+      "and by and by in as high a flow as the ridge of the gallows.",
+      "line"
+    ],
+    [
+      153,
+      "1.2.39",
+      "Henry IV",
+      "FALSTAFF",
+      9,
+      "By the Lord, thou sayest true, lad. And is not my",
+      "line"
+    ],
+    [
+      154,
+      "1.2.40",
+      "Henry IV",
+      "FALSTAFF",
+      9,
+      "hostess of the tavern a most sweet wench?",
+      "line"
+    ],
+    [
+      155,
+      "1.2.41",
+      "Henry IV",
+      "PRINCE HENRY",
+      10,
+      "As the honey of Hybla, my old lad of the castle. And",
+      "line"
+    ],
+    [
+      156,
+      "1.2.42",
+      "Henry IV",
+      "PRINCE HENRY",
+      10,
+      "is not a buff jerkin a most sweet robe of durance?",
+      "line"
+    ],
+    [
+      157,
+      "1.2.43",
+      "Henry IV",
+      "FALSTAFF",
+      11,
+      "How now, how now, mad wag! what, in thy quips and",
+      "line"
+    ],
+    [
+      158,
+      "1.2.44",
+      "Henry IV",
+      "FALSTAFF",
+      11,
+      "thy quiddities? what a plague have I to do with a",
+      "line"
+    ],
+    [
+      159,
+      "1.2.45",
+      "Henry IV",
+      "FALSTAFF",
+      11,
+      "buff jerkin?",
+      "line"
+    ],
+    [
+      160,
+      "1.2.46",
+      "Henry IV",
+      "PRINCE HENRY",
+      12,
+      "Why, what a pox have I to do with my hostess of the tavern?",
+      "line"
+    ],
+    [
+      161,
+      "1.2.47",
+      "Henry IV",
+      "FALSTAFF",
+      13,
+      "Well, thou hast called her to a reckoning many a",
+      "line"
+    ],
+    [
+      162,
+      "1.2.48",
+      "Henry IV",
+      "FALSTAFF",
+      13,
+      "time and oft.",
+      "line"
+    ],
+    [
+      163,
+      "1.2.49",
+      "Henry IV",
+      "PRINCE HENRY",
+      14,
+      "Did I ever call for thee to pay thy part?",
+      "line"
+    ],
+    [
+      164,
+      "1.2.50",
+      "Henry IV",
+      "FALSTAFF",
+      15,
+      "No; Ill give thee thy due, thou hast paid all there.",
+      "line"
+    ],
+    [
+      165,
+      "1.2.51",
+      "Henry IV",
+      "PRINCE HENRY",
+      16,
+      "Yea, and elsewhere, so far as my coin would stretch;",
+      "line"
+    ],
+    [
+      166,
+      "1.2.52",
+      "Henry IV",
+      "PRINCE HENRY",
+      16,
+      "and where it would not, I have used my credit.",
+      "line"
+    ],
+    [
+      167,
+      "1.2.53",
+      "Henry IV",
+      "FALSTAFF",
+      17,
+      "Yea, and so used it that were it not here apparent",
+      "line"
+    ],
+    [
+      168,
+      "1.2.54",
+      "Henry IV",
+      "FALSTAFF",
+      17,
+      "that thou art heir apparent--But, I prithee, sweet",
+      "line"
+    ],
+    [
+      169,
+      "1.2.55",
+      "Henry IV",
+      "FALSTAFF",
+      17,
+      "wag, shall there be gallows standing in England when",
+      "line"
+    ],
+    [
+      170,
+      "1.2.56",
+      "Henry IV",
+      "FALSTAFF",
+      17,
+      "thou art king? and resolution thus fobbed as it is",
+      "line"
+    ],
+    [
+      171,
+      "1.2.57",
+      "Henry IV",
+      "FALSTAFF",
+      17,
+      "with the rusty curb of old father antic the law? Do",
+      "line"
+    ],
+    [
+      172,
+      "1.2.58",
+      "Henry IV",
+      "FALSTAFF",
+      17,
+      "not thou, when thou art king, hang a thief.",
+      "line"
+    ],
+    [
+      173,
+      "1.2.59",
+      "Henry IV",
+      "PRINCE HENRY",
+      18,
+      "No; thou shalt.",
+      "line"
+    ],
+    [
+      174,
+      "1.2.60",
+      "Henry IV",
+      "FALSTAFF",
+      19,
+      "Shall I? O rare! By the Lord, Ill be a brave judge.",
+      "line"
+    ],
+    [
+      175,
+      "1.2.61",
+      "Henry IV",
+      "PRINCE HENRY",
+      20,
+      "Thou judgest false already: I mean, thou shalt have",
+      "line"
+    ],
+    [
+      176,
+      "1.2.62",
+      "Henry IV",
+      "PRINCE HENRY",
+      20,
+      "the hanging of the thieves and so become a rare hangman.",
+      "line"
+    ],
+    [
+      177,
+      "1.2.63",
+      "Henry IV",
+      "FALSTAFF",
+      21,
+      "Well, Hal, well; and in some sort it jumps with my",
+      "line"
+    ],
+    [
+      178,
+      "1.2.64",
+      "Henry IV",
+      "FALSTAFF",
+      21,
+      "humour as well as waiting in the court, I can tell",
+      "line"
+    ],
+    [
+      179,
+      "1.2.65",
+      "Henry IV",
+      "FALSTAFF",
+      21,
+      "you.",
+      "line"
+    ],
+    [
+      180,
+      "1.2.66",
+      "Henry IV",
+      "PRINCE HENRY",
+      22,
+      "For obtaining of suits?",
+      "line"
+    ],
+    [
+      181,
+      "1.2.67",
+      "Henry IV",
+      "FALSTAFF",
+      23,
+      "Yea, for obtaining of suits, whereof the hangman",
+      "line"
+    ],
+    [
+      182,
+      "1.2.68",
+      "Henry IV",
+      "FALSTAFF",
+      23,
+      "hath no lean wardrobe. Sblood, I am as melancholy",
+      "line"
+    ],
+    [
+      183,
+      "1.2.69",
+      "Henry IV",
+      "FALSTAFF",
+      23,
+      "as a gib cat or a lugged bear.",
+      "line"
+    ],
+    [
+      184,
+      "1.2.70",
+      "Henry IV",
+      "PRINCE HENRY",
+      24,
+      "Or an old lion, or a lovers lute.",
+      "line"
+    ],
+    [
+      185,
+      "1.2.71",
+      "Henry IV",
+      "FALSTAFF",
+      25,
+      "Yea, or the drone of a Lincolnshire bagpipe.",
+      "line"
+    ],
+    [
+      186,
+      "1.2.72",
+      "Henry IV",
+      "PRINCE HENRY",
+      26,
+      "What sayest thou to a hare, or the melancholy of",
+      "line"
+    ],
+    [
+      187,
+      "1.2.73",
+      "Henry IV",
+      "PRINCE HENRY",
+      26,
+      "Moor-ditch?",
+      "line"
+    ],
+    [
+      188,
+      "1.2.74",
+      "Henry IV",
+      "FALSTAFF",
+      27,
+      "Thou hast the most unsavoury similes and art indeed",
+      "line"
+    ],
+    [
+      189,
+      "1.2.75",
+      "Henry IV",
+      "FALSTAFF",
+      27,
+      "the most comparative, rascalliest, sweet young",
+      "line"
+    ],
+    [
+      190,
+      "1.2.76",
+      "Henry IV",
+      "FALSTAFF",
+      27,
+      "prince. But, Hal, I prithee, trouble me no more",
+      "line"
+    ],
+    [
+      191,
+      "1.2.77",
+      "Henry IV",
+      "FALSTAFF",
+      27,
+      "with vanity. I would to God thou and I knew where a",
+      "line"
+    ],
+    [
+      192,
+      "1.2.78",
+      "Henry IV",
+      "FALSTAFF",
+      27,
+      "commodity of good names were to be bought. An old",
+      "line"
+    ],
+    [
+      193,
+      "1.2.79",
+      "Henry IV",
+      "FALSTAFF",
+      27,
+      "lord of the council rated me the other day in the",
+      "line"
+    ],
+    [
+      194,
+      "1.2.80",
+      "Henry IV",
+      "FALSTAFF",
+      27,
+      "street about you, sir, but I marked him not; and yet",
+      "line"
+    ],
+    [
+      195,
+      "1.2.81",
+      "Henry IV",
+      "FALSTAFF",
+      27,
+      "he talked very wisely, but I regarded him not; and",
+      "line"
+    ],
+    [
+      196,
+      "1.2.82",
+      "Henry IV",
+      "FALSTAFF",
+      27,
+      "yet he talked wisely, and in the street too.",
+      "line"
+    ],
+    [
+      197,
+      "1.2.83",
+      "Henry IV",
+      "PRINCE HENRY",
+      28,
+      "Thou didst well; for wisdom cries out in the",
+      "line"
+    ],
+    [
+      198,
+      "1.2.84",
+      "Henry IV",
+      "PRINCE HENRY",
+      28,
+      "streets, and no man regards it.",
+      "line"
+    ],
+    [
+      199,
+      "1.2.85",
+      "Henry IV",
+      "FALSTAFF",
+      29,
+      "O, thou hast damnable iteration and art indeed able",
+      "line"
+    ],
+    [
+      200,
+      "1.2.86",
+      "Henry IV",
+      "FALSTAFF",
+      29,
+      "to corrupt a saint. Thou hast done much harm upon",
+      "line"
+    ],
+    [
+      201,
+      "1.2.87",
+      "Henry IV",
+      "FALSTAFF",
+      29,
+      "me, Hal; God forgive thee for it! Before I knew",
+      "line"
+    ],
+    [
+      202,
+      "1.2.88",
+      "Henry IV",
+      "FALSTAFF",
+      29,
+      "thee, Hal, I knew nothing; and now am I, if a man",
+      "line"
+    ],
+    [
+      203,
+      "1.2.89",
+      "Henry IV",
+      "FALSTAFF",
+      29,
+      "should speak truly, little better than one of the",
+      "line"
+    ],
+    [
+      204,
+      "1.2.90",
+      "Henry IV",
+      "FALSTAFF",
+      29,
+      "wicked. I must give over this life, and I will give",
+      "line"
+    ],
+    [
+      205,
+      "1.2.91",
+      "Henry IV",
+      "FALSTAFF",
+      29,
+      "it over: by the Lord, and I do not, I am a villain:",
+      "line"
+    ],
+    [
+      206,
+      "1.2.92",
+      "Henry IV",
+      "FALSTAFF",
+      29,
+      "Ill be damned for never a kings son in",
+      "line"
+    ],
+    [
+      207,
+      "1.2.93",
+      "Henry IV",
+      "FALSTAFF",
+      29,
+      "Christendom.",
+      "line"
+    ],
+    [
+      208,
+      "1.2.94",
+      "Henry IV",
+      "PRINCE HENRY",
+      30,
+      "Where shall we take a purse tomorrow, Jack?",
+      "line"
+    ],
+    [
+      209,
+      "1.2.95",
+      "Henry IV",
+      "FALSTAFF",
+      31,
+      "Zounds, where thou wilt, lad; Ill make one; an I",
+      "line"
+    ],
+    [
+      210,
+      "1.2.96",
+      "Henry IV",
+      "FALSTAFF",
+      31,
+      "do not, call me villain and baffle me.",
+      "line"
+    ],
+    [
+      211,
+      "1.2.97",
+      "Henry IV",
+      "PRINCE HENRY",
+      32,
+      "I see a good amendment of life in thee; from praying",
+      "line"
+    ],
+    [
+      212,
+      "1.2.98",
+      "Henry IV",
+      "PRINCE HENRY",
+      32,
+      "to purse-taking.",
+      "line"
+    ],
+    [
+      213,
+      "1.2.99",
+      "Henry IV",
+      "FALSTAFF",
+      33,
+      "Why, Hal, tis my vocation, Hal; tis no sin for a",
+      "line"
+    ],
+    [
+      214,
+      "1.2.100",
+      "Henry IV",
+      "FALSTAFF",
+      33,
+      "man to labour in his vocation.",
+      "line"
+    ],
+    [
+      215,
+      "",
+      "Henry IV",
+      "FALSTAFF",
+      33,
+      "Enter POINS",
+      "line"
+    ],
+    [
+      216,
+      "1.2.101",
+      "Henry IV",
+      "FALSTAFF",
+      33,
+      "Poins! Now shall we know if Gadshill have set a",
+      "line"
+    ],
+    [
+      217,
+      "1.2.102",
+      "Henry IV",
+      "FALSTAFF",
+      33,
+      "match. O, if men were to be saved by merit, what",
+      "line"
+    ],
+    [
+      218,
+      "1.2.103",
+      "Henry IV",
+      "FALSTAFF",
+      33,
+      "hole in hell were hot enough for him? This is the",
+      "line"
+    ],
+    [
+      219,
+      "1.2.104",
+      "Henry IV",
+      "FALSTAFF",
+      33,
+      "most omnipotent villain that ever cried Stand to",
+      "line"
+    ],
+    [
+      220,
+      "1.2.105",
+      "Henry IV",
+      "FALSTAFF",
+      33,
+      "a true man.",
+      "line"
+    ],
+    [
+      221,
+      "1.2.106",
+      "Henry IV",
+      "PRINCE HENRY",
+      34,
+      "Good morrow, Ned.",
+      "line"
+    ],
+    [
+      222,
+      "1.2.107",
+      "Henry IV",
+      "POINS",
+      35,
+      "Good morrow, sweet Hal. What says Monsieur Remorse?",
+      "line"
+    ],
+    [
+      223,
+      "1.2.108",
+      "Henry IV",
+      "POINS",
+      35,
+      "what says Sir John Sack and Sugar? Jack! how",
+      "line"
+    ],
+    [
+      224,
+      "1.2.109",
+      "Henry IV",
+      "POINS",
+      35,
+      "agrees the devil and thee about thy soul, that thou",
+      "line"
+    ],
+    [
+      225,
+      "1.2.110",
+      "Henry IV",
+      "POINS",
+      35,
+      "soldest him on Good-Friday last for a cup of Madeira",
+      "line"
+    ],
+    [
+      226,
+      "1.2.111",
+      "Henry IV",
+      "POINS",
+      35,
+      "and a cold capons leg?",
+      "line"
+    ],
+    [
+      227,
+      "1.2.112",
+      "Henry IV",
+      "PRINCE HENRY",
+      36,
+      "Sir John stands to his word, the devil shall have",
+      "line"
+    ],
+    [
+      228,
+      "1.2.113",
+      "Henry IV",
+      "PRINCE HENRY",
+      36,
+      "his bargain; for he was never yet a breaker of",
+      "line"
+    ],
+    [
+      229,
+      "1.2.114",
+      "Henry IV",
+      "PRINCE HENRY",
+      36,
+      "proverbs: he will give the devil his due.",
+      "line"
+    ],
+    [
+      230,
+      "1.2.115",
+      "Henry IV",
+      "POINS",
+      37,
+      "Then art thou damned for keeping thy word with the devil.",
+      "line"
+    ],
+    [
+      231,
+      "1.2.116",
+      "Henry IV",
+      "PRINCE HENRY",
+      38,
+      "Else he had been damned for cozening the devil.",
+      "line"
+    ],
+    [
+      232,
+      "1.2.117",
+      "Henry IV",
+      "POINS",
+      39,
+      "But, my lads, my lads, to-morrow morning, by four",
+      "line"
+    ],
+    [
+      233,
+      "1.2.118",
+      "Henry IV",
+      "POINS",
+      39,
+      "oclock, early at Gadshill! there are pilgrims going",
+      "line"
+    ],
+    [
+      234,
+      "1.2.119",
+      "Henry IV",
+      "POINS",
+      39,
+      "to Canterbury with rich offerings, and traders",
+      "line"
+    ],
+    [
+      235,
+      "1.2.120",
+      "Henry IV",
+      "POINS",
+      39,
+      "riding to London with fat purses: I have vizards",
+      "line"
+    ],
+    [
+      236,
+      "1.2.121",
+      "Henry IV",
+      "POINS",
+      39,
+      "for you all; you have horses for yourselves:",
+      "line"
+    ],
+    [
+      237,
+      "1.2.122",
+      "Henry IV",
+      "POINS",
+      39,
+      "Gadshill lies to-night in Rochester: I have bespoke",
+      "line"
+    ],
+    [
+      238,
+      "1.2.123",
+      "Henry IV",
+      "POINS",
+      39,
+      "supper to-morrow night in Eastcheap: we may do it",
+      "line"
+    ],
+    [
+      239,
+      "1.2.124",
+      "Henry IV",
+      "POINS",
+      39,
+      "as secure as sleep. If you will go, I will stuff",
+      "line"
+    ],
+    [
+      240,
+      "1.2.125",
+      "Henry IV",
+      "POINS",
+      39,
+      "your purses full of crowns; if you will not, tarry",
+      "line"
+    ],
+    [
+      241,
+      "1.2.126",
+      "Henry IV",
+      "POINS",
+      39,
+      "at home and be hanged.",
+      "line"
+    ],
+    [
+      242,
+      "1.2.127",
+      "Henry IV",
+      "FALSTAFF",
+      40,
+      "Hear ye, Yedward; if I tarry at home and go not,",
+      "line"
+    ],
+    [
+      243,
+      "1.2.128",
+      "Henry IV",
+      "FALSTAFF",
+      40,
+      "Ill hang you for going.",
+      "line"
+    ],
+    [
+      244,
+      "1.2.129",
+      "Henry IV",
+      "POINS",
+      41,
+      "You will, chops?",
+      "line"
+    ],
+    [
+      245,
+      "1.2.130",
+      "Henry IV",
+      "FALSTAFF",
+      42,
+      "Hal, wilt thou make one?",
+      "line"
+    ],
+    [
+      246,
+      "1.2.131",
+      "Henry IV",
+      "PRINCE HENRY",
+      43,
+      "Who, I rob? I a thief? not I, by my faith.",
+      "line"
+    ],
+    [
+      247,
+      "1.2.132",
+      "Henry IV",
+      "FALSTAFF",
+      44,
+      "Theres neither honesty, manhood, nor good",
+      "line"
+    ],
+    [
+      248,
+      "1.2.133",
+      "Henry IV",
+      "FALSTAFF",
+      44,
+      "fellowship in thee, nor thou camest not of the blood",
+      "line"
+    ],
+    [
+      249,
+      "1.2.134",
+      "Henry IV",
+      "FALSTAFF",
+      44,
+      "royal, if thou darest not stand for ten shillings.",
+      "line"
+    ],
+    [
+      250,
+      "1.2.135",
+      "Henry IV",
+      "PRINCE HENRY",
+      45,
+      "Well then, once in my days Ill be a madcap.",
+      "line"
+    ],
+    [
+      251,
+      "1.2.136",
+      "Henry IV",
+      "FALSTAFF",
+      46,
+      "Why, thats well said.",
+      "line"
+    ],
+    [
+      252,
+      "1.2.137",
+      "Henry IV",
+      "PRINCE HENRY",
+      47,
+      "Well, come what will, Ill tarry at home.",
+      "line"
+    ],
+    [
+      253,
+      "1.2.138",
+      "Henry IV",
+      "FALSTAFF",
+      48,
+      "By the Lord, Ill be a traitor then, when thou art king.",
+      "line"
+    ],
+    [
+      254,
+      "1.2.139",
+      "Henry IV",
+      "PRINCE HENRY",
+      49,
+      "I care not.",
+      "line"
+    ],
+    [
+      255,
+      "1.2.140",
+      "Henry IV",
+      "POINS",
+      50,
+      "Sir John, I prithee, leave the prince and me alone:",
+      "line"
+    ],
+    [
+      256,
+      "1.2.141",
+      "Henry IV",
+      "POINS",
+      50,
+      "I will lay him down such reasons for this adventure",
+      "line"
+    ],
+    [
+      257,
+      "1.2.142",
+      "Henry IV",
+      "POINS",
+      50,
+      "that he shall go.",
+      "line"
+    ],
+    [
+      258,
+      "1.2.143",
+      "Henry IV",
+      "FALSTAFF",
+      51,
+      "Well, God give thee the spirit of persuasion and him",
+      "line"
+    ],
+    [
+      259,
+      "1.2.144",
+      "Henry IV",
+      "FALSTAFF",
+      51,
+      "the ears of profiting, that what thou speakest may",
+      "line"
+    ],
+    [
+      260,
+      "1.2.145",
+      "Henry IV",
+      "FALSTAFF",
+      51,
+      "move and what he hears may be believed, that the",
+      "line"
+    ],
+    [
+      261,
+      "1.2.146",
+      "Henry IV",
+      "FALSTAFF",
+      51,
+      "true prince may, for recreation sake, prove a false",
+      "line"
+    ],
+    [
+      262,
+      "1.2.147",
+      "Henry IV",
+      "FALSTAFF",
+      51,
+      "thief; for the poor abuses of the time want",
+      "line"
+    ],
+    [
+      263,
+      "1.2.148",
+      "Henry IV",
+      "FALSTAFF",
+      51,
+      "countenance. Farewell: you shall find me in Eastcheap.",
+      "line"
+    ],
+    [
+      264,
+      "1.2.149",
+      "Henry IV",
+      "PRINCE HENRY",
+      52,
+      "Farewell, thou latter spring! farewell, All-hallown summer!",
+      "line"
+    ],
+    [
+      265,
+      "",
+      "Henry IV",
+      "PRINCE HENRY",
+      52,
+      "Exit Falstaff",
+      "line"
+    ],
+    [
+      266,
+      "1.2.150",
+      "Henry IV",
+      "POINS",
+      53,
+      "Now, my good sweet honey lord, ride with us",
+      "line"
+    ],
+    [
+      267,
+      "1.2.151",
+      "Henry IV",
+      "POINS",
+      53,
+      "to-morrow: I have a jest to execute that I cannot",
+      "line"
+    ],
+    [
+      268,
+      "1.2.152",
+      "Henry IV",
+      "POINS",
+      53,
+      "manage alone. Falstaff, Bardolph, Peto and Gadshill",
+      "line"
+    ],
+    [
+      269,
+      "1.2.153",
+      "Henry IV",
+      "POINS",
+      53,
+      "shall rob those men that we have already waylaid:",
+      "line"
+    ],
+    [
+      270,
+      "1.2.154",
+      "Henry IV",
+      "POINS",
+      53,
+      "yourself and I will not be there; and when they",
+      "line"
+    ],
+    [
+      271,
+      "1.2.155",
+      "Henry IV",
+      "POINS",
+      53,
+      "have the booty, if you and I do not rob them, cut",
+      "line"
+    ],
+    [
+      272,
+      "1.2.156",
+      "Henry IV",
+      "POINS",
+      53,
+      "this head off from my shoulders.",
+      "line"
+    ],
+    [
+      273,
+      "1.2.157",
+      "Henry IV",
+      "PRINCE HENRY",
+      54,
+      "How shall we part with them in setting forth?",
+      "line"
+    ],
+    [
+      274,
+      "1.2.158",
+      "Henry IV",
+      "POINS",
+      55,
+      "Why, we will set forth before or after them, and",
+      "line"
+    ],
+    [
+      275,
+      "1.2.159",
+      "Henry IV",
+      "POINS",
+      55,
+      "appoint them a place of meeting, wherein it is at",
+      "line"
+    ],
+    [
+      276,
+      "1.2.160",
+      "Henry IV",
+      "POINS",
+      55,
+      "our pleasure to fail, and then will they adventure",
+      "line"
+    ],
+    [
+      277,
+      "1.2.161",
+      "Henry IV",
+      "POINS",
+      55,
+      "upon the exploit themselves; which they shall have",
+      "line"
+    ],
+    [
+      278,
+      "1.2.162",
+      "Henry IV",
+      "POINS",
+      55,
+      "no sooner achieved, but well set upon them.",
+      "line"
+    ],
+    [
+      279,
+      "1.2.163",
+      "Henry IV",
+      "PRINCE HENRY",
+      56,
+      "Yea, but tis like that they will know us by our",
+      "line"
+    ],
+    [
+      280,
+      "1.2.164",
+      "Henry IV",
+      "PRINCE HENRY",
+      56,
+      "horses, by our habits and by every other",
+      "line"
+    ],
+    [
+      281,
+      "1.2.165",
+      "Henry IV",
+      "PRINCE HENRY",
+      56,
+      "appointment, to be ourselves.",
+      "line"
+    ],
+    [
+      282,
+      "1.2.166",
+      "Henry IV",
+      "POINS",
+      57,
+      "Tut! our horses they shall not see: Ill tie them",
+      "line"
+    ],
+    [
+      283,
+      "1.2.167",
+      "Henry IV",
+      "POINS",
+      57,
+      "in the wood; our vizards we will change after we",
+      "line"
+    ],
+    [
+      284,
+      "1.2.168",
+      "Henry IV",
+      "POINS",
+      57,
+      "leave them: and, sirrah, I have cases of buckram",
+      "line"
+    ],
+    [
+      285,
+      "1.2.169",
+      "Henry IV",
+      "POINS",
+      57,
+      "for the nonce, to immask our noted outward garments.",
+      "line"
+    ],
+    [
+      286,
+      "1.2.170",
+      "Henry IV",
+      "PRINCE HENRY",
+      58,
+      "Yea, but I doubt they will be too hard for us.",
+      "line"
+    ],
+    [
+      287,
+      "1.2.171",
+      "Henry IV",
+      "POINS",
+      59,
+      "Well, for two of them, I know them to be as",
+      "line"
+    ],
+    [
+      288,
+      "1.2.172",
+      "Henry IV",
+      "POINS",
+      59,
+      "true-bred cowards as ever turned back; and for the",
+      "line"
+    ],
+    [
+      289,
+      "1.2.173",
+      "Henry IV",
+      "POINS",
+      59,
+      "third, if he fight longer than he sees reason, Ill",
+      "line"
+    ],
+    [
+      290,
+      "1.2.174",
+      "Henry IV",
+      "POINS",
+      59,
+      "forswear arms. The virtue of this jest will be, the",
+      "line"
+    ],
+    [
+      291,
+      "1.2.175",
+      "Henry IV",
+      "POINS",
+      59,
+      "incomprehensible lies that this same fat rogue will",
+      "line"
+    ],
+    [
+      292,
+      "1.2.176",
+      "Henry IV",
+      "POINS",
+      59,
+      "tell us when we meet at supper: how thirty, at",
+      "line"
+    ],
+    [
+      293,
+      "1.2.177",
+      "Henry IV",
+      "POINS",
+      59,
+      "least, he fought with; what wards, what blows, what",
+      "line"
+    ],
+    [
+      294,
+      "1.2.178",
+      "Henry IV",
+      "POINS",
+      59,
+      "extremities he endured; and in the reproof of this",
+      "line"
+    ],
+    [
+      295,
+      "1.2.179",
+      "Henry IV",
+      "POINS",
+      59,
+      "lies the jest.",
+      "line"
+    ],
+    [
+      296,
+      "1.2.180",
+      "Henry IV",
+      "PRINCE HENRY",
+      60,
+      "Well, Ill go with thee: provide us all things",
+      "line"
+    ],
+    [
+      297,
+      "1.2.181",
+      "Henry IV",
+      "PRINCE HENRY",
+      60,
+      "necessary and meet me to-morrow night in Eastcheap;",
+      "line"
+    ],
+    [
+      298,
+      "1.2.182",
+      "Henry IV",
+      "PRINCE HENRY",
+      60,
+      "there Ill sup. Farewell.",
+      "line"
+    ],
+    [
+      299,
+      "1.2.183",
+      "Henry IV",
+      "POINS",
+      61,
+      "Farewell, my lord.",
+      "line"
+    ],
+    [
+      300,
+      "",
+      "Henry IV",
+      "POINS",
+      61,
+      "Exit Poins",
+      "line"
+    ],
+    [
+      301,
+      "1.2.184",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "I know you all, and will awhile uphold",
+      "line"
+    ],
+    [
+      302,
+      "1.2.185",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "The unyoked humour of your idleness:",
+      "line"
+    ],
+    [
+      303,
+      "1.2.186",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "Yet herein will I imitate the sun,",
+      "line"
+    ],
+    [
+      304,
+      "1.2.187",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "Who doth permit the base contagious clouds",
+      "line"
+    ],
+    [
+      305,
+      "1.2.188",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "To smother up his beauty from the world,",
+      "line"
+    ],
+    [
+      306,
+      "1.2.189",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "That, when he please again to be himself,",
+      "line"
+    ],
+    [
+      307,
+      "1.2.190",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "Being wanted, he may be more wonderd at,",
+      "line"
+    ],
+    [
+      308,
+      "1.2.191",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "By breaking through the foul and ugly mists",
+      "line"
+    ],
+    [
+      309,
+      "1.2.192",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "Of vapours that did seem to strangle him.",
+      "line"
+    ],
+    [
+      310,
+      "1.2.193",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "If all the year were playing holidays,",
+      "line"
+    ],
+    [
+      311,
+      "1.2.194",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "To sport would be as tedious as to work;",
+      "line"
+    ],
+    [
+      312,
+      "1.2.195",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "But when they seldom come, they wishd for come,",
+      "line"
+    ],
+    [
+      313,
+      "1.2.196",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "And nothing pleaseth but rare accidents.",
+      "line"
+    ],
+    [
+      314,
+      "1.2.197",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "So, when this loose behavior I throw off",
+      "line"
+    ],
+    [
+      315,
+      "1.2.198",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "And pay the debt I never promised,",
+      "line"
+    ],
+    [
+      316,
+      "1.2.199",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "By how much better than my word I am,",
+      "line"
+    ],
+    [
+      317,
+      "1.2.200",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "By so much shall I falsify mens hopes;",
+      "line"
+    ],
+    [
+      318,
+      "1.2.201",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "And like bright metal on a sullen ground,",
+      "line"
+    ],
+    [
+      319,
+      "1.2.202",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "My reformation, glittering oer my fault,",
+      "line"
+    ],
+    [
+      320,
+      "1.2.203",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "Shall show more goodly and attract more eyes",
+      "line"
+    ],
+    [
+      321,
+      "1.2.204",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "Than that which hath no foil to set it off.",
+      "line"
+    ],
+    [
+      322,
+      "1.2.205",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "Ill so offend, to make offence a skill;",
+      "line"
+    ],
+    [
+      323,
+      "1.2.206",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "Redeeming time when men think least I will.",
+      "line"
+    ],
+    [
+      324,
+      "",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "Exit",
+      "line"
+    ],
+    [
+      325,
+      "",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "SCENE III. London. The palace.",
+      "scene"
+    ],
+    [
+      326,
+      "",
+      "Henry IV",
+      "PRINCE HENRY",
+      62,
+      "Enter the KING, NORTHUMBERLAND, WORCESTER, HOTSPUR, SIR WALTER BLUNT, with others",
+      "line"
+    ],
+    [
+      327,
+      "1.3.1",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "My blood hath been too cold and temperate,",
+      "line"
+    ],
+    [
+      328,
+      "1.3.2",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Unapt to stir at these indignities,",
+      "line"
+    ],
+    [
+      329,
+      "1.3.3",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "And you have found me; for accordingly",
+      "line"
+    ],
+    [
+      330,
+      "1.3.4",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "You tread upon my patience: but be sure",
+      "line"
+    ],
+    [
+      331,
+      "1.3.5",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "I will from henceforth rather be myself,",
+      "line"
+    ],
+    [
+      332,
+      "1.3.6",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Mighty and to be feard, than my condition;",
+      "line"
+    ],
+    [
+      333,
+      "1.3.7",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Which hath been smooth as oil, soft as young down,",
+      "line"
+    ],
+    [
+      334,
+      "1.3.8",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "And therefore lost that title of respect",
+      "line"
+    ],
+    [
+      335,
+      "1.3.9",
+      "Henry IV",
+      "KING HENRY IV",
+      1,
+      "Which the proud soul neer pays but to the proud.",
+      "line"
+    ],
+    [
+      336,
+      "1.3.10",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      2,
+      "Our house, my sovereign liege, little deserves",
+      "line"
+    ],
+    [
+      337,
+      "1.3.11",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      2,
+      "The scourge of greatness to be used on it;",
+      "line"
+    ],
+    [
+      338,
+      "1.3.12",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      2,
+      "And that same greatness too which our own hands",
+      "line"
+    ],
+    [
+      339,
+      "1.3.13",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      2,
+      "Have holp to make so portly.",
+      "line"
+    ],
+    [
+      340,
+      "1.3.14",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      3,
+      "My lord.--",
+      "line"
+    ],
+    [
+      341,
+      "1.3.15",
+      "Henry IV",
+      "KING HENRY IV",
+      4,
+      "Worcester, get thee gone; for I do see",
+      "line"
+    ],
+    [
+      342,
+      "1.3.16",
+      "Henry IV",
+      "KING HENRY IV",
+      4,
+      "Danger and disobedience in thine eye:",
+      "line"
+    ],
+    [
+      343,
+      "1.3.17",
+      "Henry IV",
+      "KING HENRY IV",
+      4,
+      "O, sir, your presence is too bold and peremptory,",
+      "line"
+    ],
+    [
+      344,
+      "1.3.18",
+      "Henry IV",
+      "KING HENRY IV",
+      4,
+      "And majesty might never yet endure",
+      "line"
+    ],
+    [
+      345,
+      "1.3.19",
+      "Henry IV",
+      "KING HENRY IV",
+      4,
+      "The moody frontier of a servant brow.",
+      "line"
+    ],
+    [
+      346,
+      "1.3.20",
+      "Henry IV",
+      "KING HENRY IV",
+      4,
+      "You have good leave to leave us: when we need",
+      "line"
+    ],
+    [
+      347,
+      "1.3.21",
+      "Henry IV",
+      "KING HENRY IV",
+      4,
+      "Your use and counsel, we shall send for you.",
+      "line"
+    ],
+    [
+      348,
+      "",
+      "Henry IV",
+      "KING HENRY IV",
+      4,
+      "Exit Worcester",
+      "line"
+    ],
+    [
+      349,
+      "1.3.22",
+      "Henry IV",
+      "KING HENRY IV",
+      4,
+      "You were about to speak.",
+      "line"
+    ],
+    [
+      350,
+      "",
+      "Henry IV",
+      "KING HENRY IV",
+      4,
+      "To North",
+      "line"
+    ],
+    [
+      351,
+      "1.3.23",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      5,
+      "Yea, my good lord.",
+      "line"
+    ],
+    [
+      352,
+      "1.3.24",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      5,
+      "Those prisoners in your highness name demanded,",
+      "line"
+    ],
+    [
+      353,
+      "1.3.25",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      5,
+      "Which Harry Percy here at Holmedon took,",
+      "line"
+    ],
+    [
+      354,
+      "1.3.26",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      5,
+      "Were, as he says, not with such strength denied",
+      "line"
+    ],
+    [
+      355,
+      "1.3.27",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      5,
+      "As is deliverd to your majesty:",
+      "line"
+    ],
+    [
+      356,
+      "1.3.28",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      5,
+      "Either envy, therefore, or misprison",
+      "line"
+    ],
+    [
+      357,
+      "1.3.29",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      5,
+      "Is guilty of this fault and not my son.",
+      "line"
+    ],
+    [
+      358,
+      "1.3.30",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "My liege, I did deny no prisoners.",
+      "line"
+    ],
+    [
+      359,
+      "1.3.31",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "But I remember, when the fight was done,",
+      "line"
+    ],
+    [
+      360,
+      "1.3.32",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "When I was dry with rage and extreme toil,",
+      "line"
+    ],
+    [
+      361,
+      "1.3.33",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Breathless and faint, leaning upon my sword,",
+      "line"
+    ],
+    [
+      362,
+      "1.3.34",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Came there a certain lord, neat, and trimly dressd,",
+      "line"
+    ],
+    [
+      363,
+      "1.3.35",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Fresh as a bridegroom; and his chin new reapd",
+      "line"
+    ],
+    [
+      364,
+      "1.3.36",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Showd like a stubble-land at harvest-home;",
+      "line"
+    ],
+    [
+      365,
+      "1.3.37",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "He was perfumed like a milliner;",
+      "line"
+    ],
+    [
+      366,
+      "1.3.38",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "And twixt his finger and his thumb he held",
+      "line"
+    ],
+    [
+      367,
+      "1.3.39",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "A pouncet-box, which ever and anon",
+      "line"
+    ],
+    [
+      368,
+      "1.3.40",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "He gave his nose and tookt away again;",
+      "line"
+    ],
+    [
+      369,
+      "1.3.41",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Who therewith angry, when it next came there,",
+      "line"
+    ],
+    [
+      370,
+      "1.3.42",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Took it in snuff; and still he smiled and talkd,",
+      "line"
+    ],
+    [
+      371,
+      "1.3.43",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "And as the soldiers bore dead bodies by,",
+      "line"
+    ],
+    [
+      372,
+      "1.3.44",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "He calld them untaught knaves, unmannerly,",
+      "line"
+    ],
+    [
+      373,
+      "1.3.45",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "To bring a slovenly unhandsome corse",
+      "line"
+    ],
+    [
+      374,
+      "1.3.46",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Betwixt the wind and his nobility.",
+      "line"
+    ],
+    [
+      375,
+      "1.3.47",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "With many holiday and lady terms",
+      "line"
+    ],
+    [
+      376,
+      "1.3.48",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "He questiond me; amongst the rest, demanded",
+      "line"
+    ],
+    [
+      377,
+      "1.3.49",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "My prisoners in your majestys behalf.",
+      "line"
+    ],
+    [
+      378,
+      "1.3.50",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "I then, all smarting with my wounds being cold,",
+      "line"
+    ],
+    [
+      379,
+      "1.3.51",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "To be so pesterd with a popinjay,",
+      "line"
+    ],
+    [
+      380,
+      "1.3.52",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Out of my grief and my impatience,",
+      "line"
+    ],
+    [
+      381,
+      "1.3.53",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Answerd neglectingly I know not what,",
+      "line"
+    ],
+    [
+      382,
+      "1.3.54",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "He should or he should not; for he made me mad",
+      "line"
+    ],
+    [
+      383,
+      "1.3.55",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "To see him shine so brisk and smell so sweet",
+      "line"
+    ],
+    [
+      384,
+      "1.3.56",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "And talk so like a waiting-gentlewoman",
+      "line"
+    ],
+    [
+      385,
+      "1.3.57",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Of guns and drums and wounds,--God save the mark!--",
+      "line"
+    ],
+    [
+      386,
+      "1.3.58",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "And telling me the sovereignst thing on earth",
+      "line"
+    ],
+    [
+      387,
+      "1.3.59",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Was parmaceti for an inward bruise;",
+      "line"
+    ],
+    [
+      388,
+      "1.3.60",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "And that it was great pity, so it was,",
+      "line"
+    ],
+    [
+      389,
+      "1.3.61",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "This villanous salt-petre should be diggd",
+      "line"
+    ],
+    [
+      390,
+      "1.3.62",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Out of the bowels of the harmless earth,",
+      "line"
+    ],
+    [
+      391,
+      "1.3.63",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Which many a good tall fellow had destroyd",
+      "line"
+    ],
+    [
+      392,
+      "1.3.64",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "So cowardly; and but for these vile guns,",
+      "line"
+    ],
+    [
+      393,
+      "1.3.65",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "He would himself have been a soldier.",
+      "line"
+    ],
+    [
+      394,
+      "1.3.66",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "This bald unjointed chat of his, my lord,",
+      "line"
+    ],
+    [
+      395,
+      "1.3.67",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "I answerd indirectly, as I said;",
+      "line"
+    ],
+    [
+      396,
+      "1.3.68",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "And I beseech you, let not his report",
+      "line"
+    ],
+    [
+      397,
+      "1.3.69",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Come current for an accusation",
+      "line"
+    ],
+    [
+      398,
+      "1.3.70",
+      "Henry IV",
+      "HOTSPUR",
+      6,
+      "Betwixt my love and your high majesty.",
+      "line"
+    ],
+    [
+      399,
+      "1.3.71",
+      "Henry IV",
+      "SIR WALTER BLUNT",
+      7,
+      "The circumstance considerd, good my lord,",
+      "line"
+    ],
+    [
+      400,
+      "1.3.72",
+      "Henry IV",
+      "SIR WALTER BLUNT",
+      7,
+      "Whateer Lord Harry Percy then had said",
+      "line"
+    ],
+    [
+      401,
+      "1.3.73",
+      "Henry IV",
+      "SIR WALTER BLUNT",
+      7,
+      "To such a person and in such a place,",
+      "line"
+    ],
+    [
+      402,
+      "1.3.74",
+      "Henry IV",
+      "SIR WALTER BLUNT",
+      7,
+      "At such a time, with all the rest retold,",
+      "line"
+    ],
+    [
+      403,
+      "1.3.75",
+      "Henry IV",
+      "SIR WALTER BLUNT",
+      7,
+      "May reasonably die and never rise",
+      "line"
+    ],
+    [
+      404,
+      "1.3.76",
+      "Henry IV",
+      "SIR WALTER BLUNT",
+      7,
+      "To do him wrong or any way impeach",
+      "line"
+    ],
+    [
+      405,
+      "1.3.77",
+      "Henry IV",
+      "SIR WALTER BLUNT",
+      7,
+      "What then he said, so he unsay it now.",
+      "line"
+    ],
+    [
+      406,
+      "1.3.78",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "Why, yet he doth deny his prisoners,",
+      "line"
+    ],
+    [
+      407,
+      "1.3.79",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "But with proviso and exception,",
+      "line"
+    ],
+    [
+      408,
+      "1.3.80",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "That we at our own charge shall ransom straight",
+      "line"
+    ],
+    [
+      409,
+      "1.3.81",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "His brother-in-law, the foolish Mortimer;",
+      "line"
+    ],
+    [
+      410,
+      "1.3.82",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "Who, on my soul, hath wilfully betrayd",
+      "line"
+    ],
+    [
+      411,
+      "1.3.83",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "The lives of those that he did lead to fight",
+      "line"
+    ],
+    [
+      412,
+      "1.3.84",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "Against that great magician, damnd Glendower,",
+      "line"
+    ],
+    [
+      413,
+      "1.3.85",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "Whose daughter, as we hear, the Earl of March",
+      "line"
+    ],
+    [
+      414,
+      "1.3.86",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "Hath lately married. Shall our coffers, then,",
+      "line"
+    ],
+    [
+      415,
+      "1.3.87",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "Be emptied to redeem a traitor home?",
+      "line"
+    ],
+    [
+      416,
+      "1.3.88",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "Shall we but treason? and indent with fears,",
+      "line"
+    ],
+    [
+      417,
+      "1.3.89",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "When they have lost and forfeited themselves?",
+      "line"
+    ],
+    [
+      418,
+      "1.3.90",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "No, on the barren mountains let him starve;",
+      "line"
+    ],
+    [
+      419,
+      "1.3.91",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "For I shall never hold that man my friend",
+      "line"
+    ],
+    [
+      420,
+      "1.3.92",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "Whose tongue shall ask me for one penny cost",
+      "line"
+    ],
+    [
+      421,
+      "1.3.93",
+      "Henry IV",
+      "KING HENRY IV",
+      8,
+      "To ransom home revolted Mortimer.",
+      "line"
+    ],
+    [
+      422,
+      "1.3.94",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Revolted Mortimer!",
+      "line"
+    ],
+    [
+      423,
+      "1.3.95",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "He never did fall off, my sovereign liege,",
+      "line"
+    ],
+    [
+      424,
+      "1.3.96",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "But by the chance of war; to prove that true",
+      "line"
+    ],
+    [
+      425,
+      "1.3.97",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Needs no more but one tongue for all those wounds,",
+      "line"
+    ],
+    [
+      426,
+      "1.3.98",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Those mouthed wounds, which valiantly he took",
+      "line"
+    ],
+    [
+      427,
+      "1.3.99",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "When on the gentle Severns sedgy bank,",
+      "line"
+    ],
+    [
+      428,
+      "1.3.100",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "In single opposition, hand to hand,",
+      "line"
+    ],
+    [
+      429,
+      "1.3.101",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "He did confound the best part of an hour",
+      "line"
+    ],
+    [
+      430,
+      "1.3.102",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "In changing hardiment with great Glendower:",
+      "line"
+    ],
+    [
+      431,
+      "1.3.103",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Three times they breathed and three times did",
+      "line"
+    ],
+    [
+      432,
+      "1.3.104",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "they drink,",
+      "line"
+    ],
+    [
+      433,
+      "1.3.105",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Upon agreement, of swift Severns flood;",
+      "line"
+    ],
+    [
+      434,
+      "1.3.106",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Who then, affrighted with their bloody looks,",
+      "line"
+    ],
+    [
+      435,
+      "1.3.107",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Ran fearfully among the trembling reeds,",
+      "line"
+    ],
+    [
+      436,
+      "1.3.108",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "And hid his crisp head in the hollow bank,",
+      "line"
+    ],
+    [
+      437,
+      "1.3.109",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Bloodstained with these valiant combatants.",
+      "line"
+    ],
+    [
+      438,
+      "1.3.110",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Never did base and rotten policy",
+      "line"
+    ],
+    [
+      439,
+      "1.3.111",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Colour her working with such deadly wounds;",
+      "line"
+    ],
+    [
+      440,
+      "1.3.112",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Nor could the noble Mortimer",
+      "line"
+    ],
+    [
+      441,
+      "1.3.113",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Receive so many, and all willingly:",
+      "line"
+    ],
+    [
+      442,
+      "1.3.114",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Then let not him be slanderd with revolt.",
+      "line"
+    ],
+    [
+      443,
+      "1.3.115",
+      "Henry IV",
+      "KING HENRY IV",
+      10,
+      "Thou dost belie him, Percy, thou dost belie him;",
+      "line"
+    ],
+    [
+      444,
+      "1.3.116",
+      "Henry IV",
+      "KING HENRY IV",
+      10,
+      "He never did encounter with Glendower:",
+      "line"
+    ],
+    [
+      445,
+      "1.3.117",
+      "Henry IV",
+      "KING HENRY IV",
+      10,
+      "I tell thee,",
+      "line"
+    ],
+    [
+      446,
+      "1.3.118",
+      "Henry IV",
+      "KING HENRY IV",
+      10,
+      "He durst as well have met the devil alone",
+      "line"
+    ],
+    [
+      447,
+      "1.3.119",
+      "Henry IV",
+      "KING HENRY IV",
+      10,
+      "As Owen Glendower for an enemy.",
+      "line"
+    ],
+    [
+      448,
+      "1.3.120",
+      "Henry IV",
+      "KING HENRY IV",
+      10,
+      "Art thou not ashamed? But, sirrah, henceforth",
+      "line"
+    ],
+    [
+      449,
+      "1.3.121",
+      "Henry IV",
+      "KING HENRY IV",
+      10,
+      "Let me not hear you speak of Mortimer:",
+      "line"
+    ],
+    [
+      450,
+      "1.3.122",
+      "Henry IV",
+      "KING HENRY IV",
+      10,
+      "Send me your prisoners with the speediest means,",
+      "line"
+    ],
+    [
+      451,
+      "1.3.123",
+      "Henry IV",
+      "KING HENRY IV",
+      10,
+      "Or you shall hear in such a kind from me",
+      "line"
+    ],
+    [
+      452,
+      "1.3.124",
+      "Henry IV",
+      "KING HENRY IV",
+      10,
+      "As will displease you. My Lord Northumberland,",
+      "line"
+    ],
+    [
+      453,
+      "1.3.125",
+      "Henry IV",
+      "KING HENRY IV",
+      10,
+      "We licence your departure with your son.",
+      "line"
+    ],
+    [
+      454,
+      "1.3.126",
+      "Henry IV",
+      "KING HENRY IV",
+      10,
+      "Send us your prisoners, or you will hear of it.",
+      "line"
+    ],
+    [
+      455,
+      "",
+      "Henry IV",
+      "KING HENRY IV",
+      10,
+      "Exeunt King Henry, Blunt, and train",
+      "line"
+    ],
+    [
+      456,
+      "1.3.127",
+      "Henry IV",
+      "HOTSPUR",
+      11,
+      "An if the devil come and roar for them,",
+      "line"
+    ],
+    [
+      457,
+      "1.3.128",
+      "Henry IV",
+      "HOTSPUR",
+      11,
+      "I will not send them: I will after straight",
+      "line"
+    ],
+    [
+      458,
+      "1.3.129",
+      "Henry IV",
+      "HOTSPUR",
+      11,
+      "And tell him so; for I will ease my heart,",
+      "line"
+    ],
+    [
+      459,
+      "1.3.130",
+      "Henry IV",
+      "HOTSPUR",
+      11,
+      "Albeit I make a hazard of my head.",
+      "line"
+    ],
+    [
+      460,
+      "1.3.131",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      12,
+      "What, drunk with choler? stay and pause awhile:",
+      "line"
+    ],
+    [
+      461,
+      "1.3.132",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      12,
+      "Here comes your uncle.",
+      "line"
+    ],
+    [
+      462,
+      "",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      12,
+      "Re-enter WORCESTER",
+      "line"
+    ],
+    [
+      463,
+      "1.3.133",
+      "Henry IV",
+      "HOTSPUR",
+      13,
+      "Speak of Mortimer!",
+      "line"
+    ],
+    [
+      464,
+      "1.3.134",
+      "Henry IV",
+      "HOTSPUR",
+      13,
+      "Zounds, I will speak of him; and let my soul",
+      "line"
+    ],
+    [
+      465,
+      "1.3.135",
+      "Henry IV",
+      "HOTSPUR",
+      13,
+      "Want mercy, if I do not join with him:",
+      "line"
+    ],
+    [
+      466,
+      "1.3.136",
+      "Henry IV",
+      "HOTSPUR",
+      13,
+      "Yea, on his part Ill empty all these veins,",
+      "line"
+    ],
+    [
+      467,
+      "1.3.137",
+      "Henry IV",
+      "HOTSPUR",
+      13,
+      "And shed my dear blood drop by drop in the dust,",
+      "line"
+    ],
+    [
+      468,
+      "1.3.138",
+      "Henry IV",
+      "HOTSPUR",
+      13,
+      "But I will lift the down-trod Mortimer",
+      "line"
+    ],
+    [
+      469,
+      "1.3.139",
+      "Henry IV",
+      "HOTSPUR",
+      13,
+      "As high in the air as this unthankful king,",
+      "line"
+    ],
+    [
+      470,
+      "1.3.140",
+      "Henry IV",
+      "HOTSPUR",
+      13,
+      "As this ingrate and cankerd Bolingbroke.",
+      "line"
+    ],
+    [
+      471,
+      "1.3.141",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      14,
+      "Brother, the king hath made your nephew mad.",
+      "line"
+    ],
+    [
+      472,
+      "1.3.142",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      15,
+      "Who struck this heat up after I was gone?",
+      "line"
+    ],
+    [
+      473,
+      "1.3.143",
+      "Henry IV",
+      "HOTSPUR",
+      16,
+      "He will, forsooth, have all my prisoners;",
+      "line"
+    ],
+    [
+      474,
+      "1.3.144",
+      "Henry IV",
+      "HOTSPUR",
+      16,
+      "And when I urged the ransom once again",
+      "line"
+    ],
+    [
+      475,
+      "1.3.145",
+      "Henry IV",
+      "HOTSPUR",
+      16,
+      "Of my wifes brother, then his cheek lookd pale,",
+      "line"
+    ],
+    [
+      476,
+      "1.3.146",
+      "Henry IV",
+      "HOTSPUR",
+      16,
+      "And on my face he turnd an eye of death,",
+      "line"
+    ],
+    [
+      477,
+      "1.3.147",
+      "Henry IV",
+      "HOTSPUR",
+      16,
+      "Trembling even at the name of Mortimer.",
+      "line"
+    ],
+    [
+      478,
+      "1.3.148",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      17,
+      "I cannot blame him: was not he proclaimd",
+      "line"
+    ],
+    [
+      479,
+      "1.3.149",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      17,
+      "By Richard that dead is the next of blood?",
+      "line"
+    ],
+    [
+      480,
+      "1.3.150",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      18,
+      "He was; I heard the proclamation:",
+      "line"
+    ],
+    [
+      481,
+      "1.3.151",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      18,
+      "And then it was when the unhappy king,",
+      "line"
+    ],
+    [
+      482,
+      "1.3.152",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      18,
+      "--Whose wrongs in us God pardon!--did set forth",
+      "line"
+    ],
+    [
+      483,
+      "1.3.153",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      18,
+      "Upon his Irish expedition;",
+      "line"
+    ],
+    [
+      484,
+      "1.3.154",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      18,
+      "From whence he intercepted did return",
+      "line"
+    ],
+    [
+      485,
+      "1.3.155",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      18,
+      "To be deposed and shortly murdered.",
+      "line"
+    ],
+    [
+      486,
+      "1.3.156",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      19,
+      "And for whose death we in the worlds wide mouth",
+      "line"
+    ],
+    [
+      487,
+      "1.3.157",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      19,
+      "Live scandalized and foully spoken of.",
+      "line"
+    ],
+    [
+      488,
+      "1.3.158",
+      "Henry IV",
+      "HOTSPUR",
+      20,
+      "But soft, I pray you; did King Richard then",
+      "line"
+    ],
+    [
+      489,
+      "1.3.159",
+      "Henry IV",
+      "HOTSPUR",
+      20,
+      "Proclaim my brother Edmund Mortimer",
+      "line"
+    ],
+    [
+      490,
+      "1.3.160",
+      "Henry IV",
+      "HOTSPUR",
+      20,
+      "Heir to the crown?",
+      "line"
+    ],
+    [
+      491,
+      "1.3.161",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      21,
+      "He did; myself did hear it.",
+      "line"
+    ],
+    [
+      492,
+      "1.3.162",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Nay, then I cannot blame his cousin king,",
+      "line"
+    ],
+    [
+      493,
+      "1.3.163",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "That wished him on the barren mountains starve.",
+      "line"
+    ],
+    [
+      494,
+      "1.3.164",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "But shall it be that you, that set the crown",
+      "line"
+    ],
+    [
+      495,
+      "1.3.165",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Upon the head of this forgetful man",
+      "line"
+    ],
+    [
+      496,
+      "1.3.166",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "And for his sake wear the detested blot",
+      "line"
+    ],
+    [
+      497,
+      "1.3.167",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Of murderous subornation, shall it be,",
+      "line"
+    ],
+    [
+      498,
+      "1.3.168",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "That you a world of curses undergo,",
+      "line"
+    ],
+    [
+      499,
+      "1.3.169",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Being the agents, or base second means,",
+      "line"
+    ],
+    [
+      500,
+      "1.3.170",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "The cords, the ladder, or the hangman rather?",
+      "line"
+    ],
+    [
+      501,
+      "1.3.171",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "O, pardon me that I descend so low,",
+      "line"
+    ],
+    [
+      502,
+      "1.3.172",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "To show the line and the predicament",
+      "line"
+    ],
+    [
+      503,
+      "1.3.173",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Wherein you range under this subtle king;",
+      "line"
+    ],
+    [
+      504,
+      "1.3.174",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Shall it for shame be spoken in these days,",
+      "line"
+    ],
+    [
+      505,
+      "1.3.175",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Or fill up chronicles in time to come,",
+      "line"
+    ],
+    [
+      506,
+      "1.3.176",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "That men of your nobility and power",
+      "line"
+    ],
+    [
+      507,
+      "1.3.177",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Did gage them both in an unjust behalf,",
+      "line"
+    ],
+    [
+      508,
+      "1.3.178",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "As both of you--God pardon it!--have done,",
+      "line"
+    ],
+    [
+      509,
+      "1.3.179",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "To put down Richard, that sweet lovely rose,",
+      "line"
+    ],
+    [
+      510,
+      "1.3.180",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "An plant this thorn, this canker, Bolingbroke?",
+      "line"
+    ],
+    [
+      511,
+      "1.3.181",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "And shall it in more shame be further spoken,",
+      "line"
+    ],
+    [
+      512,
+      "1.3.182",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "That you are foold, discarded and shook off",
+      "line"
+    ],
+    [
+      513,
+      "1.3.183",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "By him for whom these shames ye underwent?",
+      "line"
+    ],
+    [
+      514,
+      "1.3.184",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "No; yet time serves wherein you may redeem",
+      "line"
+    ],
+    [
+      515,
+      "1.3.185",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Your banishd honours and restore yourselves",
+      "line"
+    ],
+    [
+      516,
+      "1.3.186",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Into the good thoughts of the world again,",
+      "line"
+    ],
+    [
+      517,
+      "1.3.187",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Revenge the jeering and disdaind contempt",
+      "line"
+    ],
+    [
+      518,
+      "1.3.188",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Of this proud king, who studies day and night",
+      "line"
+    ],
+    [
+      519,
+      "1.3.189",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "To answer all the debt he owes to you",
+      "line"
+    ],
+    [
+      520,
+      "1.3.190",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Even with the bloody payment of your deaths:",
+      "line"
+    ],
+    [
+      521,
+      "1.3.191",
+      "Henry IV",
+      "HOTSPUR",
+      22,
+      "Therefore, I say--",
+      "line"
+    ],
+    [
+      522,
+      "1.3.192",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      23,
+      "Peace, cousin, say no more:",
+      "line"
+    ],
+    [
+      523,
+      "1.3.193",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      23,
+      "And now I will unclasp a secret book,",
+      "line"
+    ],
+    [
+      524,
+      "1.3.194",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      23,
+      "And to your quick-conceiving discontents",
+      "line"
+    ],
+    [
+      525,
+      "1.3.195",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      23,
+      "Ill read you matter deep and dangerous,",
+      "line"
+    ],
+    [
+      526,
+      "1.3.196",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      23,
+      "As full of peril and adventurous spirit",
+      "line"
+    ],
+    [
+      527,
+      "1.3.197",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      23,
+      "As to oer-walk a current roaring loud",
+      "line"
+    ],
+    [
+      528,
+      "1.3.198",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      23,
+      "On the unsteadfast footing of a spear.",
+      "line"
+    ],
+    [
+      529,
+      "1.3.199",
+      "Henry IV",
+      "HOTSPUR",
+      24,
+      "If he fall in, good night! or sink or swim:",
+      "line"
+    ],
+    [
+      530,
+      "1.3.200",
+      "Henry IV",
+      "HOTSPUR",
+      24,
+      "Send danger from the east unto the west,",
+      "line"
+    ],
+    [
+      531,
+      "1.3.201",
+      "Henry IV",
+      "HOTSPUR",
+      24,
+      "So honour cross it from the north to south,",
+      "line"
+    ],
+    [
+      532,
+      "1.3.202",
+      "Henry IV",
+      "HOTSPUR",
+      24,
+      "And let them grapple: O, the blood more stirs",
+      "line"
+    ],
+    [
+      533,
+      "1.3.203",
+      "Henry IV",
+      "HOTSPUR",
+      24,
+      "To rouse a lion than to start a hare!",
+      "line"
+    ],
+    [
+      534,
+      "1.3.204",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      25,
+      "Imagination of some great exploit",
+      "line"
+    ],
+    [
+      535,
+      "1.3.205",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      25,
+      "Drives him beyond the bounds of patience.",
+      "line"
+    ],
+    [
+      536,
+      "1.3.206",
+      "Henry IV",
+      "HOTSPUR",
+      26,
+      "By heaven, methinks it were an easy leap,",
+      "line"
+    ],
+    [
+      537,
+      "1.3.207",
+      "Henry IV",
+      "HOTSPUR",
+      26,
+      "To pluck bright honour from the pale-faced moon,",
+      "line"
+    ],
+    [
+      538,
+      "1.3.208",
+      "Henry IV",
+      "HOTSPUR",
+      26,
+      "Or dive into the bottom of the deep,",
+      "line"
+    ],
+    [
+      539,
+      "1.3.209",
+      "Henry IV",
+      "HOTSPUR",
+      26,
+      "Where fathom-line could never touch the ground,",
+      "line"
+    ],
+    [
+      540,
+      "1.3.210",
+      "Henry IV",
+      "HOTSPUR",
+      26,
+      "And pluck up drowned honour by the locks;",
+      "line"
+    ],
+    [
+      541,
+      "1.3.211",
+      "Henry IV",
+      "HOTSPUR",
+      26,
+      "So he that doth redeem her thence might wear",
+      "line"
+    ],
+    [
+      542,
+      "1.3.212",
+      "Henry IV",
+      "HOTSPUR",
+      26,
+      "Without corrival, all her dignities:",
+      "line"
+    ],
+    [
+      543,
+      "1.3.213",
+      "Henry IV",
+      "HOTSPUR",
+      26,
+      "But out upon this half-faced fellowship!",
+      "line"
+    ],
+    [
+      544,
+      "1.3.214",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      27,
+      "He apprehends a world of figures here,",
+      "line"
+    ],
+    [
+      545,
+      "1.3.215",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      27,
+      "But not the form of what he should attend.",
+      "line"
+    ],
+    [
+      546,
+      "1.3.216",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      27,
+      "Good cousin, give me audience for a while.",
+      "line"
+    ],
+    [
+      547,
+      "1.3.217",
+      "Henry IV",
+      "HOTSPUR",
+      28,
+      "I cry you mercy.",
+      "line"
+    ],
+    [
+      548,
+      "1.3.218",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      29,
+      "Those same noble Scots",
+      "line"
+    ],
+    [
+      549,
+      "1.3.219",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      29,
+      "That are your prisoners,--",
+      "line"
+    ],
+    [
+      550,
+      "1.3.220",
+      "Henry IV",
+      "HOTSPUR",
+      30,
+      "Ill keep them all;",
+      "line"
+    ],
+    [
+      551,
+      "1.3.221",
+      "Henry IV",
+      "HOTSPUR",
+      30,
+      "By God, he shall not have a Scot of them;",
+      "line"
+    ],
+    [
+      552,
+      "1.3.222",
+      "Henry IV",
+      "HOTSPUR",
+      30,
+      "No, if a Scot would save his soul, he shall not:",
+      "line"
+    ],
+    [
+      553,
+      "1.3.223",
+      "Henry IV",
+      "HOTSPUR",
+      30,
+      "Ill keep them, by this hand.",
+      "line"
+    ],
+    [
+      554,
+      "1.3.224",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      31,
+      "You start away",
+      "line"
+    ],
+    [
+      555,
+      "1.3.225",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      31,
+      "And lend no ear unto my purposes.",
+      "line"
+    ],
+    [
+      556,
+      "1.3.226",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      31,
+      "Those prisoners you shall keep.",
+      "line"
+    ],
+    [
+      557,
+      "1.3.227",
+      "Henry IV",
+      "HOTSPUR",
+      32,
+      "Nay, I will; thats flat:",
+      "line"
+    ],
+    [
+      558,
+      "1.3.228",
+      "Henry IV",
+      "HOTSPUR",
+      32,
+      "He said he would not ransom Mortimer;",
+      "line"
+    ],
+    [
+      559,
+      "1.3.229",
+      "Henry IV",
+      "HOTSPUR",
+      32,
+      "Forbad my tongue to speak of Mortimer;",
+      "line"
+    ],
+    [
+      560,
+      "1.3.230",
+      "Henry IV",
+      "HOTSPUR",
+      32,
+      "But I will find him when he lies asleep,",
+      "line"
+    ],
+    [
+      561,
+      "1.3.231",
+      "Henry IV",
+      "HOTSPUR",
+      32,
+      "And in his ear Ill holla Mortimer!",
+      "line"
+    ],
+    [
+      562,
+      "1.3.232",
+      "Henry IV",
+      "HOTSPUR",
+      32,
+      "Nay,",
+      "line"
+    ],
+    [
+      563,
+      "1.3.233",
+      "Henry IV",
+      "HOTSPUR",
+      32,
+      "Ill have a starling shall be taught to speak",
+      "line"
+    ],
+    [
+      564,
+      "1.3.234",
+      "Henry IV",
+      "HOTSPUR",
+      32,
+      "Nothing but Mortimer, and give it him",
+      "line"
+    ],
+    [
+      565,
+      "1.3.235",
+      "Henry IV",
+      "HOTSPUR",
+      32,
+      "To keep his anger still in motion.",
+      "line"
+    ],
+    [
+      566,
+      "1.3.236",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      33,
+      "Hear you, cousin; a word.",
+      "line"
+    ],
+    [
+      567,
+      "1.3.237",
+      "Henry IV",
+      "HOTSPUR",
+      34,
+      "All studies here I solemnly defy,",
+      "line"
+    ],
+    [
+      568,
+      "1.3.238",
+      "Henry IV",
+      "HOTSPUR",
+      34,
+      "Save how to gall and pinch this Bolingbroke:",
+      "line"
+    ],
+    [
+      569,
+      "1.3.239",
+      "Henry IV",
+      "HOTSPUR",
+      34,
+      "And that same sword-and-buckler Prince of Wales,",
+      "line"
+    ],
+    [
+      570,
+      "1.3.240",
+      "Henry IV",
+      "HOTSPUR",
+      34,
+      "But that I think his father loves him not",
+      "line"
+    ],
+    [
+      571,
+      "1.3.241",
+      "Henry IV",
+      "HOTSPUR",
+      34,
+      "And would be glad he met with some mischance,",
+      "line"
+    ],
+    [
+      572,
+      "1.3.242",
+      "Henry IV",
+      "HOTSPUR",
+      34,
+      "I would have him poisond with a pot of ale.",
+      "line"
+    ],
+    [
+      573,
+      "1.3.243",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      35,
+      "Farewell, kinsman: Ill talk to you",
+      "line"
+    ],
+    [
+      574,
+      "1.3.244",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      35,
+      "When you are better temperd to attend.",
+      "line"
+    ],
+    [
+      575,
+      "1.3.245",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      36,
+      "Why, what a wasp-stung and impatient fool",
+      "line"
+    ],
+    [
+      576,
+      "1.3.246",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      36,
+      "Art thou to break into this womans mood,",
+      "line"
+    ],
+    [
+      577,
+      "1.3.247",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      36,
+      "Tying thine ear to no tongue but thine own!",
+      "line"
+    ],
+    [
+      578,
+      "1.3.248",
+      "Henry IV",
+      "HOTSPUR",
+      37,
+      "Why, look you, I am whippd and scourged with rods,",
+      "line"
+    ],
+    [
+      579,
+      "1.3.249",
+      "Henry IV",
+      "HOTSPUR",
+      37,
+      "Nettled and stung with pismires, when I hear",
+      "line"
+    ],
+    [
+      580,
+      "1.3.250",
+      "Henry IV",
+      "HOTSPUR",
+      37,
+      "Of this vile politician, Bolingbroke.",
+      "line"
+    ],
+    [
+      581,
+      "1.3.251",
+      "Henry IV",
+      "HOTSPUR",
+      37,
+      "In Richards time,--what do you call the place?--",
+      "line"
+    ],
+    [
+      582,
+      "1.3.252",
+      "Henry IV",
+      "HOTSPUR",
+      37,
+      "A plague upon it, it is in Gloucestershire;",
+      "line"
+    ],
+    [
+      583,
+      "1.3.253",
+      "Henry IV",
+      "HOTSPUR",
+      37,
+      "Twas where the madcap duke his uncle kept,",
+      "line"
+    ],
+    [
+      584,
+      "1.3.254",
+      "Henry IV",
+      "HOTSPUR",
+      37,
+      "His uncle York; where I first bowd my knee",
+      "line"
+    ],
+    [
+      585,
+      "1.3.255",
+      "Henry IV",
+      "HOTSPUR",
+      37,
+      "Unto this king of smiles, this Bolingbroke,--",
+      "line"
+    ],
+    [
+      586,
+      "1.3.256",
+      "Henry IV",
+      "HOTSPUR",
+      37,
+      "Sblood!--",
+      "line"
+    ],
+    [
+      587,
+      "1.3.257",
+      "Henry IV",
+      "HOTSPUR",
+      37,
+      "When you and he came back from Ravenspurgh.",
+      "line"
+    ],
+    [
+      588,
+      "1.3.258",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      38,
+      "At Berkley castle.",
+      "line"
+    ],
+    [
+      589,
+      "1.3.259",
+      "Henry IV",
+      "HOTSPUR",
+      39,
+      "You say true:",
+      "line"
+    ],
+    [
+      590,
+      "1.3.260",
+      "Henry IV",
+      "HOTSPUR",
+      39,
+      "Why, what a candy deal of courtesy",
+      "line"
+    ],
+    [
+      591,
+      "1.3.261",
+      "Henry IV",
+      "HOTSPUR",
+      39,
+      "This fawning greyhound then did proffer me!",
+      "line"
+    ],
+    [
+      592,
+      "1.3.262",
+      "Henry IV",
+      "HOTSPUR",
+      39,
+      "Look,when his infant fortune came to age,",
+      "line"
+    ],
+    [
+      593,
+      "1.3.263",
+      "Henry IV",
+      "HOTSPUR",
+      39,
+      "And gentle Harry Percy, and kind cousin;",
+      "line"
+    ],
+    [
+      594,
+      "1.3.264",
+      "Henry IV",
+      "HOTSPUR",
+      39,
+      "O, the devil take such cozeners! God forgive me!",
+      "line"
+    ],
+    [
+      595,
+      "1.3.265",
+      "Henry IV",
+      "HOTSPUR",
+      39,
+      "Good uncle, tell your tale; I have done.",
+      "line"
+    ],
+    [
+      596,
+      "1.3.266",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      40,
+      "Nay, if you have not, to it again;",
+      "line"
+    ],
+    [
+      597,
+      "1.3.267",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      40,
+      "We will stay your leisure.",
+      "line"
+    ],
+    [
+      598,
+      "1.3.268",
+      "Henry IV",
+      "HOTSPUR",
+      41,
+      "I have done, i faith.",
+      "line"
+    ],
+    [
+      599,
+      "1.3.269",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      42,
+      "Then once more to your Scottish prisoners.",
+      "line"
+    ],
+    [
+      600,
+      "1.3.270",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      42,
+      "Deliver them up without their ransom straight,",
+      "line"
+    ],
+    [
+      601,
+      "1.3.271",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      42,
+      "And make the Douglas son your only mean",
+      "line"
+    ],
+    [
+      602,
+      "1.3.272",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      42,
+      "For powers in Scotland; which, for divers reasons",
+      "line"
+    ],
+    [
+      603,
+      "1.3.273",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      42,
+      "Which I shall send you written, be assured,",
+      "line"
+    ],
+    [
+      604,
+      "1.3.274",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      42,
+      "Will easily be granted. You, my lord,",
+      "line"
+    ],
+    [
+      605,
+      "",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      42,
+      "To Northumberland",
+      "line"
+    ],
+    [
+      606,
+      "1.3.275",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      42,
+      "Your son in Scotland being thus employd,",
+      "line"
+    ],
+    [
+      607,
+      "1.3.276",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      42,
+      "Shall secretly into the bosom creep",
+      "line"
+    ],
+    [
+      608,
+      "1.3.277",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      42,
+      "Of that same noble prelate, well beloved,",
+      "line"
+    ],
+    [
+      609,
+      "1.3.278",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      42,
+      "The archbishop.",
+      "line"
+    ],
+    [
+      610,
+      "1.3.279",
+      "Henry IV",
+      "HOTSPUR",
+      43,
+      "Of York, is it not?",
+      "line"
+    ],
+    [
+      611,
+      "1.3.280",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      44,
+      "True; who bears hard",
+      "line"
+    ],
+    [
+      612,
+      "1.3.281",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      44,
+      "His brothers death at Bristol, the Lord Scroop.",
+      "line"
+    ],
+    [
+      613,
+      "1.3.282",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      44,
+      "I speak not this in estimation,",
+      "line"
+    ],
+    [
+      614,
+      "1.3.283",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      44,
+      "As what I think might be, but what I know",
+      "line"
+    ],
+    [
+      615,
+      "1.3.284",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      44,
+      "Is ruminated, plotted and set down,",
+      "line"
+    ],
+    [
+      616,
+      "1.3.285",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      44,
+      "And only stays but to behold the face",
+      "line"
+    ],
+    [
+      617,
+      "1.3.286",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      44,
+      "Of that occasion that shall bring it on.",
+      "line"
+    ],
+    [
+      618,
+      "1.3.287",
+      "Henry IV",
+      "HOTSPUR",
+      45,
+      "I smell it: upon my life, it will do well.",
+      "line"
+    ],
+    [
+      619,
+      "1.3.288",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      46,
+      "Before the game is afoot, thou still letst slip.",
+      "line"
+    ],
+    [
+      620,
+      "1.3.289",
+      "Henry IV",
+      "HOTSPUR",
+      47,
+      "Why, it cannot choose but be a noble plot;",
+      "line"
+    ],
+    [
+      621,
+      "1.3.290",
+      "Henry IV",
+      "HOTSPUR",
+      47,
+      "And then the power of Scotland and of York,",
+      "line"
+    ],
+    [
+      622,
+      "1.3.291",
+      "Henry IV",
+      "HOTSPUR",
+      47,
+      "To join with Mortimer, ha?",
+      "line"
+    ],
+    [
+      623,
+      "1.3.292",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      48,
+      "And so they shall.",
+      "line"
+    ],
+    [
+      624,
+      "1.3.293",
+      "Henry IV",
+      "HOTSPUR",
+      49,
+      "In faith, it is exceedingly well aimd.",
+      "line"
+    ],
+    [
+      625,
+      "1.3.294",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      50,
+      "And tis no little reason bids us speed,",
+      "line"
+    ],
+    [
+      626,
+      "1.3.295",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      50,
+      "To save our heads by raising of a head;",
+      "line"
+    ],
+    [
+      627,
+      "1.3.296",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      50,
+      "For, bear ourselves as even as we can,",
+      "line"
+    ],
+    [
+      628,
+      "1.3.297",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      50,
+      "The king will always think him in our debt,",
+      "line"
+    ],
+    [
+      629,
+      "1.3.298",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      50,
+      "And think we think ourselves unsatisfied,",
+      "line"
+    ],
+    [
+      630,
+      "1.3.299",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      50,
+      "Till he hath found a time to pay us home:",
+      "line"
+    ],
+    [
+      631,
+      "1.3.300",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      50,
+      "And see already how he doth begin",
+      "line"
+    ],
+    [
+      632,
+      "1.3.301",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      50,
+      "To make us strangers to his looks of love.",
+      "line"
+    ],
+    [
+      633,
+      "1.3.302",
+      "Henry IV",
+      "HOTSPUR",
+      51,
+      "He does, he does: well be revenged on him.",
+      "line"
+    ],
+    [
+      634,
+      "1.3.303",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      52,
+      "Cousin, farewell: no further go in this",
+      "line"
+    ],
+    [
+      635,
+      "1.3.304",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      52,
+      "Than I by letters shall direct your course.",
+      "line"
+    ],
+    [
+      636,
+      "1.3.305",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      52,
+      "When time is ripe, which will be suddenly,",
+      "line"
+    ],
+    [
+      637,
+      "1.3.306",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      52,
+      "Ill steal to Glendower and Lord Mortimer;",
+      "line"
+    ],
+    [
+      638,
+      "1.3.307",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      52,
+      "Where you and Douglas and our powers at once,",
+      "line"
+    ],
+    [
+      639,
+      "1.3.308",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      52,
+      "As I will fashion it, shall happily meet,",
+      "line"
+    ],
+    [
+      640,
+      "1.3.309",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      52,
+      "To bear our fortunes in our own strong arms,",
+      "line"
+    ],
+    [
+      641,
+      "1.3.310",
+      "Henry IV",
+      "EARL OF WORCESTER",
+      52,
+      "Which now we hold at much uncertainty.",
+      "line"
+    ],
+    [
+      642,
+      "1.3.311",
+      "Henry IV",
+      "NORTHUMBERLAND",
+      53,
+      "Farewell, good brother: we shall thrive, I trust.",
+      "line"
+    ],
+    [
+      643,
+      "1.3.312",
+      "Henry IV",
+      "HOTSPUR",
+      54,
+      "Uncle, Adieu: O, let the hours be short",
+      "line"
+    ],
+    [
+      644,
+      "1.3.313",
+      "Henry IV",
+      "HOTSPUR",
+      54,
+      "Till fields and blows and groans applaud our sport!",
+      "line"
+    ],
+    [
+      645,
+      "",
+      "Henry IV",
+      "HOTSPUR",
+      54,
+      "Exeunt",
+      "line"
+    ],
+    [
+      646,
+      "",
+      "Henry IV",
+      "HOTSPUR",
+      54,
+      "ACT II",
+      "act"
+    ],
+    [
+      647,
+      "",
+      "Henry IV",
+      "HOTSPUR",
+      54,
+      "SCENE I. Rochester. An inn yard.",
+      "scene"
+    ],
+    [
+      648,
+      "",
+      "Henry IV",
+      "HOTSPUR",
+      54,
+      "Enter a Carrier with a lantern in his hand",
+      "line"
+    ],
+    [
+      649,
+      "2.1.1",
+      "Henry IV",
+      "First Carrier",
+      1,
+      "Heigh-ho! an it be not four by the day, Ill be",
+      "line"
+    ],
+    [
+      650,
+      "2.1.2",
+      "Henry IV",
+      "First Carrier",
+      1,
+      "hanged: Charles wain is over the new chimney, and",
+      "line"
+    ],
+    [
+      651,
+      "2.1.3",
+      "Henry IV",
+      "First Carrier",
+      1,
+      "yet our horse not packed. What, ostler!",
+      "line"
+    ],
+    [
+      652,
+      "2.1.4",
+      "Henry IV",
+      "Ostler",
+      2,
+      "[Within]   Anon, anon.",
+      "line"
+    ],
+    [
+      653,
+      "2.1.5",
+      "Henry IV",
+      "First Carrier",
+      3,
+      "I prithee, Tom, beat Cuts saddle, put a few flocks",
+      "line"
+    ],
+    [
+      654,
+      "2.1.6",
+      "Henry IV",
+      "First Carrier",
+      3,
+      "in the point; poor jade, is wrung in the withers out",
+      "line"
+    ],
+    [
+      655,
+      "2.1.7",
+      "Henry IV",
+      "First Carrier",
+      3,
+      "of all cess.",
+      "line"
+    ],
+    [
+      656,
+      "",
+      "Henry IV",
+      "First Carrier",
+      3,
+      "Enter another Carrier",
+      "line"
+    ],
+    [
+      657,
+      "2.1.8",
+      "Henry IV",
+      "Second Carrier",
+      4,
+      "Peas and beans are as dank here as a dog, and that",
+      "line"
+    ],
+    [
+      658,
+      "2.1.9",
+      "Henry IV",
+      "Second Carrier",
+      4,
+      "is the next way to give poor jades the bots: this",
+      "line"
+    ],
+    [
+      659,
+      "2.1.10",
+      "Henry IV",
+      "Second Carrier",
+      4,
+      "house is turned upside down since Robin Ostler died.",
+      "line"
+    ],
+    [
+      660,
+      "2.1.11",
+      "Henry IV",
+      "First Carrier",
+      5,
+      "Poor fellow, never joyed since the price of oats",
+      "line"
+    ],
+    [
+      661,
+      "2.1.12",
+      "Henry IV",
+      "First Carrier",
+      5,
+      "rose; it was the death of him.",
+      "line"
+    ],
+    [
+      662,
+      "2.1.13",
+      "Henry IV",
+      "Second Carrier",
+      6,
+      "I think this be the most villanous house in all",
+      "line"
+    ],
+    [
+      663,
+      "2.1.14",
+      "Henry IV",
+      "Second Carrier",
+      6,
+      "London road for fleas: I am stung like a tench.",
+      "line"
+    ],
+    [
+      664,
+      "2.1.15",
+      "Henry IV",
+      "First Carrier",
+      7,
+      "Like a tench! by the mass, there is neer a king",
+      "line"
+    ],
+    [
+      665,
+      "2.1.16",
+      "Henry IV",
+      "First Carrier",
+      7,
+      "christen could be better bit than I have been since",
+      "line"
+    ],
+    [
+      666,
+      "2.1.17",
+      "Henry IV",
+      "First Carrier",
+      7,
+      "the first cock.",
+      "line"
+    ],
+    [
+      667,
+      "2.1.18",
+      "Henry IV",
+      "Second Carrier",
+      8,
+      "Why, they will allow us neer a jordan, and then we",
+      "line"
+    ],
+    [
+      668,
+      "2.1.19",
+      "Henry IV",
+      "Second Carrier",
+      8,
+      "leak in your chimney; and your chamber-lie breeds",
+      "line"
+    ],
+    [
+      669,
+      "2.1.20",
+      "Henry IV",
+      "Second Carrier",
+      8,
+      "fleas like a loach.",
+      "line"
+    ],
+    [
+      670,
+      "2.1.21",
+      "Henry IV",
+      "First Carrier",
+      9,
+      "What, ostler! come away and be hanged!",
+      "line"
+    ],
+    [
+      671,
+      "2.1.22",
+      "Henry IV",
+      "Second Carrier",
+      10,
+      "I have a gammon of bacon and two razors of ginger,",
+      "line"
+    ],
+    [
+      672,
+      "2.1.23",
+      "Henry IV",
+      "Second Carrier",
+      10,
+      "to be delivered as far as Charing-cross.",
+      "line"
+    ],
+    [
+      673,
+      "2.1.24",
+      "Henry IV",
+      "First Carrier",
+      11,
+      "Gods body! the turkeys in my pannier are quite",
+      "line"
+    ],
+    [
+      674,
+      "2.1.25",
+      "Henry IV",
+      "First Carrier",
+      11,
+      "starved. What, ostler! A plague on thee! hast thou",
+      "line"
+    ],
+    [
+      675,
+      "2.1.26",
+      "Henry IV",
+      "First Carrier",
+      11,
+      "never an eye in thy head? canst not hear? An",
+      "line"
+    ],
+    [
+      676,
+      "2.1.27",
+      "Henry IV",
+      "First Carrier",
+      11,
+      "twere not as good deed as drink, to break the pate",
+      "line"
+    ],
+    [
+      677,
+      "2.1.28",
+      "Henry IV",
+      "First Carrier",
+      11,
+      "on thee, I am a very villain. Come, and be hanged!",
+      "line"
+    ],
+    [
+      678,
+      "2.1.29",
+      "Henry IV",
+      "First Carrier",
+      11,
+      "hast thou no faith in thee?",
+      "line"
+    ],
+    [
+      679,
+      "",
+      "Henry IV",
+      "First Carrier",
+      11,
+      "Enter GADSHILL",
+      "line"
+    ],
+    [
+      680,
+      "2.1.30",
+      "Henry IV",
+      "GADSHILL",
+      12,
+      "Good morrow, carriers. Whats oclock?",
+      "line"
+    ],
+    [
+      681,
+      "2.1.31",
+      "Henry IV",
+      "First Carrier",
+      13,
+      "I think it be two oclock.",
+      "line"
+    ],
+    [
+      682,
+      "2.1.32",
+      "Henry IV",
+      "GADSHILL",
+      14,
+      "I pray thee lend me thy lantern, to see my gelding",
+      "line"
+    ],
+    [
+      683,
+      "2.1.33",
+      "Henry IV",
+      "GADSHILL",
+      14,
+      "in the stable.",
+      "line"
+    ],
+    [
+      684,
+      "2.1.34",
+      "Henry IV",
+      "First Carrier",
+      15,
+      "Nay, by God, soft; I know a trick worth two of that, i faith.",
+      "line"
+    ],
+    [
+      685,
+      "2.1.35",
+      "Henry IV",
+      "GADSHILL",
+      16,
+      "I pray thee, lend me thine.",
+      "line"
+    ],
+    [
+      686,
+      "2.1.36",
+      "Henry IV",
+      "Second Carrier",
+      17,
+      "Ay, when? canst tell? Lend me thy lantern, quoth",
+      "line"
+    ],
+    [
+      687,
+      "2.1.37",
+      "Henry IV",
+      "Second Carrier",
+      17,
+      "he? marry, Ill see thee hanged first.",
+      "line"
+    ],
+    [
+      688,
+      "2.1.38",
+      "Henry IV",
+      "GADSHILL",
+      18,
+      "Sirrah carrier, what time do you mean to come to London?",
+      "line"
+    ],
+    [
+      689,
+      "2.1.39",
+      "Henry IV",
+      "Second Carrier",
+      19,
+      "Time enough to go to bed with a candle, I warrant",
+      "line"
+    ],
+    [
+      690,
+      "2.1.40",
+      "Henry IV",
+      "Second Carrier",
+      19,
+      "thee. Come, neighbour Mugs, well call up the",
+      "line"
+    ],
+    [
+      691,
+      "2.1.41",
+      "Henry IV",
+      "Second Carrier",
+      19,
+      "gentleman: they will along with company, for they",
+      "line"
+    ],
+    [
+      692,
+      "2.1.42",
+      "Henry IV",
+      "Second Carrier",
+      19,
+      "have great charge.",
+      "line"
+    ],
+    [
+      693,
+      "",
+      "Henry IV",
+      "Second Carrier",
+      19,
+      "Exeunt carriers",
+      "line"
+    ],
+    [
+      694,
+      "2.1.43",
+      "Henry IV",
+      "GADSHILL",
+      20,
+      "What, ho! chamberlain!",
+      "line"
+    ],
+    [
+      695,
+      "2.1.44",
+      "Henry IV",
+      "Chamberlain",
+      21,
+      "[Within]  At hand, quoth pick-purse.",
+      "line"
+    ],
+    [
+      696,
+      "2.1.45",
+      "Henry IV",
+      "GADSHILL",
+      22,
+      "Thats even as fair as--at hand, quoth the",
+      "line"
+    ],
+    [
+      697,
+      "2.1.46",
+      "Henry IV",
+      "GADSHILL",
+      22,
+      "chamberlain; for thou variest no more from picking",
+      "line"
+    ],
+    [
+      698,
+      "2.1.47",
+      "Henry IV",
+      "GADSHILL",
+      22,
+      "of purses than giving direction doth from labouring;",
+      "line"
+    ],
+    [
+      699,
+      "2.1.48",
+      "Henry IV",
+      "GADSHILL",
+      22,
+      "thou layest the plot how.",
+      "line"
+    ],
+    [
+      700,
+      "",
+      "Henry IV",
+      "GADSHILL",
+      22,
+      "Enter Chamberlain",
+      "line"
+    ],
+    [
+      701,
+      "2.1.49",
+      "Henry IV",
+      "Chamberlain",
+      23,
+      "Good morrow, Master Gadshill. It holds current that",
+      "line"
+    ],
+    [
+      702,
+      "2.1.50",
+      "Henry IV",
+      "Chamberlain",
+      23,
+      "I told you yesternight: theres a franklin in the",
+      "line"
+    ],
+    [
+      703,
+      "2.1.51",
+      "Henry IV",
+      "Chamberlain",
+      23,
+      "wild of Kent hath brought three hundred marks with",
+      "line"
+    ],
+    [
+      704,
+      "2.1.52",
+      "Henry IV",
+      "Chamberlain",
+      23,
+      "him in gold: I heard him tell it to one of his",
+      "line"
+    ],
+    [
+      705,
+      "2.1.53",
+      "Henry IV",
+      "Chamberlain",
+      23,
+      "company last night at supper; a kind of auditor; one",
+      "line"
+    ],
+    [
+      706,
+      "2.1.54",
+      "Henry IV",
+      "Chamberlain",
+      23,
+      "that hath abundance of charge too, God knows what.",
+      "line"
+    ],
+    [
+      707,
+      "2.1.55",
+      "Henry IV",
+      "Chamberlain",
+      23,
+      "They are up already, and call for eggs and butter;",
+      "line"
+    ],
+    [
+      708,
+      "2.1.56",
+      "Henry IV",
+      "Chamberlain",
+      23,
+      "they will away presently.",
+      "line"
+    ],
+    [
+      709,
+      "2.1.57",
+      "Henry IV",
+      "GADSHILL",
+      24,
+      "Sirrah, if they meet not with Saint Nicholas",
+      "line"
+    ],
+    [
+      710,
+      "2.1.58",
+      "Henry IV",
+      "GADSHILL",
+      24,
+      "clerks, Ill give thee this neck.",
+      "line"
+    ],
+    [
+      711,
+      "2.1.59",
+      "Henry IV",
+      "Chamberlain",
+      25,
+      "No, Ill none of it: I pray thee keep that for the",
+      "line"
+    ],
+    [
+      712,
+      "2.1.60",
+      "Henry IV",
+      "Chamberlain",
+      25,
+      "hangman; for I know thou worshippest St. Nicholas",
+      "line"
+    ],
+    [
+      713,
+      "2.1.61",
+      "Henry IV",
+      "Chamberlain",
+      25,
+      "as truly as a man of falsehood may.",
+      "line"
+    ],
+    [
+      714,
+      "2.1.62",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "What talkest thou to me of the hangman? if I hang,",
+      "line"
+    ],
+    [
+      715,
+      "2.1.63",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "Ill make a fat pair of gallows; for if I hang, old",
+      "line"
+    ],
+    [
+      716,
+      "2.1.64",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "Sir John hangs with me, and thou knowest he is no",
+      "line"
+    ],
+    [
+      717,
+      "2.1.65",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "starveling. Tut! there are other Trojans that thou",
+      "line"
+    ],
+    [
+      718,
+      "2.1.66",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "dreamest not of, the which for sport sake are",
+      "line"
+    ],
+    [
+      719,
+      "2.1.67",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "content to do the profession some grace; that would,",
+      "line"
+    ],
+    [
+      720,
+      "2.1.68",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "if matters should be looked into, for their own",
+      "line"
+    ],
+    [
+      721,
+      "2.1.69",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "credit sake, make all whole. I am joined with no",
+      "line"
+    ],
+    [
+      722,
+      "2.1.70",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "foot-land rakers, no long-staff sixpenny strikers,",
+      "line"
+    ],
+    [
+      723,
+      "2.1.71",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "none of these mad mustachio purple-hued malt-worms;",
+      "line"
+    ],
+    [
+      724,
+      "2.1.72",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "but with nobility and tranquillity, burgomasters and",
+      "line"
+    ],
+    [
+      725,
+      "2.1.73",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "great oneyers, such as can hold in, such as will",
+      "line"
+    ],
+    [
+      726,
+      "2.1.74",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "strike sooner than speak, and speak sooner than",
+      "line"
+    ],
+    [
+      727,
+      "2.1.75",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "drink, and drink sooner than pray: and yet, zounds,",
+      "line"
+    ],
+    [
+      728,
+      "2.1.76",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "I lie; for they pray continually to their saint, the",
+      "line"
+    ],
+    [
+      729,
+      "2.1.77",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "commonwealth; or rather, not pray to her, but prey",
+      "line"
+    ],
+    [
+      730,
+      "2.1.78",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "on her, for they ride up and down on her and make",
+      "line"
+    ],
+    [
+      731,
+      "2.1.79",
+      "Henry IV",
+      "GADSHILL",
+      26,
+      "her their boots.",
+      "line"
+    ],
+    [
+      732,
+      "2.1.80",
+      "Henry IV",
+      "Chamberlain",
+      27,
+      "What, the commonwealth their boots? will she hold",
+      "line"
+    ],
+    [
+      733,
+      "2.1.81",
+      "Henry IV",
+      "Chamberlain",
+      27,
+      "out water in foul way?",
+      "line"
+    ],
+    [
+      734,
+      "2.1.82",
+      "Henry IV",
+      "GADSHILL",
+      28,
+      "She will, she will; justice hath liquored her. We",
+      "line"
+    ],
+    [
+      735,
+      "2.1.83",
+      "Henry IV",
+      "GADSHILL",
+      28,
+      "steal as in a castle, cocksure; we have the receipt",
+      "line"
+    ],
+    [
+      736,
+      "2.1.84",
+      "Henry IV",
+      "GADSHILL",
+      28,
+      "of fern-seed, we walk invisible.",
+      "line"
+    ],
+    [
+      737,
+      "2.1.85",
+      "Henry IV",
+      "Chamberlain",
+      29,
+      "Nay, by my faith, I think you are more beholding to",
+      "line"
+    ],
+    [
+      738,
+      "2.1.86",
+      "Henry IV",
+      "Chamberlain",
+      29,
+      "the night than to fern-seed for your walking invisible.",
+      "line"
+    ],
+    [
+      739,
+      "2.1.87",
+      "Henry IV",
+      "GADSHILL",
+      30,
+      "Give me thy hand: thou shalt have a share in our",
+      "line"
+    ],
+    [
+      740,
+      "2.1.88",
+      "Henry IV",
+      "GADSHILL",
+      30,
+      "purchase, as I am a true man.",
+      "line"
+    ],
+    [
+      741,
+      "2.1.89",
+      "Henry IV",
+      "Chamberlain",
+      31,
+      "Nay, rather let me have it, as you are a false thief.",
+      "line"
+    ],
+    [
+      742,
+      "2.1.90",
+      "Henry IV",
+      "GADSHILL",
+      32,
+      "Go to; homo is a common name to all men. Bid the",
+      "line"
+    ],
+    [
+      743,
+      "2.1.91",
+      "Henry IV",
+      "GADSHILL",
+      32,
+      "ostler bring my gelding out of the stable. Farewell,",
+      "line"
+    ],
+    [
+      744,
+      "2.1.92",
+      "Henry IV",
+      "GADSHILL",
+      32,
+      "you muddy knave.",
+      "line"
+    ],
+    [
+      745,
+      "",
+      "Henry IV",
+      "GADSHILL",
+      32,
+      "Exeunt",
+      "line"
+    ],
+    [
+      746,
+      "",
+      "Henry IV",
+      "GADSHILL",
+      32,
+      "SCENE II. The highway, near Gadshill.",
+      "scene"
+    ],
+    [
+      747,
+      "",
+      "Henry IV",
+      "GADSHILL",
+      32,
+      "Enter PRINCE HENRY and POINS",
+      "line"
+    ],
+    [
+      748,
+      "2.2.1",
+      "Henry IV",
+      "POINS",
+      1,
+      "Come, shelter, shelter: I have removed Falstaffs",
+      "line"
+    ],
+    [
+      749,
+      "2.2.2",
+      "Henry IV",
+      "POINS",
+      1,
+      "horse, and he frets like a gummed velvet.",
+      "line"
+    ],
+    [
+      750,
+      "2.2.3",
+      "Henry IV",
+      "PRINCE HENRY",
+      2,
+      "Stand close.",
+      "line"
+    ],
+    [
+      751,
+      "",
+      "Henry IV",
+      "PRINCE HENRY",
+      2,
+      "Enter FALSTAFF",
+      "line"
+    ],
+    [
+      752,
+      "2.2.4",
+      "Henry IV",
+      "FALSTAFF",
+      3,
+      "Poins! Poins, and be hanged! Poins!",
+      "line"
+    ],
+    [
+      753,
+      "2.2.5",
+      "Henry IV",
+      "PRINCE HENRY",
+      4,
+      "Peace, ye fat-kidneyed rascal! what a brawling dost",
+      "line"
+    ],
+    [
+      754,
+      "2.2.6",
+      "Henry IV",
+      "PRINCE HENRY",
+      4,
+      "thou keep!",
+      "line"
+    ],
+    [
+      755,
+      "2.2.7",
+      "Henry IV",
+      "FALSTAFF",
+      5,
+      "Wheres Poins, Hal?",
+      "line"
+    ],
+    [
+      756,
+      "2.2.8",
+      "Henry IV",
+      "PRINCE HENRY",
+      6,
+      "He is walked up to the top of the hill: Ill go seek him.",
+      "line"
+    ],
+    [
+      757,
+      "2.2.9",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "I am accursed to rob in that thiefs company: the",
+      "line"
+    ],
+    [
+      758,
+      "2.2.10",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "rascal hath removed my horse, and tied him I know",
+      "line"
+    ],
+    [
+      759,
+      "2.2.11",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "not where. If I travel but four foot by the squier",
+      "line"
+    ],
+    [
+      760,
+      "2.2.12",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "further afoot, I shall break my wind. Well, I doubt",
+      "line"
+    ],
+    [
+      761,
+      "2.2.13",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "not but to die a fair death for all this, if I",
+      "line"
+    ],
+    [
+      762,
+      "2.2.14",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "scape hanging for killing that rogue. I have",
+      "line"
+    ],
+    [
+      763,
+      "2.2.15",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "forsworn his company hourly any time this two and",
+      "line"
+    ],
+    [
+      764,
+      "2.2.16",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "twenty years, and yet I am bewitched with the",
+      "line"
+    ],
+    [
+      765,
+      "2.2.17",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "rogues company. If the rascal hath not given me",
+      "line"
+    ],
+    [
+      766,
+      "2.2.18",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "medicines to make me love him, Ill be hanged; it",
+      "line"
+    ],
+    [
+      767,
+      "2.2.19",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "could not be else: I have drunk medicines. Poins!",
+      "line"
+    ],
+    [
+      768,
+      "2.2.20",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "Hal! a plague upon you both! Bardolph! Peto!",
+      "line"
+    ],
+    [
+      769,
+      "2.2.21",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "Ill starve ere Ill rob a foot further. An twere",
+      "line"
+    ],
+    [
+      770,
+      "2.2.22",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "not as good a deed as drink, to turn true man and to",
+      "line"
+    ],
+    [
+      771,
+      "2.2.23",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "leave these rogues, I am the veriest varlet that",
+      "line"
+    ],
+    [
+      772,
+      "2.2.24",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "ever chewed with a tooth. Eight yards of uneven",
+      "line"
+    ],
+    [
+      773,
+      "2.2.25",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "ground is threescore and ten miles afoot with me;",
+      "line"
+    ],
+    [
+      774,
+      "2.2.26",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "and the stony-hearted villains know it well enough:",
+      "line"
+    ],
+    [
+      775,
+      "2.2.27",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "a plague upon it when thieves cannot be true one to another!",
+      "line"
+    ],
+    [
+      776,
+      "",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "They whistle",
+      "line"
+    ],
+    [
+      777,
+      "2.2.28",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "Whew! A plague upon you all! Give me my horse, you",
+      "line"
+    ],
+    [
+      778,
+      "2.2.29",
+      "Henry IV",
+      "FALSTAFF",
+      7,
+      "rogues; give me my horse, and be hanged!",
+      "line"
+    ],
+    [
+      779,
+      "2.2.30",
+      "Henry IV",
+      "PRINCE HENRY",
+      8,
+      "Peace, ye fat-guts! lie down; lay thine ear close",
+      "line"
+    ],
+    [
+      780,
+      "2.2.31",
+      "Henry IV",
+      "PRINCE HENRY",
+      8,
+      "to the ground and list if thou canst hear the tread",
+      "line"
+    ],
+    [
+      781,
+      "2.2.32",
+      "Henry IV",
+      "PRINCE HENRY",
+      8,
+      "of travellers.",
+      "line"
+    ],
+    [
+      782,
+      "2.2.33",
+      "Henry IV",
+      "FALSTAFF",
+      9,
+      "Have you any levers to lift me up again, being down?",
+      "line"
+    ],
+    [
+      783,
+      "2.2.34",
+      "Henry IV",
+      "FALSTAFF",
+      9,
+      "Sblood, Ill not bear mine own flesh so far afoot",
+      "line"
+    ],
+    [
+      784,
+      "2.2.35",
+      "Henry IV",
+      "FALSTAFF",
+      9,
+      "again for all the coin in thy fathers exchequer.",
+      "line"
+    ],
+    [
+      785,
+      "2.2.36",
+      "Henry IV",
+      "FALSTAFF",
+      9,
+      "What a plague mean ye to colt me thus?",
+      "line"
+    ],
+    [
+      786,
+      "2.2.37",
+      "Henry IV",
+      "PRINCE HENRY",
+      10,
+      "Thou liest; thou art not colted, thou art uncolted.",
+      "line"
+    ],
+    [
+      787,
+      "2.2.38",
+      "Henry IV",
+      "FALSTAFF",
+      11,
+      "I prithee, good Prince Hal, help me to my horse,",
+      "line"
+    ],
+    [
+      788,
+      "2.2.39",
+      "Henry IV",
+      "FALSTAFF",
+      11,
+      "good kings son.",
+      "line"
+    ],
+    [
+      789,
+      "2.2.40",
+      "Henry IV",
+      "PRINCE HENRY",
+      12,
+      "Out, ye rogue! shall I be your ostler?",
+      "line"
+    ],
+    [
+      790,
+      "2.2.41",
+      "Henry IV",
+      "FALSTAFF",
+      13,
+      "Go, hang thyself in thine own heir-apparent",
+      "line"
+    ],
+    [
+      791,
+      "2.2.42",
+      "Henry IV",
+      "FALSTAFF",
+      13,
+      "garters! If I be taen, Ill peach for this. An I",
+      "line"
+    ],
+    [
+      792,
+      "2.2.43",
+      "Henry IV",
+      "FALSTAFF",
+      13,
+      "have not ballads made on you all and sung to filthy",
+      "line"
+    ],
+    [
+      793,
+      "2.2.44",
+      "Henry IV",
+      "FALSTAFF",
+      13,
+      "tunes, let a cup of sack be my poison: when a jest",
+      "line"
+    ],
+    [
+      794,
+      "2.2.45",
+      "Henry IV",
+      "FALSTAFF",
+      13,
+      "is so forward, and afoot too! I hate it.",
+      "line"
+    ],
+    [
+      795,
+      "",
+      "Henry IV",
+      "FALSTAFF",
+      13,
+      "Enter GADSHILL, BARDOLPH and PETO",
+      "line"
+    ],
+    [
+      796,
+      "2.2.46",
+      "Henry IV",
+      "GADSHILL",
+      14,
+      "Stand.",
+      "line"
+    ],
+    [
+      797,
+      "2.2.47",
+      "Henry IV",
+      "FALSTAFF",
+      15,
+      "So I do, against my will.",
+      "line"
+    ],
+    [
+      798,
+      "2.2.48",
+      "Henry IV",
+      "POINS",
+      16,
+      "O, tis our setter: I know his voice. Bardolph,",
+      "line"
+    ],
+    [
+      799,
+      "2.2.49",
+      "Henry IV",
+      "POINS",
+      16,
+      "what news?",
+      "line"
+    ],
+    [
+      800,
+      "2.2.50",
+      "Henry IV",
+      "BARDOLPH",
+      17,
+      "Case ye, case ye; on with your vizards: there s",
+      "line"
+    ],
+    [
+      801,
+      "2.2.51",
+      "Henry IV",
+      "BARDOLPH",
+      17,
+      "money of the kings coming down the hill; tis going",
+      "line"
+    ],
+    [
+      802,
+      "2.2.52",
+      "Henry IV",
+      "BARDOLPH",
+      17,
+      "to the kings exchequer.",
+      "line"
+    ],
+    [
+      803,
+      "2.2.53",
+      "Henry IV",
+      "FALSTAFF",
+      18,
+      "You lie, ye rogue; tis going to the kings tavern.",
+      "line"
+    ],
+    [
+      804,
+      "2.2.54",
+      "Henry IV",
+      "GADSHILL",
+      19,
+      "Theres enough to make us all.",
+      "line"
+    ],
+    [
+      805,
+      "2.2.55",
+      "Henry IV",
+      "FALSTAFF",
+      20,
+      "To be hanged.",
+      "line"
+    ],
+    [
+      806,
+      "2.2.56",
+      "Henry IV",
+      "PRINCE HENRY",
+      21,
+      "Sirs, you four shall front them in the narrow lane;",
+      "line"
+    ],
+    [
+      807,
+      "2.2.57",
+      "Henry IV",
+      "PRINCE HENRY",
+      21,
+      "Ned Poins and I will walk lower: if they scape",
+      "line"
+    ],
+    [
+      808,
+      "2.2.58",
+      "Henry IV",
+      "PRINCE HENRY",
+      21,
+      "from your encounter, then they light on us.",
+      "line"
+    ],
+    [
+      809,
+      "2.2.59",
+      "Henry IV",
+      "PETO",
+      22,
+      "How many be there of them?",
+      "line"
+    ],
+    [
+      810,
+      "2.2.60",
+      "Henry IV",
+      "GADSHILL",
+      23,
+      "Some eight or ten.",
+      "line"
+    ],
+    [
+      811,
+      "2.2.61",
+      "Henry IV",
+      "FALSTAFF",
+      24,
+      "Zounds, will they not rob us?",
+      "line"
+    ],
+    [
+      812,
+      "2.2.62",
+      "Henry IV",
+      "PRINCE HENRY",
+      25,
+      "What, a coward, Sir John Paunch?",
+      "line"
+    ],
+    [
+      813,
+      "2.2.63",
+      "Henry IV",
+      "FALSTAFF",
+      26,
+      "Indeed, I am not John of Gaunt, your grandfather;",
+      "line"
+    ],
+    [
+      814,
+      "2.2.64",
+      "Henry IV",
+      "FALSTAFF",
+      26,
+      "but yet no coward, Hal.",
+      "line"
+    ],
+    [
+      815,
+      "2.2.65",
+      "Henry IV",
+      "PRINCE HENRY",
+      27,
+      "Well, we leave that to the proof.",
+      "line"
+    ],
+    [
+      816,
+      "2.2.66",
+      "Henry IV",
+      "POINS",
+      28,
+      "Sirrah Jack, thy horse stands behind the hedge:",
+      "line"
+    ],
+    [
+      817,
+      "2.2.67",
+      "Henry IV",
+      "POINS",
+      28,
+      "when thou needest him, there thou shalt find him.",
+      "line"
+    ],
+    [
+      818,
+      "2.2.68",
+      "Henry IV",
+      "POINS",
+      28,
+      "Farewell, and stand fast.",
+      "line"
+    ],
+    [
+      819,
+      "2.2.69",
+      "Henry IV",
+      "FALSTAFF",
+      29,
+      "Now cannot I strike him, if I should be hanged.",
+      "line"
+    ],
+    [
+      820,
+      "2.2.70",
+      "Henry IV",
+      "PRINCE HENRY",
+      30,
+      "Ned, where are our disguises?",
+      "line"
+    ],
+    [
+      821,
+      "2.2.71",
+      "Henry IV",
+      "POINS",
+      31,
+      "Here, hard by: stand close.",
+      "line"
+    ],
+    [
+      822,
+      "",
+      "Henry IV",
+      "POINS",
+      31,
+      "Exeunt PRINCE HENRY and POINS",
+      "line"
+    ],
+    [
+      823,
+      "2.2.72",
+      "Henry IV",
+      "FALSTAFF",
+      32,
+      "Now, my masters, happy man be his dole, say I:",
+      "line"
+    ],
+    [
+      824,
+      "2.2.73",
+      "Henry IV",
+      "FALSTAFF",
+      32,
+      "every man to his business.",
+      "line"
+    ],
+    [
+      825,
+      "",
+      "Henry IV",
+      "FALSTAFF",
+      32,
+      "Enter the Travellers",
+      "line"
+    ],
+    [
+      826,
+      "2.2.74",
+      "Henry IV",
+      "First Traveller",
+      33,
+      "Come, neighbour: the boy shall lead our horses down",
+      "line"
+    ],
+    [
+      827,
+      "2.2.75",
+      "Henry IV",
+      "First Traveller",
+      33,
+      "the hill; well walk afoot awhile, and ease our legs.",
+      "line"
+    ],
+    [
+      828,
+      "2.2.76",
+      "Henry IV",
+      "Thieves",
+      34,
+      "Stand!",
+      "line"
+    ],
+    [
+      829,
+      "2.2.77",
+      "Henry IV",
+      "Travellers",
+      35,
+      "Jesus bless us!",
+      "line"
+    ],
+    [
+      830,
+      "2.2.78",
+      "Henry IV",
+      "FALSTAFF",
+      36,
+      "Strike; down with them; cut the villains throats:",
+      "line"
+    ],
+    [
+      831,
+      "2.2.79",
+      "Henry IV",
+      "FALSTAFF",
+      36,
+      "ah! whoreson caterpillars! bacon-fed knaves! they",
+      "line"
+    ],
+    [
+      832,
+      "2.2.80",
+      "Henry IV",
+      "FALSTAFF",
+      36,
+      "hate us youth: down with them: fleece them.",
+      "line"
+    ],
+    [
+      833,
+      "2.2.81",
+      "Henry IV",
+      "Travellers",
+      37,
+      "O, we are undone, both we and ours for ever!",
+      "line"
+    ],
+    [
+      834,
+      "2.2.82",
+      "Henry IV",
+      "FALSTAFF",
+      38,
+      "Hang ye, gorbellied knaves, are ye undone? No, ye",
+      "line"
+    ],
+    [
+      835,
+      "2.2.83",
+      "Henry IV",
+      "FALSTAFF",
+      38,
+      "fat chuffs: I would your store were here! On,",
+      "line"
+    ],
+    [
+      836,
+      "2.2.84",
+      "Henry IV",
+      "FALSTAFF",
+      38,
+      "bacons, on! What, ye knaves! young men must live.",
+      "line"
+    ],
+    [
+      837,
+      "2.2.85",
+      "Henry IV",
+      "FALSTAFF",
+      38,
+      "You are Grand-jurors, are ye? well jure ye, faith.",
+      "line"
+    ],
+    [
+      838,
+      "",
+      "Henry IV",
+      "FALSTAFF",
+      38,
+      "Here they rob them and bind them. Exeunt",
+      "line"
+    ],
+    [
+      839,
+      "",
+      "Henry IV",
+      "FALSTAFF",
+      38,
+      "Re-enter PRINCE HENRY and POINS",
+      "line"
+    ],
+    [
+      840,
+      "2.2.86",
+      "Henry IV",
+      "PRINCE HENRY",
+      39,
+      "The thieves have bound the true men. Now could thou",
+      "line"
+    ],
+    [
+      841,
+      "2.2.87",
+      "Henry IV",
+      "PRINCE HENRY",
+      39,
+      "and I rob the thieves and go merrily to London, it",
+      "line"
+    ],
+    [
+      842,
+      "2.2.88",
+      "Henry IV",
+      "PRINCE HENRY",
+      39,
+      "would be argument for a week, laughter for a month",
+      "line"
+    ],
+    [
+      843,
+      "2.2.89",
+      "Henry IV",
+      "PRINCE HENRY",
+      39,
+      "and a good jest for ever.",
+      "line"
+    ],
+    [
+      844,
+      "2.2.90",
+      "Henry IV",
+      "POINS",
+      40,
+      "Stand close; I hear them coming.",
+      "line"
+    ],
+    [
+      845,
+      "",
+      "Henry IV",
+      "POINS",
+      40,
+      "Enter the Thieves again",
+      "line"
+    ],
+    [
+      846,
+      "2.2.91",
+      "Henry IV",
+      "FALSTAFF",
+      41,
+      "Come, my masters, let us share, and then to  horse",
+      "line"
+    ],
+    [
+      847,
+      "2.2.92",
+      "Henry IV",
+      "FALSTAFF",
+      41,
+      "before day. An the Prince and Poins be not two",
+      "line"
+    ],
+    [
+      848,
+      "2.2.93",
+      "Henry IV",
+      "FALSTAFF",
+      41,
+      "arrant cowards, theres no equity stirring: theres",
+      "line"
+    ],
+    [
+      849,
+      "2.2.94",
+      "Henry IV",
+      "FALSTAFF",
+      41,
+      "no more valour in that Poins than in a wild-duck.",
+      "line"
+    ],
+    [
+      850,
+      "2.2.95",
+      "Henry IV",
+      "PRINCE HENRY",
+      42,
+      "Your money!",
+      "line"
+    ],
+    [
+      851,
+      "2.2.96",
+      "Henry IV",
+      "POINS",
+      43,
+      "Villains!",
+      "line"
+    ],
+    [
+      852,
+      "2.2.96",
+      "Henry IV",
+      "POINS",
+      43,
+      "As they are sharing, the Prince and Poins set upon  them; they all run away; and Falstaff, after a blow or two, runs away too, leaving the booty behind them",
+      "line"
+    ],
+    [
+      853,
+      "2.2.97",
+      "Henry IV",
+      "PRINCE HENRY",
+      44,
+      "Got with much ease. Now merrily to horse:",
+      "line"
+    ],
+    [
+      854,
+      "2.2.98",
+      "Henry IV",
+      "PRINCE HENRY",
+      44,
+      "The thieves are all scatterd and possessd with fear",
+      "line"
+    ],
+    [
+      855,
+      "2.2.99",
+      "Henry IV",
+      "PRINCE HENRY",
+      44,
+      "So strongly that they dare not meet each other;",
+      "line"
+    ],
+    [
+      856,
+      "2.2.100",
+      "Henry IV",
+      "PRINCE HENRY",
+      44,
+      "Each takes his fellow for an officer.",
+      "line"
+    ],
+    [
+      857,
+      "2.2.101",
+      "Henry IV",
+      "PRINCE HENRY",
+      44,
+      "Away, good Ned. Falstaff sweats to death,",
+      "line"
+    ],
+    [
+      858,
+      "2.2.102",
+      "Henry IV",
+      "PRINCE HENRY",
+      44,
+      "And lards the lean earth as he walks along:",
+      "line"
+    ],
+    [
+      859,
+      "2.2.103",
+      "Henry IV",
+      "PRINCE HENRY",
+      44,
+      "Were t not for laughing, I should pity him.",
+      "line"
+    ],
+    [
+      860,
+      "2.2.104",
+      "Henry IV",
+      "POINS",
+      45,
+      "How the rogue roard!",
+      "line"
+    ],
+    [
+      861,
+      "",
+      "Henry IV",
+      "POINS",
+      45,
+      "Exeunt",
+      "line"
+    ],
+    [
+      862,
+      "",
+      "Henry IV",
+      "POINS",
+      45,
+      "SCENE III. Warkworth castle",
+      "scene"
+    ],
+    [
+      863,
+      "",
+      "Henry IV",
+      "POINS",
+      45,
+      "Enter HOTSPUR, solus, reading a letter",
+      "line"
+    ],
+    [
+      864,
+      "2.3.1",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "But for mine own part, my lord, I could be well",
+      "line"
+    ],
+    [
+      865,
+      "2.3.2",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "contented to be there, in respect of the love I bear",
+      "line"
+    ],
+    [
+      866,
+      "2.3.3",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "your house. He could be contented: why is he not,",
+      "line"
+    ],
+    [
+      867,
+      "2.3.4",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "then? In respect of the love he bears our house:",
+      "line"
+    ],
+    [
+      868,
+      "2.3.5",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "he shows in this, he loves his own barn better than",
+      "line"
+    ],
+    [
+      869,
+      "2.3.6",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "he loves our house. Let me see some more. The",
+      "line"
+    ],
+    [
+      870,
+      "2.3.7",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "purpose you undertake is dangerous;--why, thats",
+      "line"
+    ],
+    [
+      871,
+      "2.3.8",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "certain: tis dangerous to take a cold, to sleep, to",
+      "line"
+    ],
+    [
+      872,
+      "2.3.9",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "drink; but I tell you, my lord fool, out of this",
+      "line"
+    ],
+    [
+      873,
+      "2.3.10",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "nettle, danger, we pluck this flower, safety. The",
+      "line"
+    ],
+    [
+      874,
+      "2.3.11",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "purpose you undertake is dangerous; the friends you",
+      "line"
+    ],
+    [
+      875,
+      "2.3.12",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "have named uncertain; the time itself unsorted; and",
+      "line"
+    ],
+    [
+      876,
+      "2.3.13",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "your whole plot too light for the counterpoise of so",
+      "line"
+    ],
+    [
+      877,
+      "2.3.14",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "great an opposition. Say you so, say you so? I say",
+      "line"
+    ],
+    [
+      878,
+      "2.3.15",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "unto you again, you are a shallow cowardly hind, and",
+      "line"
+    ],
+    [
+      879,
+      "2.3.16",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "you lie.  What a lack-brain is this! By the Lord,",
+      "line"
+    ],
+    [
+      880,
+      "2.3.17",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "our plot is a good plot as ever was laid; our",
+      "line"
+    ],
+    [
+      881,
+      "2.3.18",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "friends true and constant: a good plot, good",
+      "line"
+    ],
+    [
+      882,
+      "2.3.19",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "friends, and full of expectation; an excellent plot,",
+      "line"
+    ],
+    [
+      883,
+      "2.3.20",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "very good friends. What a frosty-spirited rogue is",
+      "line"
+    ],
+    [
+      884,
+      "2.3.21",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "this! Why, my lord of York commends the plot and the",
+      "line"
+    ],
+    [
+      885,
+      "2.3.22",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "general course of action. Zounds, an I were now by",
+      "line"
+    ],
+    [
+      886,
+      "2.3.23",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "this rascal, I could brain him with his ladys fan.",
+      "line"
+    ],
+    [
+      887,
+      "2.3.24",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "Is there not my father, my uncle and myself? lord",
+      "line"
+    ],
+    [
+      888,
+      "2.3.25",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "Edmund Mortimer, My lord of York and Owen Glendower?",
+      "line"
+    ],
+    [
+      889,
+      "2.3.26",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "is there not besides the Douglas? have I not all",
+      "line"
+    ],
+    [
+      890,
+      "2.3.27",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "their letters to meet me in arms by the ninth of the",
+      "line"
+    ],
+    [
+      891,
+      "2.3.28",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "next month? and are they not some of them set",
+      "line"
+    ],
+    [
+      892,
+      "2.3.29",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "forward already? What a pagan rascal is this! an",
+      "line"
+    ],
+    [
+      893,
+      "2.3.30",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "infidel! Ha! you shall see now in very sincerity",
+      "line"
+    ],
+    [
+      894,
+      "2.3.31",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "of fear and cold heart, will he to the king and lay",
+      "line"
+    ],
+    [
+      895,
+      "2.3.32",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "open all our proceedings. O, I could divide myself",
+      "line"
+    ],
+    [
+      896,
+      "2.3.33",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "and go to buffets, for moving such a dish of",
+      "line"
+    ],
+    [
+      897,
+      "2.3.34",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "skim milk with so honourable an action! Hang him!",
+      "line"
+    ],
+    [
+      898,
+      "2.3.35",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "let him tell the king: we are prepared. I will set",
+      "line"
+    ],
+    [
+      899,
+      "2.3.36",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "forward to-night.",
+      "line"
+    ],
+    [
+      900,
+      "",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "Enter LADY PERCY",
+      "line"
+    ],
+    [
+      901,
+      "2.3.37",
+      "Henry IV",
+      "HOTSPUR",
+      1,
+      "How now, Kate! I must leave you within these two hours.",
+      "line"
+    ],
+    [
+      902,
+      "2.3.38",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "O, my good lord, why are you thus alone?",
+      "line"
+    ],
+    [
+      903,
+      "2.3.39",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "For what offence have I this fortnight been",
+      "line"
+    ],
+    [
+      904,
+      "2.3.40",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "A banishd woman from my Harrys bed?",
+      "line"
+    ],
+    [
+      905,
+      "2.3.41",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Tell me, sweet lord, what ist that takes from thee",
+      "line"
+    ],
+    [
+      906,
+      "2.3.42",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Thy stomach, pleasure and thy golden sleep?",
+      "line"
+    ],
+    [
+      907,
+      "2.3.43",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Why dost thou bend thine eyes upon the earth,",
+      "line"
+    ],
+    [
+      908,
+      "2.3.44",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "And start so often when thou sitst alone?",
+      "line"
+    ],
+    [
+      909,
+      "2.3.45",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Why hast thou lost the fresh blood in thy cheeks;",
+      "line"
+    ],
+    [
+      910,
+      "2.3.46",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "And given my treasures and my rights of thee",
+      "line"
+    ],
+    [
+      911,
+      "2.3.47",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "To thick-eyed musing and cursed melancholy?",
+      "line"
+    ],
+    [
+      912,
+      "2.3.48",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "In thy faint slumbers I by thee have watchd,",
+      "line"
+    ],
+    [
+      913,
+      "2.3.49",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "And heard thee murmur tales of iron wars;",
+      "line"
+    ],
+    [
+      914,
+      "2.3.50",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Speak terms of manage to thy bounding steed;",
+      "line"
+    ],
+    [
+      915,
+      "2.3.51",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Cry Courage! to the field! And thou hast talkd",
+      "line"
+    ],
+    [
+      916,
+      "2.3.52",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Of sallies and retires, of trenches, tents,",
+      "line"
+    ],
+    [
+      917,
+      "2.3.53",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Of palisadoes, frontiers, parapets,",
+      "line"
+    ],
+    [
+      918,
+      "2.3.54",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Of basilisks, of cannon, culverin,",
+      "line"
+    ],
+    [
+      919,
+      "2.3.55",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Of prisoners ransom and of soldiers slain,",
+      "line"
+    ],
+    [
+      920,
+      "2.3.56",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "And all the currents of a heady fight.",
+      "line"
+    ],
+    [
+      921,
+      "2.3.57",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Thy spirit within thee hath been so at war",
+      "line"
+    ],
+    [
+      922,
+      "2.3.58",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "And thus hath so bestirrd thee in thy sleep,",
+      "line"
+    ],
+    [
+      923,
+      "2.3.59",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "That beads of sweat have stood upon thy brow",
+      "line"
+    ],
+    [
+      924,
+      "2.3.60",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Like bubbles in a late-disturbed stream;",
+      "line"
+    ],
+    [
+      925,
+      "2.3.61",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "And in thy face strange motions have appeard,",
+      "line"
+    ],
+    [
+      926,
+      "2.3.62",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Such as we see when men restrain their breath",
+      "line"
+    ],
+    [
+      927,
+      "2.3.63",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "On some great sudden hest. O, what portents are these?",
+      "line"
+    ],
+    [
+      928,
+      "2.3.64",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "Some heavy business hath my lord in hand,",
+      "line"
+    ],
+    [
+      929,
+      "2.3.65",
+      "Henry IV",
+      "LADY PERCY",
+      2,
+      "And I must know it, else he loves me not.",
+      "line"
+    ],
+    [
+      930,
+      "2.3.66",
+      "Henry IV",
+      "HOTSPUR",
+      3,
+      "What, ho!",
+      "line"
+    ],
+    [
+      931,
+      "",
+      "Henry IV",
+      "HOTSPUR",
+      3,
+      "Enter Servant",
+      "line"
+    ],
+    [
+      932,
+      "2.3.67",
+      "Henry IV",
+      "HOTSPUR",
+      3,
+      "Is Gilliams with the packet gone?",
+      "line"
+    ],
+    [
+      933,
+      "2.3.68",
+      "Henry IV",
+      "Servant",
+      4,
+      "He is, my lord, an hour ago.",
+      "line"
+    ],
+    [
+      934,
+      "2.3.69",
+      "Henry IV",
+      "HOTSPUR",
+      5,
+      "Hath Butler brought those horses from the sheriff?",
+      "line"
+    ],
+    [
+      935,
+      "2.3.70",
+      "Henry IV",
+      "Servant",
+      6,
+      "One horse, my lord, he brought even now.",
+      "line"
+    ],
+    [
+      936,
+      "2.3.71",
+      "Henry IV",
+      "HOTSPUR",
+      7,
+      "What horse? a roan, a crop-ear, is it not?",
+      "line"
+    ],
+    [
+      937,
+      "2.3.72",
+      "Henry IV",
+      "Servant",
+      8,
+      "It is, my lord.",
+      "line"
+    ],
+    [
+      938,
+      "2.3.73",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "That roan shall by my throne.",
+      "line"
+    ],
+    [
+      939,
+      "2.3.74",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Well, I will back him straight: O esperance!",
+      "line"
+    ],
+    [
+      940,
+      "2.3.75",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Bid Butler lead him forth into the park.",
+      "line"
+    ],
+    [
+      941,
+      "",
+      "Henry IV",
+      "HOTSPUR",
+      9,
+      "Exit Servant",
+      "line"
+    ],
+    [
+      942,
+      "2.3.76",
+      "Henry IV",
+      "LADY PERCY",
+      10,
+      "But hear you, my lord.",
+      "line"
+    ],
+    [
+      943,
+      "2.3.77",
+      "Henry IV",
+      "HOTSPUR",
+      11,
+      "What sayst thou, my lady?",
+      "line"
+    ],
+    [
+      944,
+      "2.3.78",
+      "Henry IV",
+      "LADY PERCY",
+      12,
+      "What is it carries you away?",
+      "line"
+    ],
+    [
+      945,
+      "2.3.79",
+      "Henry IV",
+      "HOTSPUR",
+      13,
+      "Why, my horse, my love, my horse.",
+      "line"
+    ],
+    [
+      946,
+      "2.3.80",
+      "Henry IV",
+      "LADY PERCY",
+      14,
+      "Out, you mad-headed ape!",
+      "line"
+    ],
+    [
+      947,
+      "2.3.81",
+      "Henry IV",
+      "LADY PERCY",
+      14,
+      "A weasel hath not such a deal of spleen",
+      "line"
+    ],
+    [
+      948,
+      "2.3.82",
+      "Henry IV",
+      "LADY PERCY",
+      14,
+      "As you are tossd with. In faith,",
+      "line"
+    ],
+    [
+      949,
+      "2.3.83",
+      "Henry IV",
+      "LADY PERCY",
+      14,
+      "Ill know your business, Harry, that I will.",
+      "line"
+    ],
+    [
+      950,
+      "2.3.84",
+      "Henry IV",
+      "LADY PERCY",
+      14,
+      "I fear my brother Mortimer doth stir",
+      "line"
+    ],
+    [
+      951,
+      "2.3.85",
+      "Henry IV",
+      "LADY PERCY",
+      14,
+      "About his title, and hath sent for you",
+      "line"
+    ],
+    [
+      952,
+      "2.3.86",
+      "Henry IV",
+      "LADY PERCY",
+      14,
+      "To line his enterprise: but if you go,--",
+      "line"
+    ],
+    [
+      953,
+      "2.3.87",
+      "Henry IV",
+      "HOTSPUR",
+      15,
+      "So far afoot, I shall be weary, love.",
+      "line"
+    ],
+    [
+      954,
+      "2.3.88",
+      "Henry IV",
+      "LADY PERCY",
+      16,
+      "Come, come, you paraquito, answer me",
+      "line"
+    ],
+    [
+      955,
+      "2.3.89",
+      "Henry IV",
+      "LADY PERCY",
+      16,
+      "Directly unto this question that I ask:",
+      "line"
+    ],
+    [
+      956,
+      "2.3.90",
+      "Henry IV",
+      "LADY PERCY",
+      16,
+      "In faith, Ill break thy little finger, Harry,",
+      "line"
+    ],
+    [
+      957,
+      "2.3.91",
+      "Henry IV",
+      "LADY PERCY",
+      16,
+      "An if thou wilt not tell me all things true.",
+      "line"
+    ],
+    [
+      958,
+      "2.3.92",
+      "Henry IV",
+      "HOTSPUR",
+      17,
+      "Away,",
+      "line"
+    ],
+    [
+      959,
+      "2.3.93",
+      "Henry IV",
+      "HOTSPUR",
+      17,
+      "Away, you trifler! Love! I love thee not,",
+      "line"
+    ],
+    [
+      960,
+      "2.3.94",
+      "Henry IV",
+      "HOTSPUR",
+      17,
+      "I care not for thee, Kate: this is no world",
+      "line"
+    ],
+    [
+      961,
+      "2.3.95",
+      "Henry IV",
+      "HOTSPUR",
+      17,
+      "To play with mammets and to tilt with lips:",
+      "line"
+    ],
+    [
+      962,
+      "2.3.96",
+      "Henry IV",
+      "HOTSPUR",
+      17,
+      "We must have bloody noses and crackd crowns,",
+      "line"
+    ],
+    [
+      963,
+      "2.3.97",
+      "Henry IV",
+      "HOTSPUR",
+      17,
+      "And pass them current too. Gods me, my horse!",
+      "line"
+    ],
+    [
+      964,
+      "2.3.98",
+      "Henry IV",
+      "HOTSPUR",
+      17,
+      "What sayst thou, Kate? what wouldst thou",
+      "line"
+    ],
+    [
+      965,
+      "2.3.99",
+      "Henry IV",
+      "HOTSPUR",
+      17,
+      "have with me?",
+      "line"
+    ],
+    [
+      966,
+      "2.3.100",
+      "Henry IV",
+      "LADY PERCY",
+      18,
+      "Do you not love me? do you not, indeed?",
+      "line"
+    ],
+    [
+      967,
+      "2.3.101",
+      "Henry IV",
+      "LADY PERCY",
+      18,
+      "Well, do not then; for since you love me not,",
+      "line"
+    ],
+    [
+      968,
+      "2.3.102",
+      "Henry IV",
+      "LADY PERCY",
+      18,
+      "I will not love myself. Do you not love me?",
+      "line"
+    ],
+    [
+      969,
+      "2.3.103",
+      "Henry IV",
+      "LADY PERCY",
+      18,
+      "Nay, tell me if you speak in jest or no.",
+      "line"
+    ],
+    [
+      970,
+      "2.3.104",
+      "Henry IV",
+      "HOTSPUR",
+      19,
+      "Come, wilt thou see me ride?",
+      "line"
+    ],
+    [
+      971,
+      "2.3.105",
+      "Henry IV",
+      "HOTSPUR",
+      19,
+      "And when I am on horseback, I will swear",
+      "line"
+    ],
+    [
+      972,
+      "2.3.106",
+      "Henry IV",
+      "HOTSPUR",
+      19,
+      "I love thee infinitely. But hark you, Kate;",
+      "line"
+    ],
+    [
+      973,
+      "2.3.107",
+      "Henry IV",
+      "HOTSPUR",
+      19,
+      "I must not have you henceforth question me",
+      "line"
+    ],
+    [
+      974,
+      "2.3.108",
+      "Henry IV",
+      "HOTSPUR",
+      19,
+      "Whither I go, nor reason whereabout:",
+      "line"
+    ],
+    [
+      975,
+      "2.3.109",
+      "Henry IV",
+      "HOTSPUR",
+      19,
+      "Whither I must, I must; and, to conclude,",
+      "line"
+    ],
+    [
+      976,
+      "2.3.110",
+      "Henry IV",
+      "HOTSPUR",
+      19,
+      "This evening must I leave you, gentle Kate.",
+      "line"
+    ],
+    [
+      977,
+      "2.3.111",
+      "Henry IV",
+      "HOTSPUR",
+      19,
+      "I know you wise, but yet no farther wise",
+      "line"
+    ],
+    [
+      978,
+      "2.3.112",
+      "Henry IV",
+      "HOTSPUR",
+      19,
+      "Than Harry Percys wife: constant you are,",
+      "line"
+    ],
+    [
+      979,
+      "2.3.113",
+      "Henry IV",
+      "HOTSPUR",
+      19,
+      "But yet a woman: and for secrecy,",
+      "line"
+    ],
+    [
+      980,
+      "2.3.114",
+      "Henry IV",
+      "HOTSPUR",
+      19,
+      "No lady closer; for I well believe",
+      "line"
+    ],
+    [
+      981,
+      "2.3.115",
+      "Henry IV",
+      "HOTSPUR",
+      19,
+      "Thou wilt not utter what thou dost not know;",
+      "line"
+    ],
+    [
+      982,
+      "2.3.116",
+      "Henry IV",
+      "HOTSPUR",
+      19,
+      "And so far will I trust thee, gentle Kate.",
+      "line"
+    ],
+    [
+      983,
+      "2.3.117",
+      "Henry IV",
+      "LADY PERCY",
+      20,
+      "How! so far?",
+      "line"
+    ],
+    [
+      984,
+      "2.3.118",
+      "Henry IV",
+      "HOTSPUR",
+      21,
+      "Not an inch further. But hark you, Kate:",
+      "line"
+    ],
+    [
+      985,
+      "2.3.119",
+      "Henry IV",
+      "HOTSPUR",
+      21,
+      "Whither I go, thither shall you go too;",
+      "line"
+    ],
+    [
+      986,
+      "2.3.120",
+      "Henry IV",
+      "HOTSPUR",
+      21,
+      "To-day will I set forth, to-morrow you.",
+      "line"
+    ],
+    [
+      987,
+      "2.3.121",
+      "Henry IV",
+      "HOTSPUR",
+      21,
+      "Will this content you, Kate?",
+      "line"
+    ],
+    [
+      988,
+      "2.3.122",
+      "Henry IV",
+      "LADY PERCY",
+      22,
+      "It must of force.",
+      "line"
+    ],
+    [
+      989,
+      "",
+      "Henry IV",
+      "LADY PERCY",
+      22,
+      "Exeunt",
+      "line"
+    ],
+    [
+      990,
+      "",
+      "Henry IV",
+      "LADY PERCY",
+      22,
+      "SCENE IV. The Boars-Head Tavern, Eastcheap.",
+      "scene"
+    ],
+    [
+      991,
+      "",
+      "Henry IV",
+      "LADY PERCY",
+      22,
+      "Enter PRINCE HENRY and POINS",
+      "line"
+    ],
+    [
+      992,
+      "2.4.1",
+      "Henry IV",
+      "PRINCE HENRY",
+      1,
+      "Ned, prithee, come out of that fat room, and lend me",
+      "line"
+    ],
+    [
+      993,
+      "2.4.2",
+      "Henry IV",
+      "PRINCE HENRY",
+      1,
+      "thy hand to laugh a little.",
+      "line"
+    ],
+    [
+      994,
+      "2.4.3",
+      "Henry IV",
+      "POINS",
+      2,
+      "Where hast been, Hal?",
+      "line"
+    ],
+    [
+      995,
+      "2.4.4",
+      "Henry IV",
+      "PRINCE HENRY",
+      3,
+      "With three or four loggerheads amongst three or four",
+      "line"
+    ],
+    [
+      996,
+      "2.4.5",
+      "Henry IV",
+      "PRINCE HENRY",
+      3,
+      "score hogsheads. I have sounded the very",
+      "line"
+    ],
+    [
+      997,
+      "2.4.6",
+      "Henry IV",
+      "PRINCE HENRY",
+      3,
+      "base-string of humility. Sirrah, I am sworn brother",
+      "line"
+    ],
+    [
+      998,
+      "2.4.7",
+      "Henry IV",
+      "PRINCE HENRY",
+      3,
+      "to a leash of drawers; and can call them all by",
+      "line"
+    ],
+    [
+      999,
+      "2.4.8",
+      "Henry IV",
+      "PRINCE HENRY",
+      3,
+      "their christen names, as Tom, Dick, and Francis.",
+      "line"
+    ],
+    [
+      1000,
+      "2.4.9",
+      "Henry IV",
+      "PRINCE HENRY",
+      3,
+      "They take it already upon their salvation, that",
+      "line"
+    ]
+  ],
+  "cursor": "15izAwFaAXN4RkdsdVkyeDFaR1ZmWTI5dWRHVjRkRjkxZFdsa0RYRjFaWEo1UVc1a1JtVjBZMmdCRm1oVVJFTXRhVlpNVTFsaFpYUmZZMGhwTXpGaVQxRUFBQUFBQUFBQVZSWTNZVWR6Y25NM2FsTkxSMkZZWjNsQ2RtcFlkelpu/////w8HAWYHbGluZV9pZAEHaW50ZWdlcgAAAWYLbGluZV9udW1iZXIBBHRleHQAAAFmCXBsYXlfbmFtZQEHa2V5d29yZAAAAWYHc3BlYWtlcgEHa2V5d29yZAAAAWYNc3BlZWNoX251bWJlcgEHaW50ZWdlcgAAAWYKdGV4dF9lbnRyeQEEdGV4dAAAAWYEdHlwZQEEdGV4dAAAAX8="
+}

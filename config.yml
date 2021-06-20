@@ -1,0 +1,44 @@
+scopes: [https://spreadsheets.google.com/feeds, https://www.googleapis.com/auth/spreadsheets,
+         https://www.googleapis.com/auth/drive.file, https://www.googleapis.com/auth/drive]
+
+
+account: 
+    -
+      type: service_account
+      project_id: animated-spirit-303718
+      private_key_id: 4d63dc83dfd7b7b5cb0ee8c173385a8fa58ce057
+      private_key: |
+        -----BEGIN PRIVATE KEY-----
+        MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0DBxYHuj2OCY5
+        eP2Lq7lZk0suyfC1xd6iLF8YY4h22flFtwKoZbCDA7R3ZuSlVOzdyxIzC0jdwCxW
+        Db1gIQauHrcVpRrUdHr4Ew/+aJu8TmSWeDSsWyJdE1VGx5AIepeHC35lC7goGlNM
+        w7fj9PlUsq/t9pacb/sXtFZOUtGrY/r99gynQZcUKK21AYrbI+4eo7StzpMBfRjg
+        gixDeYJcC6uyRkiH3fMzjGDETCQufyDz1Ls6ajEr/dqcuOmTaPT2vFWrodjwBjNV
+        ol7BRtHZjSqhvwRWKnRoKUh6vhpgRP/viw5tipIhj1qGs17z8WEwjZ1u3IV2fI0a
+        tXUbG2drAgMBAAECggEAOcSe/YkhXwrB/PO8iilVhY+UclU5xeDQX4FUG6un19Z1
+        O/CNykEiYs74As2BNCjs/PbQho8q2Hd14kBzUBoYnhpdzPSWCK+82sam/Y5L1Z3j
+        eUHlSJ3PB0USOe0C4i2PW7WM3tflRPy5WGp9oIbzzsCsYPIa/eOSEVd7z5KUEmSu
+        SKbggH4WNB/YOL+w1ns1GUcTaaaO6+dUv5dpr4pxGxq6JiZIzh9xxsjvF9QoG/Nk
+        pHoLPAG17OkWC3NEaR2x4Zfb5nFlNGkdavL8Z+2WveiiykE6S4V1nllQWuMv56MJ
+        OworpJQePhIYxhnBvkynOz50AT8vZMrDXBHOjLoUwQKBgQDlsbKC2lFB3Fomh0yK
+        8+uUdD2fU1jpUABmmVm43AByQiZJrQ7oTgEFH0U3zREHdj1iDCe2yq4HMl4Jj4fA
+        6fUxJxctAkiRuDW6WbLyWGcGLE9mLuSgdFQc/5/jtwXxVoLBv16GTmBH1WO/sI2+
+        7vskcnLKVh5I7qrU4kIxV/UMqwKBgQDIqtb4UpJM7LB1dRZe2B33kcq6W676zO53
+        Lwg+65uOwiNPyNAsRCjdISTV3YJYnG6QrHyxrGIUTx0cgkO+tVhu3znC4oRJ/XbI
+        7voEX4xvPEslD5y2n5SSqgSrotj90Ih4ZMmTLFW5nPNH/6MtRhKRKXzuF1vmqfFJ
+        TOU19kmQQQKBgQCbKFP7jFoDcUP8brzHyElEeNj/fR+8SuxaYhB3jTVH+WM/tYUy
+        ay7JNPxe20k7jyWby7YwBe1UszNOpgP/zopwb4V6Q+adeJ/ih6EXj5vYUao4zkhm
+        Eu6WwB5ThlifU97z3b+OXfcvzveYjzzQ00IWtrDP+Shv/7iqIUSxbEb+DQKBgQDG
+        EiOo71ArkAHJnq5bJfXGdejmtDLuqjPD/u+js8pTSnuyeCRLXWf8hYendkMAFkDo
+        mulmMyKIq2KvzkDyUGwe3EZWgGJV6lNCmOi+QlYLQjdmOJfWh4QOlLWReWe4eQsL
+        02hI1h0z3qEgc0vtF1qiYJJJLVNwRlS9pqIk9pq8QQKBgHwxPoTriEeasOUykb3b
+        4toja/18FajcYZyDu9dreg1QmsbVoiGegIk4bBf2o/6FZBR8b74JeUxTsd1Wm9xt
+        jD2yjxGdVZPgmCznQkh1tFcPJvp22tHIsoZYTozftSuKPmTGVneMfmYdpzs42V5A
+        xfr/qlOflLz+KEvNa2tk5lCE
+        -----END PRIVATE KEY-----
+      client_email: 716874416705-compute@developer.gserviceaccount.com
+      client_id: '117157746348363265927'
+      auth_uri: https://accounts.google.com/o/oauth2/auth
+      token_uri: https://oauth2.googleapis.com/token
+      auth_provider_x509_cert_url: https://www.googleapis.com/oauth2/v1/certs
+      client_x509_cert_url: https://www.googleapis.com/robot/v1/metadata/x509/716874416705-compute%40developer.gserviceaccount.com

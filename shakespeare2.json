@@ -1,0 +1,23 @@
+{
+  "columns": [
+    {
+      "name": "genres",
+      "type": "text"
+    },
+    {
+      "name": "movieId",
+      "type": "text"
+    },
+    {
+      "name": "title",
+      "type": "text"
+    }
+  ],
+  "rows": [
+    [
+      "Adventure|Animation|Children|Comedy|Fantasy",
+      "1",
+      "Toy Story (1995)"
+    ]
+  ]
+}

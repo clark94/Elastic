@@ -1,0 +1,1001 @@
+id,line_id,line_number,play_name,speaker,speech_number,text_entry,type
+0,1,,Henry IV,,,ACT I,act
+1,2,,Henry IV,,,SCENE I. London. The palace.,scene
+2,3,,Henry IV,,,"Enter KING HENRY, LORD JOHN OF LANCASTER, the EARL of WESTMORELAND, SIR WALTER BLUNT, and others",line
+3,4,1.1.1,Henry IV,KING HENRY IV,1.0,"So shaken as we are, so wan with care,",line
+4,5,1.1.2,Henry IV,KING HENRY IV,1.0,"Find we a time for frighted peace to pant,",line
+5,6,1.1.3,Henry IV,KING HENRY IV,1.0,And breathe short-winded accents of new broils,line
+6,7,1.1.4,Henry IV,KING HENRY IV,1.0,To be commenced in strands afar remote.,line
+7,8,1.1.5,Henry IV,KING HENRY IV,1.0,No more the thirsty entrance of this soil,line
+8,9,1.1.6,Henry IV,KING HENRY IV,1.0,Shall daub her lips with her own childrens blood;,line
+9,10,1.1.7,Henry IV,KING HENRY IV,1.0,"Nor more shall trenching war channel her fields,",line
+10,11,1.1.8,Henry IV,KING HENRY IV,1.0,Nor bruise her flowerets with the armed hoofs,line
+11,12,1.1.9,Henry IV,KING HENRY IV,1.0,"Of hostile paces: those opposed eyes,",line
+12,13,1.1.10,Henry IV,KING HENRY IV,1.0,"Which, like the meteors of a troubled heaven,",line
+13,14,1.1.11,Henry IV,KING HENRY IV,1.0,"All of one nature, of one substance bred,",line
+14,15,1.1.12,Henry IV,KING HENRY IV,1.0,Did lately meet in the intestine shock,line
+15,16,1.1.13,Henry IV,KING HENRY IV,1.0,And furious close of civil butchery,line
+16,17,1.1.14,Henry IV,KING HENRY IV,1.0,"Shall now, in mutual well-beseeming ranks,",line
+17,18,1.1.15,Henry IV,KING HENRY IV,1.0,March all one way and be no more opposed,line
+18,19,1.1.16,Henry IV,KING HENRY IV,1.0,"Against acquaintance, kindred and allies:",line
+19,20,1.1.17,Henry IV,KING HENRY IV,1.0,"The edge of war, like an ill-sheathed knife,",line
+20,21,1.1.18,Henry IV,KING HENRY IV,1.0,"No more shall cut his master. Therefore, friends,",line
+21,22,1.1.19,Henry IV,KING HENRY IV,1.0,"As far as to the sepulchre of Christ,",line
+22,23,1.1.20,Henry IV,KING HENRY IV,1.0,"Whose soldier now, under whose blessed cross",line
+23,24,1.1.21,Henry IV,KING HENRY IV,1.0,"We are impressed and engaged to fight,",line
+24,25,1.1.22,Henry IV,KING HENRY IV,1.0,Forthwith a power of English shall we levy;,line
+25,26,1.1.23,Henry IV,KING HENRY IV,1.0,Whose arms were moulded in their mothers womb,line
+26,27,1.1.24,Henry IV,KING HENRY IV,1.0,To chase these pagans in those holy fields,line
+27,28,1.1.25,Henry IV,KING HENRY IV,1.0,Over whose acres walkd those blessed feet,line
+28,29,1.1.26,Henry IV,KING HENRY IV,1.0,Which fourteen hundred years ago were naild,line
+29,30,1.1.27,Henry IV,KING HENRY IV,1.0,For our advantage on the bitter cross.,line
+30,31,1.1.28,Henry IV,KING HENRY IV,1.0,"But this our purpose now is twelve month old,",line
+31,32,1.1.29,Henry IV,KING HENRY IV,1.0,And bootless tis to tell you we will go:,line
+32,33,1.1.30,Henry IV,KING HENRY IV,1.0,Therefore we meet not now. Then let me hear,line
+33,34,1.1.31,Henry IV,KING HENRY IV,1.0,"Of you, my gentle cousin Westmoreland,",line
+34,35,1.1.32,Henry IV,KING HENRY IV,1.0,What yesternight our council did decree,line
+35,36,1.1.33,Henry IV,KING HENRY IV,1.0,In forwarding this dear expedience.,line
+36,37,1.1.34,Henry IV,WESTMORELAND,2.0,"My liege, this haste was hot in question,",line
+37,38,1.1.35,Henry IV,WESTMORELAND,2.0,And many limits of the charge set down,line
+38,39,1.1.36,Henry IV,WESTMORELAND,2.0,But yesternight: when all athwart there came,line
+39,40,1.1.37,Henry IV,WESTMORELAND,2.0,A post from Wales loaden with heavy news;,line
+40,41,1.1.38,Henry IV,WESTMORELAND,2.0,"Whose worst was, that the noble Mortimer,",line
+41,42,1.1.39,Henry IV,WESTMORELAND,2.0,Leading the men of Herefordshire to fight,line
+42,43,1.1.40,Henry IV,WESTMORELAND,2.0,"Against the irregular and wild Glendower,",line
+43,44,1.1.41,Henry IV,WESTMORELAND,2.0,"Was by the rude hands of that Welshman taken,",line
+44,45,1.1.42,Henry IV,WESTMORELAND,2.0,A thousand of his people butchered;,line
+45,46,1.1.43,Henry IV,WESTMORELAND,2.0,"Upon whose dead corpse there was such misuse,",line
+46,47,1.1.44,Henry IV,WESTMORELAND,2.0,"Such beastly shameless transformation,",line
+47,48,1.1.45,Henry IV,WESTMORELAND,2.0,By those Welshwomen done as may not be,line
+48,49,1.1.46,Henry IV,WESTMORELAND,2.0,Without much shame retold or spoken of.,line
+49,50,1.1.47,Henry IV,KING HENRY IV,3.0,It seems then that the tidings of this broil,line
+50,51,1.1.48,Henry IV,KING HENRY IV,3.0,Brake off our business for the Holy Land.,line
+51,52,1.1.49,Henry IV,WESTMORELAND,4.0,"This matchd with other did, my gracious lord;",line
+52,53,1.1.50,Henry IV,WESTMORELAND,4.0,For more uneven and unwelcome news,line
+53,54,1.1.51,Henry IV,WESTMORELAND,4.0,Came from the north and thus it did import:,line
+54,55,1.1.52,Henry IV,WESTMORELAND,4.0,"On Holy-rood day, the gallant Hotspur there,",line
+55,56,1.1.53,Henry IV,WESTMORELAND,4.0,"Young Harry Percy and brave Archibald,",line
+56,57,1.1.54,Henry IV,WESTMORELAND,4.0,"That ever-valiant and approved Scot,",line
+57,58,1.1.55,Henry IV,WESTMORELAND,4.0,"At Holmedon met,",line
+58,59,1.1.56,Henry IV,WESTMORELAND,4.0,"Where they did spend a sad and bloody hour,",line
+59,60,1.1.57,Henry IV,WESTMORELAND,4.0,"As by discharge of their artillery,",line
+60,61,1.1.58,Henry IV,WESTMORELAND,4.0,"And shape of likelihood, the news was told;",line
+61,62,1.1.59,Henry IV,WESTMORELAND,4.0,"For he that brought them, in the very heat",line
+62,63,1.1.60,Henry IV,WESTMORELAND,4.0,"And pride of their contention did take horse,",line
+63,64,1.1.61,Henry IV,WESTMORELAND,4.0,Uncertain of the issue any way.,line
+64,65,1.1.62,Henry IV,KING HENRY IV,5.0,"Here is a dear, a true industrious friend,",line
+65,66,1.1.63,Henry IV,KING HENRY IV,5.0,"Sir Walter Blunt, new lighted from his horse.",line
+66,67,1.1.64,Henry IV,KING HENRY IV,5.0,Staind with the variation of each soil,line
+67,68,1.1.65,Henry IV,KING HENRY IV,5.0,Betwixt that Holmedon and this seat of ours;,line
+68,69,1.1.66,Henry IV,KING HENRY IV,5.0,And he hath brought us smooth and welcome news.,line
+69,70,1.1.67,Henry IV,KING HENRY IV,5.0,The Earl of Douglas is discomfited:,line
+70,71,1.1.68,Henry IV,KING HENRY IV,5.0,"Ten thousand bold Scots, two and twenty knights,",line
+71,72,1.1.69,Henry IV,KING HENRY IV,5.0,Balkd in their own blood did Sir Walter see,line
+72,73,1.1.70,Henry IV,KING HENRY IV,5.0,"On Holmedons plains. Of prisoners, Hotspur took",line
+73,74,1.1.71,Henry IV,KING HENRY IV,5.0,"Mordake the Earl of Fife, and eldest son",line
+74,75,1.1.72,Henry IV,KING HENRY IV,5.0,"To beaten Douglas; and the Earl of Athol,",line
+75,76,1.1.73,Henry IV,KING HENRY IV,5.0,"Of Murray, Angus, and Menteith:",line
+76,77,1.1.74,Henry IV,KING HENRY IV,5.0,And is not this an honourable spoil?,line
+77,78,1.1.75,Henry IV,KING HENRY IV,5.0,"A gallant prize? ha, cousin, is it not?",line
+78,79,1.1.76,Henry IV,WESTMORELAND,6.0,"In faith,",line
+79,80,1.1.77,Henry IV,WESTMORELAND,6.0,It is a conquest for a prince to boast of.,line
+80,81,1.1.78,Henry IV,KING HENRY IV,7.0,"Yea, there thou makest me sad and makest me sin",line
+81,82,1.1.79,Henry IV,KING HENRY IV,7.0,In envy that my Lord Northumberland,line
+82,83,1.1.80,Henry IV,KING HENRY IV,7.0,"Should be the father to so blest a son,",line
+83,84,1.1.81,Henry IV,KING HENRY IV,7.0,A son who is the theme of honours tongue;,line
+84,85,1.1.82,Henry IV,KING HENRY IV,7.0,"Amongst a grove, the very straightest plant;",line
+85,86,1.1.83,Henry IV,KING HENRY IV,7.0,Who is sweet Fortunes minion and her pride:,line
+86,87,1.1.84,Henry IV,KING HENRY IV,7.0,"Whilst I, by looking on the praise of him,",line
+87,88,1.1.85,Henry IV,KING HENRY IV,7.0,See riot and dishonour stain the brow,line
+88,89,1.1.86,Henry IV,KING HENRY IV,7.0,Of my young Harry. O that it could be proved,line
+89,90,1.1.87,Henry IV,KING HENRY IV,7.0,That some night-tripping fairy had exchanged,line
+90,91,1.1.88,Henry IV,KING HENRY IV,7.0,"In cradle-clothes our children where they lay,",line
+91,92,1.1.89,Henry IV,KING HENRY IV,7.0,"And calld mine Percy, his Plantagenet!",line
+92,93,1.1.90,Henry IV,KING HENRY IV,7.0,"Then would I have his Harry, and he mine.",line
+93,94,1.1.91,Henry IV,KING HENRY IV,7.0,"But let him from my thoughts. What think you, coz,",line
+94,95,1.1.92,Henry IV,KING HENRY IV,7.0,"Of this young Percys pride? the prisoners,",line
+95,96,1.1.93,Henry IV,KING HENRY IV,7.0,"Which he in this adventure hath surprised,",line
+96,97,1.1.94,Henry IV,KING HENRY IV,7.0,"To his own use he keeps; and sends me word,",line
+97,98,1.1.95,Henry IV,KING HENRY IV,7.0,I shall have none but Mordake Earl of Fife.,line
+98,99,1.1.96,Henry IV,WESTMORELAND,8.0,"This is his uncles teaching; this is Worcester,",line
+99,100,1.1.97,Henry IV,WESTMORELAND,8.0,Malevolent to you in all aspects;,line
+100,101,1.1.98,Henry IV,WESTMORELAND,8.0,"Which makes him prune himself, and bristle up",line
+101,102,1.1.99,Henry IV,WESTMORELAND,8.0,The crest of youth against your dignity.,line
+102,103,1.1.100,Henry IV,KING HENRY IV,9.0,But I have sent for him to answer this;,line
+103,104,1.1.101,Henry IV,KING HENRY IV,9.0,And for this cause awhile we must neglect,line
+104,105,1.1.102,Henry IV,KING HENRY IV,9.0,Our holy purpose to Jerusalem.,line
+105,106,1.1.103,Henry IV,KING HENRY IV,9.0,"Cousin, on Wednesday next our council we",line
+106,107,1.1.104,Henry IV,KING HENRY IV,9.0,Will hold at Windsor; so inform the lords:,line
+107,108,1.1.105,Henry IV,KING HENRY IV,9.0,But come yourself with speed to us again;,line
+108,109,1.1.106,Henry IV,KING HENRY IV,9.0,For more is to be said and to be done,line
+109,110,1.1.107,Henry IV,KING HENRY IV,9.0,Than out of anger can be uttered.,line
+110,111,1.1.108,Henry IV,WESTMORELAND,10.0,"I will, my liege.",line
+111,112,,Henry IV,WESTMORELAND,10.0,Exeunt,line
+112,113,,Henry IV,WESTMORELAND,10.0,SCENE II. London. An apartment of the Princes.,scene
+113,114,,Henry IV,WESTMORELAND,10.0,Enter the PRINCE OF WALES and FALSTAFF,line
+114,115,1.2.1,Henry IV,FALSTAFF,1.0,"Now, Hal, what time of day is it, lad?",line
+115,116,1.2.2,Henry IV,PRINCE HENRY,2.0,"Thou art so fat-witted, with drinking of old sack",line
+116,117,1.2.3,Henry IV,PRINCE HENRY,2.0,and unbuttoning thee after supper and sleeping upon,line
+117,118,1.2.4,Henry IV,PRINCE HENRY,2.0,"benches after noon, that thou hast forgotten to",line
+118,119,1.2.5,Henry IV,PRINCE HENRY,2.0,demand that truly which thou wouldst truly know.,line
+119,120,1.2.6,Henry IV,PRINCE HENRY,2.0,What a devil hast thou to do with the time of the,line
+120,121,1.2.7,Henry IV,PRINCE HENRY,2.0,day? Unless hours were cups of sack and minutes,line
+121,122,1.2.8,Henry IV,PRINCE HENRY,2.0,capons and clocks the tongues of bawds and dials the,line
+122,123,1.2.9,Henry IV,PRINCE HENRY,2.0,signs of leaping-houses and the blessed sun himself,line
+123,124,1.2.10,Henry IV,PRINCE HENRY,2.0,"a fair hot wench in flame-coloured taffeta, I see no",line
+124,125,1.2.11,Henry IV,PRINCE HENRY,2.0,reason why thou shouldst be so superfluous to demand,line
+125,126,1.2.12,Henry IV,PRINCE HENRY,2.0,the time of the day.,line
+126,127,1.2.13,Henry IV,FALSTAFF,3.0,"Indeed, you come near me now, Hal; for we that take",line
+127,128,1.2.14,Henry IV,FALSTAFF,3.0,"purses go by the moon and the seven stars, and not",line
+128,129,1.2.15,Henry IV,FALSTAFF,3.0,"by Phoebus, he,that wandering knight so fair. And,",line
+129,130,1.2.16,Henry IV,FALSTAFF,3.0,"I prithee, sweet wag, when thou art king, as, God",line
+130,131,1.2.17,Henry IV,FALSTAFF,3.0,"save thy grace,--majesty I should say, for grace",line
+131,132,1.2.18,Henry IV,FALSTAFF,3.0,"thou wilt have none,--",line
+132,133,1.2.19,Henry IV,PRINCE HENRY,4.0,"What, none?",line
+133,134,1.2.20,Henry IV,FALSTAFF,5.0,"No, by my troth, not so much as will serve to",line
+134,135,1.2.21,Henry IV,FALSTAFF,5.0,prologue to an egg and butter.,line
+135,136,1.2.22,Henry IV,PRINCE HENRY,6.0,"Well, how then? come, roundly, roundly.",line
+136,137,1.2.23,Henry IV,FALSTAFF,7.0,"Marry, then, sweet wag, when thou art king, let not",line
+137,138,1.2.24,Henry IV,FALSTAFF,7.0,us that are squires of the nights body be called,line
+138,139,1.2.25,Henry IV,FALSTAFF,7.0,thieves of the days beauty: let us be Dianas,line
+139,140,1.2.26,Henry IV,FALSTAFF,7.0,"foresters, gentlemen of the shade, minions of the",line
+140,141,1.2.27,Henry IV,FALSTAFF,7.0,"moon; and let men say we be men of good government,",line
+141,142,1.2.28,Henry IV,FALSTAFF,7.0,"being governed, as the sea is, by our noble and",line
+142,143,1.2.29,Henry IV,FALSTAFF,7.0,"chaste mistress the moon, under whose countenance we steal.",line
+143,144,1.2.30,Henry IV,PRINCE HENRY,8.0,"Thou sayest well, and it holds well too; for the",line
+144,145,1.2.31,Henry IV,PRINCE HENRY,8.0,fortune of us that are the moons men doth ebb and,line
+145,146,1.2.32,Henry IV,PRINCE HENRY,8.0,"flow like the sea, being governed, as the sea is,",line
+146,147,1.2.33,Henry IV,PRINCE HENRY,8.0,"by the moon. As, for proof, now: a purse of gold",line
+147,148,1.2.34,Henry IV,PRINCE HENRY,8.0,most resolutely snatched on Monday night and most,line
+148,149,1.2.35,Henry IV,PRINCE HENRY,8.0,dissolutely spent on Tuesday morning; got with,line
+149,150,1.2.36,Henry IV,PRINCE HENRY,8.0,swearing Lay by and spent with crying Bring in;,line
+150,151,1.2.37,Henry IV,PRINCE HENRY,8.0,now in as low an ebb as the foot of the ladder,line
+151,152,1.2.38,Henry IV,PRINCE HENRY,8.0,and by and by in as high a flow as the ridge of the gallows.,line
+152,153,1.2.39,Henry IV,FALSTAFF,9.0,"By the Lord, thou sayest true, lad. And is not my",line
+153,154,1.2.40,Henry IV,FALSTAFF,9.0,hostess of the tavern a most sweet wench?,line
+154,155,1.2.41,Henry IV,PRINCE HENRY,10.0,"As the honey of Hybla, my old lad of the castle. And",line
+155,156,1.2.42,Henry IV,PRINCE HENRY,10.0,is not a buff jerkin a most sweet robe of durance?,line
+156,157,1.2.43,Henry IV,FALSTAFF,11.0,"How now, how now, mad wag! what, in thy quips and",line
+157,158,1.2.44,Henry IV,FALSTAFF,11.0,thy quiddities? what a plague have I to do with a,line
+158,159,1.2.45,Henry IV,FALSTAFF,11.0,buff jerkin?,line
+159,160,1.2.46,Henry IV,PRINCE HENRY,12.0,"Why, what a pox have I to do with my hostess of the tavern?",line
+160,161,1.2.47,Henry IV,FALSTAFF,13.0,"Well, thou hast called her to a reckoning many a",line
+161,162,1.2.48,Henry IV,FALSTAFF,13.0,time and oft.,line
+162,163,1.2.49,Henry IV,PRINCE HENRY,14.0,Did I ever call for thee to pay thy part?,line
+163,164,1.2.50,Henry IV,FALSTAFF,15.0,"No; Ill give thee thy due, thou hast paid all there.",line
+164,165,1.2.51,Henry IV,PRINCE HENRY,16.0,"Yea, and elsewhere, so far as my coin would stretch;",line
+165,166,1.2.52,Henry IV,PRINCE HENRY,16.0,"and where it would not, I have used my credit.",line
+166,167,1.2.53,Henry IV,FALSTAFF,17.0,"Yea, and so used it that were it not here apparent",line
+167,168,1.2.54,Henry IV,FALSTAFF,17.0,"that thou art heir apparent--But, I prithee, sweet",line
+168,169,1.2.55,Henry IV,FALSTAFF,17.0,"wag, shall there be gallows standing in England when",line
+169,170,1.2.56,Henry IV,FALSTAFF,17.0,thou art king? and resolution thus fobbed as it is,line
+170,171,1.2.57,Henry IV,FALSTAFF,17.0,with the rusty curb of old father antic the law? Do,line
+171,172,1.2.58,Henry IV,FALSTAFF,17.0,"not thou, when thou art king, hang a thief.",line
+172,173,1.2.59,Henry IV,PRINCE HENRY,18.0,No; thou shalt.,line
+173,174,1.2.60,Henry IV,FALSTAFF,19.0,"Shall I? O rare! By the Lord, Ill be a brave judge.",line
+174,175,1.2.61,Henry IV,PRINCE HENRY,20.0,"Thou judgest false already: I mean, thou shalt have",line
+175,176,1.2.62,Henry IV,PRINCE HENRY,20.0,the hanging of the thieves and so become a rare hangman.,line
+176,177,1.2.63,Henry IV,FALSTAFF,21.0,"Well, Hal, well; and in some sort it jumps with my",line
+177,178,1.2.64,Henry IV,FALSTAFF,21.0,"humour as well as waiting in the court, I can tell",line
+178,179,1.2.65,Henry IV,FALSTAFF,21.0,you.,line
+179,180,1.2.66,Henry IV,PRINCE HENRY,22.0,For obtaining of suits?,line
+180,181,1.2.67,Henry IV,FALSTAFF,23.0,"Yea, for obtaining of suits, whereof the hangman",line
+181,182,1.2.68,Henry IV,FALSTAFF,23.0,"hath no lean wardrobe. Sblood, I am as melancholy",line
+182,183,1.2.69,Henry IV,FALSTAFF,23.0,as a gib cat or a lugged bear.,line
+183,184,1.2.70,Henry IV,PRINCE HENRY,24.0,"Or an old lion, or a lovers lute.",line
+184,185,1.2.71,Henry IV,FALSTAFF,25.0,"Yea, or the drone of a Lincolnshire bagpipe.",line
+185,186,1.2.72,Henry IV,PRINCE HENRY,26.0,"What sayest thou to a hare, or the melancholy of",line
+186,187,1.2.73,Henry IV,PRINCE HENRY,26.0,Moor-ditch?,line
+187,188,1.2.74,Henry IV,FALSTAFF,27.0,Thou hast the most unsavoury similes and art indeed,line
+188,189,1.2.75,Henry IV,FALSTAFF,27.0,"the most comparative, rascalliest, sweet young",line
+189,190,1.2.76,Henry IV,FALSTAFF,27.0,"prince. But, Hal, I prithee, trouble me no more",line
+190,191,1.2.77,Henry IV,FALSTAFF,27.0,with vanity. I would to God thou and I knew where a,line
+191,192,1.2.78,Henry IV,FALSTAFF,27.0,commodity of good names were to be bought. An old,line
+192,193,1.2.79,Henry IV,FALSTAFF,27.0,lord of the council rated me the other day in the,line
+193,194,1.2.80,Henry IV,FALSTAFF,27.0,"street about you, sir, but I marked him not; and yet",line
+194,195,1.2.81,Henry IV,FALSTAFF,27.0,"he talked very wisely, but I regarded him not; and",line
+195,196,1.2.82,Henry IV,FALSTAFF,27.0,"yet he talked wisely, and in the street too.",line
+196,197,1.2.83,Henry IV,PRINCE HENRY,28.0,Thou didst well; for wisdom cries out in the,line
+197,198,1.2.84,Henry IV,PRINCE HENRY,28.0,"streets, and no man regards it.",line
+198,199,1.2.85,Henry IV,FALSTAFF,29.0,"O, thou hast damnable iteration and art indeed able",line
+199,200,1.2.86,Henry IV,FALSTAFF,29.0,to corrupt a saint. Thou hast done much harm upon,line
+200,201,1.2.87,Henry IV,FALSTAFF,29.0,"me, Hal; God forgive thee for it! Before I knew",line
+201,202,1.2.88,Henry IV,FALSTAFF,29.0,"thee, Hal, I knew nothing; and now am I, if a man",line
+202,203,1.2.89,Henry IV,FALSTAFF,29.0,"should speak truly, little better than one of the",line
+203,204,1.2.90,Henry IV,FALSTAFF,29.0,"wicked. I must give over this life, and I will give",line
+204,205,1.2.91,Henry IV,FALSTAFF,29.0,"it over: by the Lord, and I do not, I am a villain:",line
+205,206,1.2.92,Henry IV,FALSTAFF,29.0,Ill be damned for never a kings son in,line
+206,207,1.2.93,Henry IV,FALSTAFF,29.0,Christendom.,line
+207,208,1.2.94,Henry IV,PRINCE HENRY,30.0,"Where shall we take a purse tomorrow, Jack?",line
+208,209,1.2.95,Henry IV,FALSTAFF,31.0,"Zounds, where thou wilt, lad; Ill make one; an I",line
+209,210,1.2.96,Henry IV,FALSTAFF,31.0,"do not, call me villain and baffle me.",line
+210,211,1.2.97,Henry IV,PRINCE HENRY,32.0,I see a good amendment of life in thee; from praying,line
+211,212,1.2.98,Henry IV,PRINCE HENRY,32.0,to purse-taking.,line
+212,213,1.2.99,Henry IV,FALSTAFF,33.0,"Why, Hal, tis my vocation, Hal; tis no sin for a",line
+213,214,1.2.100,Henry IV,FALSTAFF,33.0,man to labour in his vocation.,line
+214,215,,Henry IV,FALSTAFF,33.0,Enter POINS,line
+215,216,1.2.101,Henry IV,FALSTAFF,33.0,Poins! Now shall we know if Gadshill have set a,line
+216,217,1.2.102,Henry IV,FALSTAFF,33.0,"match. O, if men were to be saved by merit, what",line
+217,218,1.2.103,Henry IV,FALSTAFF,33.0,hole in hell were hot enough for him? This is the,line
+218,219,1.2.104,Henry IV,FALSTAFF,33.0,most omnipotent villain that ever cried Stand to,line
+219,220,1.2.105,Henry IV,FALSTAFF,33.0,a true man.,line
+220,221,1.2.106,Henry IV,PRINCE HENRY,34.0,"Good morrow, Ned.",line
+221,222,1.2.107,Henry IV,POINS,35.0,"Good morrow, sweet Hal. What says Monsieur Remorse?",line
+222,223,1.2.108,Henry IV,POINS,35.0,what says Sir John Sack and Sugar? Jack! how,line
+223,224,1.2.109,Henry IV,POINS,35.0,"agrees the devil and thee about thy soul, that thou",line
+224,225,1.2.110,Henry IV,POINS,35.0,soldest him on Good-Friday last for a cup of Madeira,line
+225,226,1.2.111,Henry IV,POINS,35.0,and a cold capons leg?,line
+226,227,1.2.112,Henry IV,PRINCE HENRY,36.0,"Sir John stands to his word, the devil shall have",line
+227,228,1.2.113,Henry IV,PRINCE HENRY,36.0,his bargain; for he was never yet a breaker of,line
+228,229,1.2.114,Henry IV,PRINCE HENRY,36.0,proverbs: he will give the devil his due.,line
+229,230,1.2.115,Henry IV,POINS,37.0,Then art thou damned for keeping thy word with the devil.,line
+230,231,1.2.116,Henry IV,PRINCE HENRY,38.0,Else he had been damned for cozening the devil.,line
+231,232,1.2.117,Henry IV,POINS,39.0,"But, my lads, my lads, to-morrow morning, by four",line
+232,233,1.2.118,Henry IV,POINS,39.0,"oclock, early at Gadshill! there are pilgrims going",line
+233,234,1.2.119,Henry IV,POINS,39.0,"to Canterbury with rich offerings, and traders",line
+234,235,1.2.120,Henry IV,POINS,39.0,riding to London with fat purses: I have vizards,line
+235,236,1.2.121,Henry IV,POINS,39.0,for you all; you have horses for yourselves:,line
+236,237,1.2.122,Henry IV,POINS,39.0,Gadshill lies to-night in Rochester: I have bespoke,line
+237,238,1.2.123,Henry IV,POINS,39.0,supper to-morrow night in Eastcheap: we may do it,line
+238,239,1.2.124,Henry IV,POINS,39.0,"as secure as sleep. If you will go, I will stuff",line
+239,240,1.2.125,Henry IV,POINS,39.0,"your purses full of crowns; if you will not, tarry",line
+240,241,1.2.126,Henry IV,POINS,39.0,at home and be hanged.,line
+241,242,1.2.127,Henry IV,FALSTAFF,40.0,"Hear ye, Yedward; if I tarry at home and go not,",line
+242,243,1.2.128,Henry IV,FALSTAFF,40.0,Ill hang you for going.,line
+243,244,1.2.129,Henry IV,POINS,41.0,"You will, chops?",line
+244,245,1.2.130,Henry IV,FALSTAFF,42.0,"Hal, wilt thou make one?",line
+245,246,1.2.131,Henry IV,PRINCE HENRY,43.0,"Who, I rob? I a thief? not I, by my faith.",line
+246,247,1.2.132,Henry IV,FALSTAFF,44.0,"Theres neither honesty, manhood, nor good",line
+247,248,1.2.133,Henry IV,FALSTAFF,44.0,"fellowship in thee, nor thou camest not of the blood",line
+248,249,1.2.134,Henry IV,FALSTAFF,44.0,"royal, if thou darest not stand for ten shillings.",line
+249,250,1.2.135,Henry IV,PRINCE HENRY,45.0,"Well then, once in my days Ill be a madcap.",line
+250,251,1.2.136,Henry IV,FALSTAFF,46.0,"Why, thats well said.",line
+251,252,1.2.137,Henry IV,PRINCE HENRY,47.0,"Well, come what will, Ill tarry at home.",line
+252,253,1.2.138,Henry IV,FALSTAFF,48.0,"By the Lord, Ill be a traitor then, when thou art king.",line
+253,254,1.2.139,Henry IV,PRINCE HENRY,49.0,I care not.,line
+254,255,1.2.140,Henry IV,POINS,50.0,"Sir John, I prithee, leave the prince and me alone:",line
+255,256,1.2.141,Henry IV,POINS,50.0,I will lay him down such reasons for this adventure,line
+256,257,1.2.142,Henry IV,POINS,50.0,that he shall go.,line
+257,258,1.2.143,Henry IV,FALSTAFF,51.0,"Well, God give thee the spirit of persuasion and him",line
+258,259,1.2.144,Henry IV,FALSTAFF,51.0,"the ears of profiting, that what thou speakest may",line
+259,260,1.2.145,Henry IV,FALSTAFF,51.0,"move and what he hears may be believed, that the",line
+260,261,1.2.146,Henry IV,FALSTAFF,51.0,"true prince may, for recreation sake, prove a false",line
+261,262,1.2.147,Henry IV,FALSTAFF,51.0,thief; for the poor abuses of the time want,line
+262,263,1.2.148,Henry IV,FALSTAFF,51.0,countenance. Farewell: you shall find me in Eastcheap.,line
+263,264,1.2.149,Henry IV,PRINCE HENRY,52.0,"Farewell, thou latter spring! farewell, All-hallown summer!",line
+264,265,,Henry IV,PRINCE HENRY,52.0,Exit Falstaff,line
+265,266,1.2.150,Henry IV,POINS,53.0,"Now, my good sweet honey lord, ride with us",line
+266,267,1.2.151,Henry IV,POINS,53.0,to-morrow: I have a jest to execute that I cannot,line
+267,268,1.2.152,Henry IV,POINS,53.0,"manage alone. Falstaff, Bardolph, Peto and Gadshill",line
+268,269,1.2.153,Henry IV,POINS,53.0,shall rob those men that we have already waylaid:,line
+269,270,1.2.154,Henry IV,POINS,53.0,yourself and I will not be there; and when they,line
+270,271,1.2.155,Henry IV,POINS,53.0,"have the booty, if you and I do not rob them, cut",line
+271,272,1.2.156,Henry IV,POINS,53.0,this head off from my shoulders.,line
+272,273,1.2.157,Henry IV,PRINCE HENRY,54.0,How shall we part with them in setting forth?,line
+273,274,1.2.158,Henry IV,POINS,55.0,"Why, we will set forth before or after them, and",line
+274,275,1.2.159,Henry IV,POINS,55.0,"appoint them a place of meeting, wherein it is at",line
+275,276,1.2.160,Henry IV,POINS,55.0,"our pleasure to fail, and then will they adventure",line
+276,277,1.2.161,Henry IV,POINS,55.0,upon the exploit themselves; which they shall have,line
+277,278,1.2.162,Henry IV,POINS,55.0,"no sooner achieved, but well set upon them.",line
+278,279,1.2.163,Henry IV,PRINCE HENRY,56.0,"Yea, but tis like that they will know us by our",line
+279,280,1.2.164,Henry IV,PRINCE HENRY,56.0,"horses, by our habits and by every other",line
+280,281,1.2.165,Henry IV,PRINCE HENRY,56.0,"appointment, to be ourselves.",line
+281,282,1.2.166,Henry IV,POINS,57.0,Tut! our horses they shall not see: Ill tie them,line
+282,283,1.2.167,Henry IV,POINS,57.0,in the wood; our vizards we will change after we,line
+283,284,1.2.168,Henry IV,POINS,57.0,"leave them: and, sirrah, I have cases of buckram",line
+284,285,1.2.169,Henry IV,POINS,57.0,"for the nonce, to immask our noted outward garments.",line
+285,286,1.2.170,Henry IV,PRINCE HENRY,58.0,"Yea, but I doubt they will be too hard for us.",line
+286,287,1.2.171,Henry IV,POINS,59.0,"Well, for two of them, I know them to be as",line
+287,288,1.2.172,Henry IV,POINS,59.0,true-bred cowards as ever turned back; and for the,line
+288,289,1.2.173,Henry IV,POINS,59.0,"third, if he fight longer than he sees reason, Ill",line
+289,290,1.2.174,Henry IV,POINS,59.0,"forswear arms. The virtue of this jest will be, the",line
+290,291,1.2.175,Henry IV,POINS,59.0,incomprehensible lies that this same fat rogue will,line
+291,292,1.2.176,Henry IV,POINS,59.0,"tell us when we meet at supper: how thirty, at",line
+292,293,1.2.177,Henry IV,POINS,59.0,"least, he fought with; what wards, what blows, what",line
+293,294,1.2.178,Henry IV,POINS,59.0,extremities he endured; and in the reproof of this,line
+294,295,1.2.179,Henry IV,POINS,59.0,lies the jest.,line
+295,296,1.2.180,Henry IV,PRINCE HENRY,60.0,"Well, Ill go with thee: provide us all things",line
+296,297,1.2.181,Henry IV,PRINCE HENRY,60.0,necessary and meet me to-morrow night in Eastcheap;,line
+297,298,1.2.182,Henry IV,PRINCE HENRY,60.0,there Ill sup. Farewell.,line
+298,299,1.2.183,Henry IV,POINS,61.0,"Farewell, my lord.",line
+299,300,,Henry IV,POINS,61.0,Exit Poins,line
+300,301,1.2.184,Henry IV,PRINCE HENRY,62.0,"I know you all, and will awhile uphold",line
+301,302,1.2.185,Henry IV,PRINCE HENRY,62.0,The unyoked humour of your idleness:,line
+302,303,1.2.186,Henry IV,PRINCE HENRY,62.0,"Yet herein will I imitate the sun,",line
+303,304,1.2.187,Henry IV,PRINCE HENRY,62.0,Who doth permit the base contagious clouds,line
+304,305,1.2.188,Henry IV,PRINCE HENRY,62.0,"To smother up his beauty from the world,",line
+305,306,1.2.189,Henry IV,PRINCE HENRY,62.0,"That, when he please again to be himself,",line
+306,307,1.2.190,Henry IV,PRINCE HENRY,62.0,"Being wanted, he may be more wonderd at,",line
+307,308,1.2.191,Henry IV,PRINCE HENRY,62.0,By breaking through the foul and ugly mists,line
+308,309,1.2.192,Henry IV,PRINCE HENRY,62.0,Of vapours that did seem to strangle him.,line
+309,310,1.2.193,Henry IV,PRINCE HENRY,62.0,"If all the year were playing holidays,",line
+310,311,1.2.194,Henry IV,PRINCE HENRY,62.0,To sport would be as tedious as to work;,line
+311,312,1.2.195,Henry IV,PRINCE HENRY,62.0,"But when they seldom come, they wishd for come,",line
+312,313,1.2.196,Henry IV,PRINCE HENRY,62.0,And nothing pleaseth but rare accidents.,line
+313,314,1.2.197,Henry IV,PRINCE HENRY,62.0,"So, when this loose behavior I throw off",line
+314,315,1.2.198,Henry IV,PRINCE HENRY,62.0,"And pay the debt I never promised,",line
+315,316,1.2.199,Henry IV,PRINCE HENRY,62.0,"By how much better than my word I am,",line
+316,317,1.2.200,Henry IV,PRINCE HENRY,62.0,By so much shall I falsify mens hopes;,line
+317,318,1.2.201,Henry IV,PRINCE HENRY,62.0,"And like bright metal on a sullen ground,",line
+318,319,1.2.202,Henry IV,PRINCE HENRY,62.0,"My reformation, glittering oer my fault,",line
+319,320,1.2.203,Henry IV,PRINCE HENRY,62.0,Shall show more goodly and attract more eyes,line
+320,321,1.2.204,Henry IV,PRINCE HENRY,62.0,Than that which hath no foil to set it off.,line
+321,322,1.2.205,Henry IV,PRINCE HENRY,62.0,"Ill so offend, to make offence a skill;",line
+322,323,1.2.206,Henry IV,PRINCE HENRY,62.0,Redeeming time when men think least I will.,line
+323,324,,Henry IV,PRINCE HENRY,62.0,Exit,line
+324,325,,Henry IV,PRINCE HENRY,62.0,SCENE III. London. The palace.,scene
+325,326,,Henry IV,PRINCE HENRY,62.0,"Enter the KING, NORTHUMBERLAND, WORCESTER, HOTSPUR, SIR WALTER BLUNT, with others",line
+326,327,1.3.1,Henry IV,KING HENRY IV,1.0,"My blood hath been too cold and temperate,",line
+327,328,1.3.2,Henry IV,KING HENRY IV,1.0,"Unapt to stir at these indignities,",line
+328,329,1.3.3,Henry IV,KING HENRY IV,1.0,And you have found me; for accordingly,line
+329,330,1.3.4,Henry IV,KING HENRY IV,1.0,You tread upon my patience: but be sure,line
+330,331,1.3.5,Henry IV,KING HENRY IV,1.0,"I will from henceforth rather be myself,",line
+331,332,1.3.6,Henry IV,KING HENRY IV,1.0,"Mighty and to be feard, than my condition;",line
+332,333,1.3.7,Henry IV,KING HENRY IV,1.0,"Which hath been smooth as oil, soft as young down,",line
+333,334,1.3.8,Henry IV,KING HENRY IV,1.0,And therefore lost that title of respect,line
+334,335,1.3.9,Henry IV,KING HENRY IV,1.0,Which the proud soul neer pays but to the proud.,line
+335,336,1.3.10,Henry IV,EARL OF WORCESTER,2.0,"Our house, my sovereign liege, little deserves",line
+336,337,1.3.11,Henry IV,EARL OF WORCESTER,2.0,The scourge of greatness to be used on it;,line
+337,338,1.3.12,Henry IV,EARL OF WORCESTER,2.0,And that same greatness too which our own hands,line
+338,339,1.3.13,Henry IV,EARL OF WORCESTER,2.0,Have holp to make so portly.,line
+339,340,1.3.14,Henry IV,NORTHUMBERLAND,3.0,My lord.--,line
+340,341,1.3.15,Henry IV,KING HENRY IV,4.0,"Worcester, get thee gone; for I do see",line
+341,342,1.3.16,Henry IV,KING HENRY IV,4.0,Danger and disobedience in thine eye:,line
+342,343,1.3.17,Henry IV,KING HENRY IV,4.0,"O, sir, your presence is too bold and peremptory,",line
+343,344,1.3.18,Henry IV,KING HENRY IV,4.0,And majesty might never yet endure,line
+344,345,1.3.19,Henry IV,KING HENRY IV,4.0,The moody frontier of a servant brow.,line
+345,346,1.3.20,Henry IV,KING HENRY IV,4.0,You have good leave to leave us: when we need,line
+346,347,1.3.21,Henry IV,KING HENRY IV,4.0,"Your use and counsel, we shall send for you.",line
+347,348,,Henry IV,KING HENRY IV,4.0,Exit Worcester,line
+348,349,1.3.22,Henry IV,KING HENRY IV,4.0,You were about to speak.,line
+349,350,,Henry IV,KING HENRY IV,4.0,To North,line
+350,351,1.3.23,Henry IV,NORTHUMBERLAND,5.0,"Yea, my good lord.",line
+351,352,1.3.24,Henry IV,NORTHUMBERLAND,5.0,"Those prisoners in your highness name demanded,",line
+352,353,1.3.25,Henry IV,NORTHUMBERLAND,5.0,"Which Harry Percy here at Holmedon took,",line
+353,354,1.3.26,Henry IV,NORTHUMBERLAND,5.0,"Were, as he says, not with such strength denied",line
+354,355,1.3.27,Henry IV,NORTHUMBERLAND,5.0,As is deliverd to your majesty:,line
+355,356,1.3.28,Henry IV,NORTHUMBERLAND,5.0,"Either envy, therefore, or misprison",line
+356,357,1.3.29,Henry IV,NORTHUMBERLAND,5.0,Is guilty of this fault and not my son.,line
+357,358,1.3.30,Henry IV,HOTSPUR,6.0,"My liege, I did deny no prisoners.",line
+358,359,1.3.31,Henry IV,HOTSPUR,6.0,"But I remember, when the fight was done,",line
+359,360,1.3.32,Henry IV,HOTSPUR,6.0,"When I was dry with rage and extreme toil,",line
+360,361,1.3.33,Henry IV,HOTSPUR,6.0,"Breathless and faint, leaning upon my sword,",line
+361,362,1.3.34,Henry IV,HOTSPUR,6.0,"Came there a certain lord, neat, and trimly dressd,",line
+362,363,1.3.35,Henry IV,HOTSPUR,6.0,Fresh as a bridegroom; and his chin new reapd,line
+363,364,1.3.36,Henry IV,HOTSPUR,6.0,Showd like a stubble-land at harvest-home;,line
+364,365,1.3.37,Henry IV,HOTSPUR,6.0,He was perfumed like a milliner;,line
+365,366,1.3.38,Henry IV,HOTSPUR,6.0,And twixt his finger and his thumb he held,line
+366,367,1.3.39,Henry IV,HOTSPUR,6.0,"A pouncet-box, which ever and anon",line
+367,368,1.3.40,Henry IV,HOTSPUR,6.0,He gave his nose and tookt away again;,line
+368,369,1.3.41,Henry IV,HOTSPUR,6.0,"Who therewith angry, when it next came there,",line
+369,370,1.3.42,Henry IV,HOTSPUR,6.0,"Took it in snuff; and still he smiled and talkd,",line
+370,371,1.3.43,Henry IV,HOTSPUR,6.0,"And as the soldiers bore dead bodies by,",line
+371,372,1.3.44,Henry IV,HOTSPUR,6.0,"He calld them untaught knaves, unmannerly,",line
+372,373,1.3.45,Henry IV,HOTSPUR,6.0,To bring a slovenly unhandsome corse,line
+373,374,1.3.46,Henry IV,HOTSPUR,6.0,Betwixt the wind and his nobility.,line
+374,375,1.3.47,Henry IV,HOTSPUR,6.0,With many holiday and lady terms,line
+375,376,1.3.48,Henry IV,HOTSPUR,6.0,"He questiond me; amongst the rest, demanded",line
+376,377,1.3.49,Henry IV,HOTSPUR,6.0,My prisoners in your majestys behalf.,line
+377,378,1.3.50,Henry IV,HOTSPUR,6.0,"I then, all smarting with my wounds being cold,",line
+378,379,1.3.51,Henry IV,HOTSPUR,6.0,"To be so pesterd with a popinjay,",line
+379,380,1.3.52,Henry IV,HOTSPUR,6.0,"Out of my grief and my impatience,",line
+380,381,1.3.53,Henry IV,HOTSPUR,6.0,"Answerd neglectingly I know not what,",line
+381,382,1.3.54,Henry IV,HOTSPUR,6.0,He should or he should not; for he made me mad,line
+382,383,1.3.55,Henry IV,HOTSPUR,6.0,To see him shine so brisk and smell so sweet,line
+383,384,1.3.56,Henry IV,HOTSPUR,6.0,And talk so like a waiting-gentlewoman,line
+384,385,1.3.57,Henry IV,HOTSPUR,6.0,"Of guns and drums and wounds,--God save the mark!--",line
+385,386,1.3.58,Henry IV,HOTSPUR,6.0,And telling me the sovereignst thing on earth,line
+386,387,1.3.59,Henry IV,HOTSPUR,6.0,Was parmaceti for an inward bruise;,line
+387,388,1.3.60,Henry IV,HOTSPUR,6.0,"And that it was great pity, so it was,",line
+388,389,1.3.61,Henry IV,HOTSPUR,6.0,This villanous salt-petre should be diggd,line
+389,390,1.3.62,Henry IV,HOTSPUR,6.0,"Out of the bowels of the harmless earth,",line
+390,391,1.3.63,Henry IV,HOTSPUR,6.0,Which many a good tall fellow had destroyd,line
+391,392,1.3.64,Henry IV,HOTSPUR,6.0,"So cowardly; and but for these vile guns,",line
+392,393,1.3.65,Henry IV,HOTSPUR,6.0,He would himself have been a soldier.,line
+393,394,1.3.66,Henry IV,HOTSPUR,6.0,"This bald unjointed chat of his, my lord,",line
+394,395,1.3.67,Henry IV,HOTSPUR,6.0,"I answerd indirectly, as I said;",line
+395,396,1.3.68,Henry IV,HOTSPUR,6.0,"And I beseech you, let not his report",line
+396,397,1.3.69,Henry IV,HOTSPUR,6.0,Come current for an accusation,line
+397,398,1.3.70,Henry IV,HOTSPUR,6.0,Betwixt my love and your high majesty.,line
+398,399,1.3.71,Henry IV,SIR WALTER BLUNT,7.0,"The circumstance considerd, good my lord,",line
+399,400,1.3.72,Henry IV,SIR WALTER BLUNT,7.0,Whateer Lord Harry Percy then had said,line
+400,401,1.3.73,Henry IV,SIR WALTER BLUNT,7.0,"To such a person and in such a place,",line
+401,402,1.3.74,Henry IV,SIR WALTER BLUNT,7.0,"At such a time, with all the rest retold,",line
+402,403,1.3.75,Henry IV,SIR WALTER BLUNT,7.0,May reasonably die and never rise,line
+403,404,1.3.76,Henry IV,SIR WALTER BLUNT,7.0,To do him wrong or any way impeach,line
+404,405,1.3.77,Henry IV,SIR WALTER BLUNT,7.0,"What then he said, so he unsay it now.",line
+405,406,1.3.78,Henry IV,KING HENRY IV,8.0,"Why, yet he doth deny his prisoners,",line
+406,407,1.3.79,Henry IV,KING HENRY IV,8.0,"But with proviso and exception,",line
+407,408,1.3.80,Henry IV,KING HENRY IV,8.0,That we at our own charge shall ransom straight,line
+408,409,1.3.81,Henry IV,KING HENRY IV,8.0,"His brother-in-law, the foolish Mortimer;",line
+409,410,1.3.82,Henry IV,KING HENRY IV,8.0,"Who, on my soul, hath wilfully betrayd",line
+410,411,1.3.83,Henry IV,KING HENRY IV,8.0,The lives of those that he did lead to fight,line
+411,412,1.3.84,Henry IV,KING HENRY IV,8.0,"Against that great magician, damnd Glendower,",line
+412,413,1.3.85,Henry IV,KING HENRY IV,8.0,"Whose daughter, as we hear, the Earl of March",line
+413,414,1.3.86,Henry IV,KING HENRY IV,8.0,"Hath lately married. Shall our coffers, then,",line
+414,415,1.3.87,Henry IV,KING HENRY IV,8.0,Be emptied to redeem a traitor home?,line
+415,416,1.3.88,Henry IV,KING HENRY IV,8.0,"Shall we but treason? and indent with fears,",line
+416,417,1.3.89,Henry IV,KING HENRY IV,8.0,When they have lost and forfeited themselves?,line
+417,418,1.3.90,Henry IV,KING HENRY IV,8.0,"No, on the barren mountains let him starve;",line
+418,419,1.3.91,Henry IV,KING HENRY IV,8.0,For I shall never hold that man my friend,line
+419,420,1.3.92,Henry IV,KING HENRY IV,8.0,Whose tongue shall ask me for one penny cost,line
+420,421,1.3.93,Henry IV,KING HENRY IV,8.0,To ransom home revolted Mortimer.,line
+421,422,1.3.94,Henry IV,HOTSPUR,9.0,Revolted Mortimer!,line
+422,423,1.3.95,Henry IV,HOTSPUR,9.0,"He never did fall off, my sovereign liege,",line
+423,424,1.3.96,Henry IV,HOTSPUR,9.0,But by the chance of war; to prove that true,line
+424,425,1.3.97,Henry IV,HOTSPUR,9.0,"Needs no more but one tongue for all those wounds,",line
+425,426,1.3.98,Henry IV,HOTSPUR,9.0,"Those mouthed wounds, which valiantly he took",line
+426,427,1.3.99,Henry IV,HOTSPUR,9.0,"When on the gentle Severns sedgy bank,",line
+427,428,1.3.100,Henry IV,HOTSPUR,9.0,"In single opposition, hand to hand,",line
+428,429,1.3.101,Henry IV,HOTSPUR,9.0,He did confound the best part of an hour,line
+429,430,1.3.102,Henry IV,HOTSPUR,9.0,In changing hardiment with great Glendower:,line
+430,431,1.3.103,Henry IV,HOTSPUR,9.0,Three times they breathed and three times did,line
+431,432,1.3.104,Henry IV,HOTSPUR,9.0,"they drink,",line
+432,433,1.3.105,Henry IV,HOTSPUR,9.0,"Upon agreement, of swift Severns flood;",line
+433,434,1.3.106,Henry IV,HOTSPUR,9.0,"Who then, affrighted with their bloody looks,",line
+434,435,1.3.107,Henry IV,HOTSPUR,9.0,"Ran fearfully among the trembling reeds,",line
+435,436,1.3.108,Henry IV,HOTSPUR,9.0,"And hid his crisp head in the hollow bank,",line
+436,437,1.3.109,Henry IV,HOTSPUR,9.0,Bloodstained with these valiant combatants.,line
+437,438,1.3.110,Henry IV,HOTSPUR,9.0,Never did base and rotten policy,line
+438,439,1.3.111,Henry IV,HOTSPUR,9.0,Colour her working with such deadly wounds;,line
+439,440,1.3.112,Henry IV,HOTSPUR,9.0,Nor could the noble Mortimer,line
+440,441,1.3.113,Henry IV,HOTSPUR,9.0,"Receive so many, and all willingly:",line
+441,442,1.3.114,Henry IV,HOTSPUR,9.0,Then let not him be slanderd with revolt.,line
+442,443,1.3.115,Henry IV,KING HENRY IV,10.0,"Thou dost belie him, Percy, thou dost belie him;",line
+443,444,1.3.116,Henry IV,KING HENRY IV,10.0,He never did encounter with Glendower:,line
+444,445,1.3.117,Henry IV,KING HENRY IV,10.0,"I tell thee,",line
+445,446,1.3.118,Henry IV,KING HENRY IV,10.0,He durst as well have met the devil alone,line
+446,447,1.3.119,Henry IV,KING HENRY IV,10.0,As Owen Glendower for an enemy.,line
+447,448,1.3.120,Henry IV,KING HENRY IV,10.0,"Art thou not ashamed? But, sirrah, henceforth",line
+448,449,1.3.121,Henry IV,KING HENRY IV,10.0,Let me not hear you speak of Mortimer:,line
+449,450,1.3.122,Henry IV,KING HENRY IV,10.0,"Send me your prisoners with the speediest means,",line
+450,451,1.3.123,Henry IV,KING HENRY IV,10.0,Or you shall hear in such a kind from me,line
+451,452,1.3.124,Henry IV,KING HENRY IV,10.0,"As will displease you. My Lord Northumberland,",line
+452,453,1.3.125,Henry IV,KING HENRY IV,10.0,We licence your departure with your son.,line
+453,454,1.3.126,Henry IV,KING HENRY IV,10.0,"Send us your prisoners, or you will hear of it.",line
+454,455,,Henry IV,KING HENRY IV,10.0,"Exeunt King Henry, Blunt, and train",line
+455,456,1.3.127,Henry IV,HOTSPUR,11.0,"An if the devil come and roar for them,",line
+456,457,1.3.128,Henry IV,HOTSPUR,11.0,I will not send them: I will after straight,line
+457,458,1.3.129,Henry IV,HOTSPUR,11.0,"And tell him so; for I will ease my heart,",line
+458,459,1.3.130,Henry IV,HOTSPUR,11.0,Albeit I make a hazard of my head.,line
+459,460,1.3.131,Henry IV,NORTHUMBERLAND,12.0,"What, drunk with choler? stay and pause awhile:",line
+460,461,1.3.132,Henry IV,NORTHUMBERLAND,12.0,Here comes your uncle.,line
+461,462,,Henry IV,NORTHUMBERLAND,12.0,Re-enter WORCESTER,line
+462,463,1.3.133,Henry IV,HOTSPUR,13.0,Speak of Mortimer!,line
+463,464,1.3.134,Henry IV,HOTSPUR,13.0,"Zounds, I will speak of him; and let my soul",line
+464,465,1.3.135,Henry IV,HOTSPUR,13.0,"Want mercy, if I do not join with him:",line
+465,466,1.3.136,Henry IV,HOTSPUR,13.0,"Yea, on his part Ill empty all these veins,",line
+466,467,1.3.137,Henry IV,HOTSPUR,13.0,"And shed my dear blood drop by drop in the dust,",line
+467,468,1.3.138,Henry IV,HOTSPUR,13.0,But I will lift the down-trod Mortimer,line
+468,469,1.3.139,Henry IV,HOTSPUR,13.0,"As high in the air as this unthankful king,",line
+469,470,1.3.140,Henry IV,HOTSPUR,13.0,As this ingrate and cankerd Bolingbroke.,line
+470,471,1.3.141,Henry IV,NORTHUMBERLAND,14.0,"Brother, the king hath made your nephew mad.",line
+471,472,1.3.142,Henry IV,EARL OF WORCESTER,15.0,Who struck this heat up after I was gone?,line
+472,473,1.3.143,Henry IV,HOTSPUR,16.0,"He will, forsooth, have all my prisoners;",line
+473,474,1.3.144,Henry IV,HOTSPUR,16.0,And when I urged the ransom once again,line
+474,475,1.3.145,Henry IV,HOTSPUR,16.0,"Of my wifes brother, then his cheek lookd pale,",line
+475,476,1.3.146,Henry IV,HOTSPUR,16.0,"And on my face he turnd an eye of death,",line
+476,477,1.3.147,Henry IV,HOTSPUR,16.0,Trembling even at the name of Mortimer.,line
+477,478,1.3.148,Henry IV,EARL OF WORCESTER,17.0,I cannot blame him: was not he proclaimd,line
+478,479,1.3.149,Henry IV,EARL OF WORCESTER,17.0,By Richard that dead is the next of blood?,line
+479,480,1.3.150,Henry IV,NORTHUMBERLAND,18.0,He was; I heard the proclamation:,line
+480,481,1.3.151,Henry IV,NORTHUMBERLAND,18.0,"And then it was when the unhappy king,",line
+481,482,1.3.152,Henry IV,NORTHUMBERLAND,18.0,--Whose wrongs in us God pardon!--did set forth,line
+482,483,1.3.153,Henry IV,NORTHUMBERLAND,18.0,Upon his Irish expedition;,line
+483,484,1.3.154,Henry IV,NORTHUMBERLAND,18.0,From whence he intercepted did return,line
+484,485,1.3.155,Henry IV,NORTHUMBERLAND,18.0,To be deposed and shortly murdered.,line
+485,486,1.3.156,Henry IV,EARL OF WORCESTER,19.0,And for whose death we in the worlds wide mouth,line
+486,487,1.3.157,Henry IV,EARL OF WORCESTER,19.0,Live scandalized and foully spoken of.,line
+487,488,1.3.158,Henry IV,HOTSPUR,20.0,"But soft, I pray you; did King Richard then",line
+488,489,1.3.159,Henry IV,HOTSPUR,20.0,Proclaim my brother Edmund Mortimer,line
+489,490,1.3.160,Henry IV,HOTSPUR,20.0,Heir to the crown?,line
+490,491,1.3.161,Henry IV,NORTHUMBERLAND,21.0,He did; myself did hear it.,line
+491,492,1.3.162,Henry IV,HOTSPUR,22.0,"Nay, then I cannot blame his cousin king,",line
+492,493,1.3.163,Henry IV,HOTSPUR,22.0,That wished him on the barren mountains starve.,line
+493,494,1.3.164,Henry IV,HOTSPUR,22.0,"But shall it be that you, that set the crown",line
+494,495,1.3.165,Henry IV,HOTSPUR,22.0,Upon the head of this forgetful man,line
+495,496,1.3.166,Henry IV,HOTSPUR,22.0,And for his sake wear the detested blot,line
+496,497,1.3.167,Henry IV,HOTSPUR,22.0,"Of murderous subornation, shall it be,",line
+497,498,1.3.168,Henry IV,HOTSPUR,22.0,"That you a world of curses undergo,",line
+498,499,1.3.169,Henry IV,HOTSPUR,22.0,"Being the agents, or base second means,",line
+499,500,1.3.170,Henry IV,HOTSPUR,22.0,"The cords, the ladder, or the hangman rather?",line
+500,501,1.3.171,Henry IV,HOTSPUR,22.0,"O, pardon me that I descend so low,",line
+501,502,1.3.172,Henry IV,HOTSPUR,22.0,To show the line and the predicament,line
+502,503,1.3.173,Henry IV,HOTSPUR,22.0,Wherein you range under this subtle king;,line
+503,504,1.3.174,Henry IV,HOTSPUR,22.0,"Shall it for shame be spoken in these days,",line
+504,505,1.3.175,Henry IV,HOTSPUR,22.0,"Or fill up chronicles in time to come,",line
+505,506,1.3.176,Henry IV,HOTSPUR,22.0,That men of your nobility and power,line
+506,507,1.3.177,Henry IV,HOTSPUR,22.0,"Did gage them both in an unjust behalf,",line
+507,508,1.3.178,Henry IV,HOTSPUR,22.0,"As both of you--God pardon it!--have done,",line
+508,509,1.3.179,Henry IV,HOTSPUR,22.0,"To put down Richard, that sweet lovely rose,",line
+509,510,1.3.180,Henry IV,HOTSPUR,22.0,"An plant this thorn, this canker, Bolingbroke?",line
+510,511,1.3.181,Henry IV,HOTSPUR,22.0,"And shall it in more shame be further spoken,",line
+511,512,1.3.182,Henry IV,HOTSPUR,22.0,"That you are foold, discarded and shook off",line
+512,513,1.3.183,Henry IV,HOTSPUR,22.0,By him for whom these shames ye underwent?,line
+513,514,1.3.184,Henry IV,HOTSPUR,22.0,No; yet time serves wherein you may redeem,line
+514,515,1.3.185,Henry IV,HOTSPUR,22.0,Your banishd honours and restore yourselves,line
+515,516,1.3.186,Henry IV,HOTSPUR,22.0,"Into the good thoughts of the world again,",line
+516,517,1.3.187,Henry IV,HOTSPUR,22.0,Revenge the jeering and disdaind contempt,line
+517,518,1.3.188,Henry IV,HOTSPUR,22.0,"Of this proud king, who studies day and night",line
+518,519,1.3.189,Henry IV,HOTSPUR,22.0,To answer all the debt he owes to you,line
+519,520,1.3.190,Henry IV,HOTSPUR,22.0,Even with the bloody payment of your deaths:,line
+520,521,1.3.191,Henry IV,HOTSPUR,22.0,"Therefore, I say--",line
+521,522,1.3.192,Henry IV,EARL OF WORCESTER,23.0,"Peace, cousin, say no more:",line
+522,523,1.3.193,Henry IV,EARL OF WORCESTER,23.0,"And now I will unclasp a secret book,",line
+523,524,1.3.194,Henry IV,EARL OF WORCESTER,23.0,And to your quick-conceiving discontents,line
+524,525,1.3.195,Henry IV,EARL OF WORCESTER,23.0,"Ill read you matter deep and dangerous,",line
+525,526,1.3.196,Henry IV,EARL OF WORCESTER,23.0,As full of peril and adventurous spirit,line
+526,527,1.3.197,Henry IV,EARL OF WORCESTER,23.0,As to oer-walk a current roaring loud,line
+527,528,1.3.198,Henry IV,EARL OF WORCESTER,23.0,On the unsteadfast footing of a spear.,line
+528,529,1.3.199,Henry IV,HOTSPUR,24.0,"If he fall in, good night! or sink or swim:",line
+529,530,1.3.200,Henry IV,HOTSPUR,24.0,"Send danger from the east unto the west,",line
+530,531,1.3.201,Henry IV,HOTSPUR,24.0,"So honour cross it from the north to south,",line
+531,532,1.3.202,Henry IV,HOTSPUR,24.0,"And let them grapple: O, the blood more stirs",line
+532,533,1.3.203,Henry IV,HOTSPUR,24.0,To rouse a lion than to start a hare!,line
+533,534,1.3.204,Henry IV,NORTHUMBERLAND,25.0,Imagination of some great exploit,line
+534,535,1.3.205,Henry IV,NORTHUMBERLAND,25.0,Drives him beyond the bounds of patience.,line
+535,536,1.3.206,Henry IV,HOTSPUR,26.0,"By heaven, methinks it were an easy leap,",line
+536,537,1.3.207,Henry IV,HOTSPUR,26.0,"To pluck bright honour from the pale-faced moon,",line
+537,538,1.3.208,Henry IV,HOTSPUR,26.0,"Or dive into the bottom of the deep,",line
+538,539,1.3.209,Henry IV,HOTSPUR,26.0,"Where fathom-line could never touch the ground,",line
+539,540,1.3.210,Henry IV,HOTSPUR,26.0,And pluck up drowned honour by the locks;,line
+540,541,1.3.211,Henry IV,HOTSPUR,26.0,So he that doth redeem her thence might wear,line
+541,542,1.3.212,Henry IV,HOTSPUR,26.0,"Without corrival, all her dignities:",line
+542,543,1.3.213,Henry IV,HOTSPUR,26.0,But out upon this half-faced fellowship!,line
+543,544,1.3.214,Henry IV,EARL OF WORCESTER,27.0,"He apprehends a world of figures here,",line
+544,545,1.3.215,Henry IV,EARL OF WORCESTER,27.0,But not the form of what he should attend.,line
+545,546,1.3.216,Henry IV,EARL OF WORCESTER,27.0,"Good cousin, give me audience for a while.",line
+546,547,1.3.217,Henry IV,HOTSPUR,28.0,I cry you mercy.,line
+547,548,1.3.218,Henry IV,EARL OF WORCESTER,29.0,Those same noble Scots,line
+548,549,1.3.219,Henry IV,EARL OF WORCESTER,29.0,"That are your prisoners,--",line
+549,550,1.3.220,Henry IV,HOTSPUR,30.0,Ill keep them all;,line
+550,551,1.3.221,Henry IV,HOTSPUR,30.0,"By God, he shall not have a Scot of them;",line
+551,552,1.3.222,Henry IV,HOTSPUR,30.0,"No, if a Scot would save his soul, he shall not:",line
+552,553,1.3.223,Henry IV,HOTSPUR,30.0,"Ill keep them, by this hand.",line
+553,554,1.3.224,Henry IV,EARL OF WORCESTER,31.0,You start away,line
+554,555,1.3.225,Henry IV,EARL OF WORCESTER,31.0,And lend no ear unto my purposes.,line
+555,556,1.3.226,Henry IV,EARL OF WORCESTER,31.0,Those prisoners you shall keep.,line
+556,557,1.3.227,Henry IV,HOTSPUR,32.0,"Nay, I will; thats flat:",line
+557,558,1.3.228,Henry IV,HOTSPUR,32.0,He said he would not ransom Mortimer;,line
+558,559,1.3.229,Henry IV,HOTSPUR,32.0,Forbad my tongue to speak of Mortimer;,line
+559,560,1.3.230,Henry IV,HOTSPUR,32.0,"But I will find him when he lies asleep,",line
+560,561,1.3.231,Henry IV,HOTSPUR,32.0,And in his ear Ill holla Mortimer!,line
+561,562,1.3.232,Henry IV,HOTSPUR,32.0,"Nay,",line
+562,563,1.3.233,Henry IV,HOTSPUR,32.0,Ill have a starling shall be taught to speak,line
+563,564,1.3.234,Henry IV,HOTSPUR,32.0,"Nothing but Mortimer, and give it him",line
+564,565,1.3.235,Henry IV,HOTSPUR,32.0,To keep his anger still in motion.,line
+565,566,1.3.236,Henry IV,EARL OF WORCESTER,33.0,"Hear you, cousin; a word.",line
+566,567,1.3.237,Henry IV,HOTSPUR,34.0,"All studies here I solemnly defy,",line
+567,568,1.3.238,Henry IV,HOTSPUR,34.0,Save how to gall and pinch this Bolingbroke:,line
+568,569,1.3.239,Henry IV,HOTSPUR,34.0,"And that same sword-and-buckler Prince of Wales,",line
+569,570,1.3.240,Henry IV,HOTSPUR,34.0,But that I think his father loves him not,line
+570,571,1.3.241,Henry IV,HOTSPUR,34.0,"And would be glad he met with some mischance,",line
+571,572,1.3.242,Henry IV,HOTSPUR,34.0,I would have him poisond with a pot of ale.,line
+572,573,1.3.243,Henry IV,EARL OF WORCESTER,35.0,"Farewell, kinsman: Ill talk to you",line
+573,574,1.3.244,Henry IV,EARL OF WORCESTER,35.0,When you are better temperd to attend.,line
+574,575,1.3.245,Henry IV,NORTHUMBERLAND,36.0,"Why, what a wasp-stung and impatient fool",line
+575,576,1.3.246,Henry IV,NORTHUMBERLAND,36.0,"Art thou to break into this womans mood,",line
+576,577,1.3.247,Henry IV,NORTHUMBERLAND,36.0,Tying thine ear to no tongue but thine own!,line
+577,578,1.3.248,Henry IV,HOTSPUR,37.0,"Why, look you, I am whippd and scourged with rods,",line
+578,579,1.3.249,Henry IV,HOTSPUR,37.0,"Nettled and stung with pismires, when I hear",line
+579,580,1.3.250,Henry IV,HOTSPUR,37.0,"Of this vile politician, Bolingbroke.",line
+580,581,1.3.251,Henry IV,HOTSPUR,37.0,"In Richards time,--what do you call the place?--",line
+581,582,1.3.252,Henry IV,HOTSPUR,37.0,"A plague upon it, it is in Gloucestershire;",line
+582,583,1.3.253,Henry IV,HOTSPUR,37.0,"Twas where the madcap duke his uncle kept,",line
+583,584,1.3.254,Henry IV,HOTSPUR,37.0,His uncle York; where I first bowd my knee,line
+584,585,1.3.255,Henry IV,HOTSPUR,37.0,"Unto this king of smiles, this Bolingbroke,--",line
+585,586,1.3.256,Henry IV,HOTSPUR,37.0,Sblood!--,line
+586,587,1.3.257,Henry IV,HOTSPUR,37.0,When you and he came back from Ravenspurgh.,line
+587,588,1.3.258,Henry IV,NORTHUMBERLAND,38.0,At Berkley castle.,line
+588,589,1.3.259,Henry IV,HOTSPUR,39.0,You say true:,line
+589,590,1.3.260,Henry IV,HOTSPUR,39.0,"Why, what a candy deal of courtesy",line
+590,591,1.3.261,Henry IV,HOTSPUR,39.0,This fawning greyhound then did proffer me!,line
+591,592,1.3.262,Henry IV,HOTSPUR,39.0,"Look,when his infant fortune came to age,",line
+592,593,1.3.263,Henry IV,HOTSPUR,39.0,"And gentle Harry Percy, and kind cousin;",line
+593,594,1.3.264,Henry IV,HOTSPUR,39.0,"O, the devil take such cozeners! God forgive me!",line
+594,595,1.3.265,Henry IV,HOTSPUR,39.0,"Good uncle, tell your tale; I have done.",line
+595,596,1.3.266,Henry IV,EARL OF WORCESTER,40.0,"Nay, if you have not, to it again;",line
+596,597,1.3.267,Henry IV,EARL OF WORCESTER,40.0,We will stay your leisure.,line
+597,598,1.3.268,Henry IV,HOTSPUR,41.0,"I have done, i faith.",line
+598,599,1.3.269,Henry IV,EARL OF WORCESTER,42.0,Then once more to your Scottish prisoners.,line
+599,600,1.3.270,Henry IV,EARL OF WORCESTER,42.0,"Deliver them up without their ransom straight,",line
+600,601,1.3.271,Henry IV,EARL OF WORCESTER,42.0,And make the Douglas son your only mean,line
+601,602,1.3.272,Henry IV,EARL OF WORCESTER,42.0,"For powers in Scotland; which, for divers reasons",line
+602,603,1.3.273,Henry IV,EARL OF WORCESTER,42.0,"Which I shall send you written, be assured,",line
+603,604,1.3.274,Henry IV,EARL OF WORCESTER,42.0,"Will easily be granted. You, my lord,",line
+604,605,,Henry IV,EARL OF WORCESTER,42.0,To Northumberland,line
+605,606,1.3.275,Henry IV,EARL OF WORCESTER,42.0,"Your son in Scotland being thus employd,",line
+606,607,1.3.276,Henry IV,EARL OF WORCESTER,42.0,Shall secretly into the bosom creep,line
+607,608,1.3.277,Henry IV,EARL OF WORCESTER,42.0,"Of that same noble prelate, well beloved,",line
+608,609,1.3.278,Henry IV,EARL OF WORCESTER,42.0,The archbishop.,line
+609,610,1.3.279,Henry IV,HOTSPUR,43.0,"Of York, is it not?",line
+610,611,1.3.280,Henry IV,EARL OF WORCESTER,44.0,True; who bears hard,line
+611,612,1.3.281,Henry IV,EARL OF WORCESTER,44.0,"His brothers death at Bristol, the Lord Scroop.",line
+612,613,1.3.282,Henry IV,EARL OF WORCESTER,44.0,"I speak not this in estimation,",line
+613,614,1.3.283,Henry IV,EARL OF WORCESTER,44.0,"As what I think might be, but what I know",line
+614,615,1.3.284,Henry IV,EARL OF WORCESTER,44.0,"Is ruminated, plotted and set down,",line
+615,616,1.3.285,Henry IV,EARL OF WORCESTER,44.0,And only stays but to behold the face,line
+616,617,1.3.286,Henry IV,EARL OF WORCESTER,44.0,Of that occasion that shall bring it on.,line
+617,618,1.3.287,Henry IV,HOTSPUR,45.0,"I smell it: upon my life, it will do well.",line
+618,619,1.3.288,Henry IV,NORTHUMBERLAND,46.0,"Before the game is afoot, thou still letst slip.",line
+619,620,1.3.289,Henry IV,HOTSPUR,47.0,"Why, it cannot choose but be a noble plot;",line
+620,621,1.3.290,Henry IV,HOTSPUR,47.0,"And then the power of Scotland and of York,",line
+621,622,1.3.291,Henry IV,HOTSPUR,47.0,"To join with Mortimer, ha?",line
+622,623,1.3.292,Henry IV,EARL OF WORCESTER,48.0,And so they shall.,line
+623,624,1.3.293,Henry IV,HOTSPUR,49.0,"In faith, it is exceedingly well aimd.",line
+624,625,1.3.294,Henry IV,EARL OF WORCESTER,50.0,"And tis no little reason bids us speed,",line
+625,626,1.3.295,Henry IV,EARL OF WORCESTER,50.0,To save our heads by raising of a head;,line
+626,627,1.3.296,Henry IV,EARL OF WORCESTER,50.0,"For, bear ourselves as even as we can,",line
+627,628,1.3.297,Henry IV,EARL OF WORCESTER,50.0,"The king will always think him in our debt,",line
+628,629,1.3.298,Henry IV,EARL OF WORCESTER,50.0,"And think we think ourselves unsatisfied,",line
+629,630,1.3.299,Henry IV,EARL OF WORCESTER,50.0,Till he hath found a time to pay us home:,line
+630,631,1.3.300,Henry IV,EARL OF WORCESTER,50.0,And see already how he doth begin,line
+631,632,1.3.301,Henry IV,EARL OF WORCESTER,50.0,To make us strangers to his looks of love.,line
+632,633,1.3.302,Henry IV,HOTSPUR,51.0,"He does, he does: well be revenged on him.",line
+633,634,1.3.303,Henry IV,EARL OF WORCESTER,52.0,"Cousin, farewell: no further go in this",line
+634,635,1.3.304,Henry IV,EARL OF WORCESTER,52.0,Than I by letters shall direct your course.,line
+635,636,1.3.305,Henry IV,EARL OF WORCESTER,52.0,"When time is ripe, which will be suddenly,",line
+636,637,1.3.306,Henry IV,EARL OF WORCESTER,52.0,Ill steal to Glendower and Lord Mortimer;,line
+637,638,1.3.307,Henry IV,EARL OF WORCESTER,52.0,"Where you and Douglas and our powers at once,",line
+638,639,1.3.308,Henry IV,EARL OF WORCESTER,52.0,"As I will fashion it, shall happily meet,",line
+639,640,1.3.309,Henry IV,EARL OF WORCESTER,52.0,"To bear our fortunes in our own strong arms,",line
+640,641,1.3.310,Henry IV,EARL OF WORCESTER,52.0,Which now we hold at much uncertainty.,line
+641,642,1.3.311,Henry IV,NORTHUMBERLAND,53.0,"Farewell, good brother: we shall thrive, I trust.",line
+642,643,1.3.312,Henry IV,HOTSPUR,54.0,"Uncle, Adieu: O, let the hours be short",line
+643,644,1.3.313,Henry IV,HOTSPUR,54.0,Till fields and blows and groans applaud our sport!,line
+644,645,,Henry IV,HOTSPUR,54.0,Exeunt,line
+645,646,,Henry IV,HOTSPUR,54.0,ACT II,act
+646,647,,Henry IV,HOTSPUR,54.0,SCENE I. Rochester. An inn yard.,scene
+647,648,,Henry IV,HOTSPUR,54.0,Enter a Carrier with a lantern in his hand,line
+648,649,2.1.1,Henry IV,First Carrier,1.0,"Heigh-ho! an it be not four by the day, Ill be",line
+649,650,2.1.2,Henry IV,First Carrier,1.0,"hanged: Charles wain is over the new chimney, and",line
+650,651,2.1.3,Henry IV,First Carrier,1.0,"yet our horse not packed. What, ostler!",line
+651,652,2.1.4,Henry IV,Ostler,2.0,"[Within]   Anon, anon.",line
+652,653,2.1.5,Henry IV,First Carrier,3.0,"I prithee, Tom, beat Cuts saddle, put a few flocks",line
+653,654,2.1.6,Henry IV,First Carrier,3.0,"in the point; poor jade, is wrung in the withers out",line
+654,655,2.1.7,Henry IV,First Carrier,3.0,of all cess.,line
+655,656,,Henry IV,First Carrier,3.0,Enter another Carrier,line
+656,657,2.1.8,Henry IV,Second Carrier,4.0,"Peas and beans are as dank here as a dog, and that",line
+657,658,2.1.9,Henry IV,Second Carrier,4.0,is the next way to give poor jades the bots: this,line
+658,659,2.1.10,Henry IV,Second Carrier,4.0,house is turned upside down since Robin Ostler died.,line
+659,660,2.1.11,Henry IV,First Carrier,5.0,"Poor fellow, never joyed since the price of oats",line
+660,661,2.1.12,Henry IV,First Carrier,5.0,rose; it was the death of him.,line
+661,662,2.1.13,Henry IV,Second Carrier,6.0,I think this be the most villanous house in all,line
+662,663,2.1.14,Henry IV,Second Carrier,6.0,London road for fleas: I am stung like a tench.,line
+663,664,2.1.15,Henry IV,First Carrier,7.0,"Like a tench! by the mass, there is neer a king",line
+664,665,2.1.16,Henry IV,First Carrier,7.0,christen could be better bit than I have been since,line
+665,666,2.1.17,Henry IV,First Carrier,7.0,the first cock.,line
+666,667,2.1.18,Henry IV,Second Carrier,8.0,"Why, they will allow us neer a jordan, and then we",line
+667,668,2.1.19,Henry IV,Second Carrier,8.0,leak in your chimney; and your chamber-lie breeds,line
+668,669,2.1.20,Henry IV,Second Carrier,8.0,fleas like a loach.,line
+669,670,2.1.21,Henry IV,First Carrier,9.0,"What, ostler! come away and be hanged!",line
+670,671,2.1.22,Henry IV,Second Carrier,10.0,"I have a gammon of bacon and two razors of ginger,",line
+671,672,2.1.23,Henry IV,Second Carrier,10.0,to be delivered as far as Charing-cross.,line
+672,673,2.1.24,Henry IV,First Carrier,11.0,Gods body! the turkeys in my pannier are quite,line
+673,674,2.1.25,Henry IV,First Carrier,11.0,"starved. What, ostler! A plague on thee! hast thou",line
+674,675,2.1.26,Henry IV,First Carrier,11.0,never an eye in thy head? canst not hear? An,line
+675,676,2.1.27,Henry IV,First Carrier,11.0,"twere not as good deed as drink, to break the pate",line
+676,677,2.1.28,Henry IV,First Carrier,11.0,"on thee, I am a very villain. Come, and be hanged!",line
+677,678,2.1.29,Henry IV,First Carrier,11.0,hast thou no faith in thee?,line
+678,679,,Henry IV,First Carrier,11.0,Enter GADSHILL,line
+679,680,2.1.30,Henry IV,GADSHILL,12.0,"Good morrow, carriers. Whats oclock?",line
+680,681,2.1.31,Henry IV,First Carrier,13.0,I think it be two oclock.,line
+681,682,2.1.32,Henry IV,GADSHILL,14.0,"I pray thee lend me thy lantern, to see my gelding",line
+682,683,2.1.33,Henry IV,GADSHILL,14.0,in the stable.,line
+683,684,2.1.34,Henry IV,First Carrier,15.0,"Nay, by God, soft; I know a trick worth two of that, i faith.",line
+684,685,2.1.35,Henry IV,GADSHILL,16.0,"I pray thee, lend me thine.",line
+685,686,2.1.36,Henry IV,Second Carrier,17.0,"Ay, when? canst tell? Lend me thy lantern, quoth",line
+686,687,2.1.37,Henry IV,Second Carrier,17.0,"he? marry, Ill see thee hanged first.",line
+687,688,2.1.38,Henry IV,GADSHILL,18.0,"Sirrah carrier, what time do you mean to come to London?",line
+688,689,2.1.39,Henry IV,Second Carrier,19.0,"Time enough to go to bed with a candle, I warrant",line
+689,690,2.1.40,Henry IV,Second Carrier,19.0,"thee. Come, neighbour Mugs, well call up the",line
+690,691,2.1.41,Henry IV,Second Carrier,19.0,"gentleman: they will along with company, for they",line
+691,692,2.1.42,Henry IV,Second Carrier,19.0,have great charge.,line
+692,693,,Henry IV,Second Carrier,19.0,Exeunt carriers,line
+693,694,2.1.43,Henry IV,GADSHILL,20.0,"What, ho! chamberlain!",line
+694,695,2.1.44,Henry IV,Chamberlain,21.0,"[Within]  At hand, quoth pick-purse.",line
+695,696,2.1.45,Henry IV,GADSHILL,22.0,"Thats even as fair as--at hand, quoth the",line
+696,697,2.1.46,Henry IV,GADSHILL,22.0,chamberlain; for thou variest no more from picking,line
+697,698,2.1.47,Henry IV,GADSHILL,22.0,of purses than giving direction doth from labouring;,line
+698,699,2.1.48,Henry IV,GADSHILL,22.0,thou layest the plot how.,line
+699,700,,Henry IV,GADSHILL,22.0,Enter Chamberlain,line
+700,701,2.1.49,Henry IV,Chamberlain,23.0,"Good morrow, Master Gadshill. It holds current that",line
+701,702,2.1.50,Henry IV,Chamberlain,23.0,I told you yesternight: theres a franklin in the,line
+702,703,2.1.51,Henry IV,Chamberlain,23.0,wild of Kent hath brought three hundred marks with,line
+703,704,2.1.52,Henry IV,Chamberlain,23.0,him in gold: I heard him tell it to one of his,line
+704,705,2.1.53,Henry IV,Chamberlain,23.0,company last night at supper; a kind of auditor; one,line
+705,706,2.1.54,Henry IV,Chamberlain,23.0,"that hath abundance of charge too, God knows what.",line
+706,707,2.1.55,Henry IV,Chamberlain,23.0,"They are up already, and call for eggs and butter;",line
+707,708,2.1.56,Henry IV,Chamberlain,23.0,they will away presently.,line
+708,709,2.1.57,Henry IV,GADSHILL,24.0,"Sirrah, if they meet not with Saint Nicholas",line
+709,710,2.1.58,Henry IV,GADSHILL,24.0,"clerks, Ill give thee this neck.",line
+710,711,2.1.59,Henry IV,Chamberlain,25.0,"No, Ill none of it: I pray thee keep that for the",line
+711,712,2.1.60,Henry IV,Chamberlain,25.0,hangman; for I know thou worshippest St. Nicholas,line
+712,713,2.1.61,Henry IV,Chamberlain,25.0,as truly as a man of falsehood may.,line
+713,714,2.1.62,Henry IV,GADSHILL,26.0,"What talkest thou to me of the hangman? if I hang,",line
+714,715,2.1.63,Henry IV,GADSHILL,26.0,"Ill make a fat pair of gallows; for if I hang, old",line
+715,716,2.1.64,Henry IV,GADSHILL,26.0,"Sir John hangs with me, and thou knowest he is no",line
+716,717,2.1.65,Henry IV,GADSHILL,26.0,starveling. Tut! there are other Trojans that thou,line
+717,718,2.1.66,Henry IV,GADSHILL,26.0,"dreamest not of, the which for sport sake are",line
+718,719,2.1.67,Henry IV,GADSHILL,26.0,"content to do the profession some grace; that would,",line
+719,720,2.1.68,Henry IV,GADSHILL,26.0,"if matters should be looked into, for their own",line
+720,721,2.1.69,Henry IV,GADSHILL,26.0,"credit sake, make all whole. I am joined with no",line
+721,722,2.1.70,Henry IV,GADSHILL,26.0,"foot-land rakers, no long-staff sixpenny strikers,",line
+722,723,2.1.71,Henry IV,GADSHILL,26.0,none of these mad mustachio purple-hued malt-worms;,line
+723,724,2.1.72,Henry IV,GADSHILL,26.0,"but with nobility and tranquillity, burgomasters and",line
+724,725,2.1.73,Henry IV,GADSHILL,26.0,"great oneyers, such as can hold in, such as will",line
+725,726,2.1.74,Henry IV,GADSHILL,26.0,"strike sooner than speak, and speak sooner than",line
+726,727,2.1.75,Henry IV,GADSHILL,26.0,"drink, and drink sooner than pray: and yet, zounds,",line
+727,728,2.1.76,Henry IV,GADSHILL,26.0,"I lie; for they pray continually to their saint, the",line
+728,729,2.1.77,Henry IV,GADSHILL,26.0,"commonwealth; or rather, not pray to her, but prey",line
+729,730,2.1.78,Henry IV,GADSHILL,26.0,"on her, for they ride up and down on her and make",line
+730,731,2.1.79,Henry IV,GADSHILL,26.0,her their boots.,line
+731,732,2.1.80,Henry IV,Chamberlain,27.0,"What, the commonwealth their boots? will she hold",line
+732,733,2.1.81,Henry IV,Chamberlain,27.0,out water in foul way?,line
+733,734,2.1.82,Henry IV,GADSHILL,28.0,"She will, she will; justice hath liquored her. We",line
+734,735,2.1.83,Henry IV,GADSHILL,28.0,"steal as in a castle, cocksure; we have the receipt",line
+735,736,2.1.84,Henry IV,GADSHILL,28.0,"of fern-seed, we walk invisible.",line
+736,737,2.1.85,Henry IV,Chamberlain,29.0,"Nay, by my faith, I think you are more beholding to",line
+737,738,2.1.86,Henry IV,Chamberlain,29.0,the night than to fern-seed for your walking invisible.,line
+738,739,2.1.87,Henry IV,GADSHILL,30.0,Give me thy hand: thou shalt have a share in our,line
+739,740,2.1.88,Henry IV,GADSHILL,30.0,"purchase, as I am a true man.",line
+740,741,2.1.89,Henry IV,Chamberlain,31.0,"Nay, rather let me have it, as you are a false thief.",line
+741,742,2.1.90,Henry IV,GADSHILL,32.0,Go to; homo is a common name to all men. Bid the,line
+742,743,2.1.91,Henry IV,GADSHILL,32.0,"ostler bring my gelding out of the stable. Farewell,",line
+743,744,2.1.92,Henry IV,GADSHILL,32.0,you muddy knave.,line
+744,745,,Henry IV,GADSHILL,32.0,Exeunt,line
+745,746,,Henry IV,GADSHILL,32.0,"SCENE II. The highway, near Gadshill.",scene
+746,747,,Henry IV,GADSHILL,32.0,Enter PRINCE HENRY and POINS,line
+747,748,2.2.1,Henry IV,POINS,1.0,"Come, shelter, shelter: I have removed Falstaffs",line
+748,749,2.2.2,Henry IV,POINS,1.0,"horse, and he frets like a gummed velvet.",line
+749,750,2.2.3,Henry IV,PRINCE HENRY,2.0,Stand close.,line
+750,751,,Henry IV,PRINCE HENRY,2.0,Enter FALSTAFF,line
+751,752,2.2.4,Henry IV,FALSTAFF,3.0,"Poins! Poins, and be hanged! Poins!",line
+752,753,2.2.5,Henry IV,PRINCE HENRY,4.0,"Peace, ye fat-kidneyed rascal! what a brawling dost",line
+753,754,2.2.6,Henry IV,PRINCE HENRY,4.0,thou keep!,line
+754,755,2.2.7,Henry IV,FALSTAFF,5.0,"Wheres Poins, Hal?",line
+755,756,2.2.8,Henry IV,PRINCE HENRY,6.0,He is walked up to the top of the hill: Ill go seek him.,line
+756,757,2.2.9,Henry IV,FALSTAFF,7.0,I am accursed to rob in that thiefs company: the,line
+757,758,2.2.10,Henry IV,FALSTAFF,7.0,"rascal hath removed my horse, and tied him I know",line
+758,759,2.2.11,Henry IV,FALSTAFF,7.0,not where. If I travel but four foot by the squier,line
+759,760,2.2.12,Henry IV,FALSTAFF,7.0,"further afoot, I shall break my wind. Well, I doubt",line
+760,761,2.2.13,Henry IV,FALSTAFF,7.0,"not but to die a fair death for all this, if I",line
+761,762,2.2.14,Henry IV,FALSTAFF,7.0,scape hanging for killing that rogue. I have,line
+762,763,2.2.15,Henry IV,FALSTAFF,7.0,forsworn his company hourly any time this two and,line
+763,764,2.2.16,Henry IV,FALSTAFF,7.0,"twenty years, and yet I am bewitched with the",line
+764,765,2.2.17,Henry IV,FALSTAFF,7.0,rogues company. If the rascal hath not given me,line
+765,766,2.2.18,Henry IV,FALSTAFF,7.0,"medicines to make me love him, Ill be hanged; it",line
+766,767,2.2.19,Henry IV,FALSTAFF,7.0,could not be else: I have drunk medicines. Poins!,line
+767,768,2.2.20,Henry IV,FALSTAFF,7.0,Hal! a plague upon you both! Bardolph! Peto!,line
+768,769,2.2.21,Henry IV,FALSTAFF,7.0,Ill starve ere Ill rob a foot further. An twere,line
+769,770,2.2.22,Henry IV,FALSTAFF,7.0,"not as good a deed as drink, to turn true man and to",line
+770,771,2.2.23,Henry IV,FALSTAFF,7.0,"leave these rogues, I am the veriest varlet that",line
+771,772,2.2.24,Henry IV,FALSTAFF,7.0,ever chewed with a tooth. Eight yards of uneven,line
+772,773,2.2.25,Henry IV,FALSTAFF,7.0,ground is threescore and ten miles afoot with me;,line
+773,774,2.2.26,Henry IV,FALSTAFF,7.0,and the stony-hearted villains know it well enough:,line
+774,775,2.2.27,Henry IV,FALSTAFF,7.0,a plague upon it when thieves cannot be true one to another!,line
+775,776,,Henry IV,FALSTAFF,7.0,They whistle,line
+776,777,2.2.28,Henry IV,FALSTAFF,7.0,"Whew! A plague upon you all! Give me my horse, you",line
+777,778,2.2.29,Henry IV,FALSTAFF,7.0,"rogues; give me my horse, and be hanged!",line
+778,779,2.2.30,Henry IV,PRINCE HENRY,8.0,"Peace, ye fat-guts! lie down; lay thine ear close",line
+779,780,2.2.31,Henry IV,PRINCE HENRY,8.0,to the ground and list if thou canst hear the tread,line
+780,781,2.2.32,Henry IV,PRINCE HENRY,8.0,of travellers.,line
+781,782,2.2.33,Henry IV,FALSTAFF,9.0,"Have you any levers to lift me up again, being down?",line
+782,783,2.2.34,Henry IV,FALSTAFF,9.0,"Sblood, Ill not bear mine own flesh so far afoot",line
+783,784,2.2.35,Henry IV,FALSTAFF,9.0,again for all the coin in thy fathers exchequer.,line
+784,785,2.2.36,Henry IV,FALSTAFF,9.0,What a plague mean ye to colt me thus?,line
+785,786,2.2.37,Henry IV,PRINCE HENRY,10.0,"Thou liest; thou art not colted, thou art uncolted.",line
+786,787,2.2.38,Henry IV,FALSTAFF,11.0,"I prithee, good Prince Hal, help me to my horse,",line
+787,788,2.2.39,Henry IV,FALSTAFF,11.0,good kings son.,line
+788,789,2.2.40,Henry IV,PRINCE HENRY,12.0,"Out, ye rogue! shall I be your ostler?",line
+789,790,2.2.41,Henry IV,FALSTAFF,13.0,"Go, hang thyself in thine own heir-apparent",line
+790,791,2.2.42,Henry IV,FALSTAFF,13.0,"garters! If I be taen, Ill peach for this. An I",line
+791,792,2.2.43,Henry IV,FALSTAFF,13.0,have not ballads made on you all and sung to filthy,line
+792,793,2.2.44,Henry IV,FALSTAFF,13.0,"tunes, let a cup of sack be my poison: when a jest",line
+793,794,2.2.45,Henry IV,FALSTAFF,13.0,"is so forward, and afoot too! I hate it.",line
+794,795,,Henry IV,FALSTAFF,13.0,"Enter GADSHILL, BARDOLPH and PETO",line
+795,796,2.2.46,Henry IV,GADSHILL,14.0,Stand.,line
+796,797,2.2.47,Henry IV,FALSTAFF,15.0,"So I do, against my will.",line
+797,798,2.2.48,Henry IV,POINS,16.0,"O, tis our setter: I know his voice. Bardolph,",line
+798,799,2.2.49,Henry IV,POINS,16.0,what news?,line
+799,800,2.2.50,Henry IV,BARDOLPH,17.0,"Case ye, case ye; on with your vizards: there s",line
+800,801,2.2.51,Henry IV,BARDOLPH,17.0,money of the kings coming down the hill; tis going,line
+801,802,2.2.52,Henry IV,BARDOLPH,17.0,to the kings exchequer.,line
+802,803,2.2.53,Henry IV,FALSTAFF,18.0,"You lie, ye rogue; tis going to the kings tavern.",line
+803,804,2.2.54,Henry IV,GADSHILL,19.0,Theres enough to make us all.,line
+804,805,2.2.55,Henry IV,FALSTAFF,20.0,To be hanged.,line
+805,806,2.2.56,Henry IV,PRINCE HENRY,21.0,"Sirs, you four shall front them in the narrow lane;",line
+806,807,2.2.57,Henry IV,PRINCE HENRY,21.0,Ned Poins and I will walk lower: if they scape,line
+807,808,2.2.58,Henry IV,PRINCE HENRY,21.0,"from your encounter, then they light on us.",line
+808,809,2.2.59,Henry IV,PETO,22.0,How many be there of them?,line
+809,810,2.2.60,Henry IV,GADSHILL,23.0,Some eight or ten.,line
+810,811,2.2.61,Henry IV,FALSTAFF,24.0,"Zounds, will they not rob us?",line
+811,812,2.2.62,Henry IV,PRINCE HENRY,25.0,"What, a coward, Sir John Paunch?",line
+812,813,2.2.63,Henry IV,FALSTAFF,26.0,"Indeed, I am not John of Gaunt, your grandfather;",line
+813,814,2.2.64,Henry IV,FALSTAFF,26.0,"but yet no coward, Hal.",line
+814,815,2.2.65,Henry IV,PRINCE HENRY,27.0,"Well, we leave that to the proof.",line
+815,816,2.2.66,Henry IV,POINS,28.0,"Sirrah Jack, thy horse stands behind the hedge:",line
+816,817,2.2.67,Henry IV,POINS,28.0,"when thou needest him, there thou shalt find him.",line
+817,818,2.2.68,Henry IV,POINS,28.0,"Farewell, and stand fast.",line
+818,819,2.2.69,Henry IV,FALSTAFF,29.0,"Now cannot I strike him, if I should be hanged.",line
+819,820,2.2.70,Henry IV,PRINCE HENRY,30.0,"Ned, where are our disguises?",line
+820,821,2.2.71,Henry IV,POINS,31.0,"Here, hard by: stand close.",line
+821,822,,Henry IV,POINS,31.0,Exeunt PRINCE HENRY and POINS,line
+822,823,2.2.72,Henry IV,FALSTAFF,32.0,"Now, my masters, happy man be his dole, say I:",line
+823,824,2.2.73,Henry IV,FALSTAFF,32.0,every man to his business.,line
+824,825,,Henry IV,FALSTAFF,32.0,Enter the Travellers,line
+825,826,2.2.74,Henry IV,First Traveller,33.0,"Come, neighbour: the boy shall lead our horses down",line
+826,827,2.2.75,Henry IV,First Traveller,33.0,"the hill; well walk afoot awhile, and ease our legs.",line
+827,828,2.2.76,Henry IV,Thieves,34.0,Stand!,line
+828,829,2.2.77,Henry IV,Travellers,35.0,Jesus bless us!,line
+829,830,2.2.78,Henry IV,FALSTAFF,36.0,Strike; down with them; cut the villains throats:,line
+830,831,2.2.79,Henry IV,FALSTAFF,36.0,ah! whoreson caterpillars! bacon-fed knaves! they,line
+831,832,2.2.80,Henry IV,FALSTAFF,36.0,hate us youth: down with them: fleece them.,line
+832,833,2.2.81,Henry IV,Travellers,37.0,"O, we are undone, both we and ours for ever!",line
+833,834,2.2.82,Henry IV,FALSTAFF,38.0,"Hang ye, gorbellied knaves, are ye undone? No, ye",line
+834,835,2.2.83,Henry IV,FALSTAFF,38.0,"fat chuffs: I would your store were here! On,",line
+835,836,2.2.84,Henry IV,FALSTAFF,38.0,"bacons, on! What, ye knaves! young men must live.",line
+836,837,2.2.85,Henry IV,FALSTAFF,38.0,"You are Grand-jurors, are ye? well jure ye, faith.",line
+837,838,,Henry IV,FALSTAFF,38.0,Here they rob them and bind them. Exeunt,line
+838,839,,Henry IV,FALSTAFF,38.0,Re-enter PRINCE HENRY and POINS,line
+839,840,2.2.86,Henry IV,PRINCE HENRY,39.0,The thieves have bound the true men. Now could thou,line
+840,841,2.2.87,Henry IV,PRINCE HENRY,39.0,"and I rob the thieves and go merrily to London, it",line
+841,842,2.2.88,Henry IV,PRINCE HENRY,39.0,"would be argument for a week, laughter for a month",line
+842,843,2.2.89,Henry IV,PRINCE HENRY,39.0,and a good jest for ever.,line
+843,844,2.2.90,Henry IV,POINS,40.0,Stand close; I hear them coming.,line
+844,845,,Henry IV,POINS,40.0,Enter the Thieves again,line
+845,846,2.2.91,Henry IV,FALSTAFF,41.0,"Come, my masters, let us share, and then to  horse",line
+846,847,2.2.92,Henry IV,FALSTAFF,41.0,before day. An the Prince and Poins be not two,line
+847,848,2.2.93,Henry IV,FALSTAFF,41.0,"arrant cowards, theres no equity stirring: theres",line
+848,849,2.2.94,Henry IV,FALSTAFF,41.0,no more valour in that Poins than in a wild-duck.,line
+849,850,2.2.95,Henry IV,PRINCE HENRY,42.0,Your money!,line
+850,851,2.2.96,Henry IV,POINS,43.0,Villains!,line
+851,852,2.2.96,Henry IV,POINS,43.0,"As they are sharing, the Prince and Poins set upon  them; they all run away; and Falstaff, after a blow or two, runs away too, leaving the booty behind them",line
+852,853,2.2.97,Henry IV,PRINCE HENRY,44.0,Got with much ease. Now merrily to horse:,line
+853,854,2.2.98,Henry IV,PRINCE HENRY,44.0,The thieves are all scatterd and possessd with fear,line
+854,855,2.2.99,Henry IV,PRINCE HENRY,44.0,So strongly that they dare not meet each other;,line
+855,856,2.2.100,Henry IV,PRINCE HENRY,44.0,Each takes his fellow for an officer.,line
+856,857,2.2.101,Henry IV,PRINCE HENRY,44.0,"Away, good Ned. Falstaff sweats to death,",line
+857,858,2.2.102,Henry IV,PRINCE HENRY,44.0,And lards the lean earth as he walks along:,line
+858,859,2.2.103,Henry IV,PRINCE HENRY,44.0,"Were t not for laughing, I should pity him.",line
+859,860,2.2.104,Henry IV,POINS,45.0,How the rogue roard!,line
+860,861,,Henry IV,POINS,45.0,Exeunt,line
+861,862,,Henry IV,POINS,45.0,SCENE III. Warkworth castle,scene
+862,863,,Henry IV,POINS,45.0,"Enter HOTSPUR, solus, reading a letter",line
+863,864,2.3.1,Henry IV,HOTSPUR,1.0,"But for mine own part, my lord, I could be well",line
+864,865,2.3.2,Henry IV,HOTSPUR,1.0,"contented to be there, in respect of the love I bear",line
+865,866,2.3.3,Henry IV,HOTSPUR,1.0,"your house. He could be contented: why is he not,",line
+866,867,2.3.4,Henry IV,HOTSPUR,1.0,then? In respect of the love he bears our house:,line
+867,868,2.3.5,Henry IV,HOTSPUR,1.0,"he shows in this, he loves his own barn better than",line
+868,869,2.3.6,Henry IV,HOTSPUR,1.0,he loves our house. Let me see some more. The,line
+869,870,2.3.7,Henry IV,HOTSPUR,1.0,"purpose you undertake is dangerous;--why, thats",line
+870,871,2.3.8,Henry IV,HOTSPUR,1.0,"certain: tis dangerous to take a cold, to sleep, to",line
+871,872,2.3.9,Henry IV,HOTSPUR,1.0,"drink; but I tell you, my lord fool, out of this",line
+872,873,2.3.10,Henry IV,HOTSPUR,1.0,"nettle, danger, we pluck this flower, safety. The",line
+873,874,2.3.11,Henry IV,HOTSPUR,1.0,purpose you undertake is dangerous; the friends you,line
+874,875,2.3.12,Henry IV,HOTSPUR,1.0,have named uncertain; the time itself unsorted; and,line
+875,876,2.3.13,Henry IV,HOTSPUR,1.0,your whole plot too light for the counterpoise of so,line
+876,877,2.3.14,Henry IV,HOTSPUR,1.0,"great an opposition. Say you so, say you so? I say",line
+877,878,2.3.15,Henry IV,HOTSPUR,1.0,"unto you again, you are a shallow cowardly hind, and",line
+878,879,2.3.16,Henry IV,HOTSPUR,1.0,"you lie.  What a lack-brain is this! By the Lord,",line
+879,880,2.3.17,Henry IV,HOTSPUR,1.0,our plot is a good plot as ever was laid; our,line
+880,881,2.3.18,Henry IV,HOTSPUR,1.0,"friends true and constant: a good plot, good",line
+881,882,2.3.19,Henry IV,HOTSPUR,1.0,"friends, and full of expectation; an excellent plot,",line
+882,883,2.3.20,Henry IV,HOTSPUR,1.0,very good friends. What a frosty-spirited rogue is,line
+883,884,2.3.21,Henry IV,HOTSPUR,1.0,"this! Why, my lord of York commends the plot and the",line
+884,885,2.3.22,Henry IV,HOTSPUR,1.0,"general course of action. Zounds, an I were now by",line
+885,886,2.3.23,Henry IV,HOTSPUR,1.0,"this rascal, I could brain him with his ladys fan.",line
+886,887,2.3.24,Henry IV,HOTSPUR,1.0,"Is there not my father, my uncle and myself? lord",line
+887,888,2.3.25,Henry IV,HOTSPUR,1.0,"Edmund Mortimer, My lord of York and Owen Glendower?",line
+888,889,2.3.26,Henry IV,HOTSPUR,1.0,is there not besides the Douglas? have I not all,line
+889,890,2.3.27,Henry IV,HOTSPUR,1.0,their letters to meet me in arms by the ninth of the,line
+890,891,2.3.28,Henry IV,HOTSPUR,1.0,next month? and are they not some of them set,line
+891,892,2.3.29,Henry IV,HOTSPUR,1.0,forward already? What a pagan rascal is this! an,line
+892,893,2.3.30,Henry IV,HOTSPUR,1.0,infidel! Ha! you shall see now in very sincerity,line
+893,894,2.3.31,Henry IV,HOTSPUR,1.0,"of fear and cold heart, will he to the king and lay",line
+894,895,2.3.32,Henry IV,HOTSPUR,1.0,"open all our proceedings. O, I could divide myself",line
+895,896,2.3.33,Henry IV,HOTSPUR,1.0,"and go to buffets, for moving such a dish of",line
+896,897,2.3.34,Henry IV,HOTSPUR,1.0,skim milk with so honourable an action! Hang him!,line
+897,898,2.3.35,Henry IV,HOTSPUR,1.0,let him tell the king: we are prepared. I will set,line
+898,899,2.3.36,Henry IV,HOTSPUR,1.0,forward to-night.,line
+899,900,,Henry IV,HOTSPUR,1.0,Enter LADY PERCY,line
+900,901,2.3.37,Henry IV,HOTSPUR,1.0,"How now, Kate! I must leave you within these two hours.",line
+901,902,2.3.38,Henry IV,LADY PERCY,2.0,"O, my good lord, why are you thus alone?",line
+902,903,2.3.39,Henry IV,LADY PERCY,2.0,For what offence have I this fortnight been,line
+903,904,2.3.40,Henry IV,LADY PERCY,2.0,A banishd woman from my Harrys bed?,line
+904,905,2.3.41,Henry IV,LADY PERCY,2.0,"Tell me, sweet lord, what ist that takes from thee",line
+905,906,2.3.42,Henry IV,LADY PERCY,2.0,"Thy stomach, pleasure and thy golden sleep?",line
+906,907,2.3.43,Henry IV,LADY PERCY,2.0,"Why dost thou bend thine eyes upon the earth,",line
+907,908,2.3.44,Henry IV,LADY PERCY,2.0,And start so often when thou sitst alone?,line
+908,909,2.3.45,Henry IV,LADY PERCY,2.0,Why hast thou lost the fresh blood in thy cheeks;,line
+909,910,2.3.46,Henry IV,LADY PERCY,2.0,And given my treasures and my rights of thee,line
+910,911,2.3.47,Henry IV,LADY PERCY,2.0,To thick-eyed musing and cursed melancholy?,line
+911,912,2.3.48,Henry IV,LADY PERCY,2.0,"In thy faint slumbers I by thee have watchd,",line
+912,913,2.3.49,Henry IV,LADY PERCY,2.0,And heard thee murmur tales of iron wars;,line
+913,914,2.3.50,Henry IV,LADY PERCY,2.0,Speak terms of manage to thy bounding steed;,line
+914,915,2.3.51,Henry IV,LADY PERCY,2.0,Cry Courage! to the field! And thou hast talkd,line
+915,916,2.3.52,Henry IV,LADY PERCY,2.0,"Of sallies and retires, of trenches, tents,",line
+916,917,2.3.53,Henry IV,LADY PERCY,2.0,"Of palisadoes, frontiers, parapets,",line
+917,918,2.3.54,Henry IV,LADY PERCY,2.0,"Of basilisks, of cannon, culverin,",line
+918,919,2.3.55,Henry IV,LADY PERCY,2.0,"Of prisoners ransom and of soldiers slain,",line
+919,920,2.3.56,Henry IV,LADY PERCY,2.0,And all the currents of a heady fight.,line
+920,921,2.3.57,Henry IV,LADY PERCY,2.0,Thy spirit within thee hath been so at war,line
+921,922,2.3.58,Henry IV,LADY PERCY,2.0,"And thus hath so bestirrd thee in thy sleep,",line
+922,923,2.3.59,Henry IV,LADY PERCY,2.0,That beads of sweat have stood upon thy brow,line
+923,924,2.3.60,Henry IV,LADY PERCY,2.0,Like bubbles in a late-disturbed stream;,line
+924,925,2.3.61,Henry IV,LADY PERCY,2.0,"And in thy face strange motions have appeard,",line
+925,926,2.3.62,Henry IV,LADY PERCY,2.0,Such as we see when men restrain their breath,line
+926,927,2.3.63,Henry IV,LADY PERCY,2.0,"On some great sudden hest. O, what portents are these?",line
+927,928,2.3.64,Henry IV,LADY PERCY,2.0,"Some heavy business hath my lord in hand,",line
+928,929,2.3.65,Henry IV,LADY PERCY,2.0,"And I must know it, else he loves me not.",line
+929,930,2.3.66,Henry IV,HOTSPUR,3.0,"What, ho!",line
+930,931,,Henry IV,HOTSPUR,3.0,Enter Servant,line
+931,932,2.3.67,Henry IV,HOTSPUR,3.0,Is Gilliams with the packet gone?,line
+932,933,2.3.68,Henry IV,Servant,4.0,"He is, my lord, an hour ago.",line
+933,934,2.3.69,Henry IV,HOTSPUR,5.0,Hath Butler brought those horses from the sheriff?,line
+934,935,2.3.70,Henry IV,Servant,6.0,"One horse, my lord, he brought even now.",line
+935,936,2.3.71,Henry IV,HOTSPUR,7.0,"What horse? a roan, a crop-ear, is it not?",line
+936,937,2.3.72,Henry IV,Servant,8.0,"It is, my lord.",line
+937,938,2.3.73,Henry IV,HOTSPUR,9.0,That roan shall by my throne.,line
+938,939,2.3.74,Henry IV,HOTSPUR,9.0,"Well, I will back him straight: O esperance!",line
+939,940,2.3.75,Henry IV,HOTSPUR,9.0,Bid Butler lead him forth into the park.,line
+940,941,,Henry IV,HOTSPUR,9.0,Exit Servant,line
+941,942,2.3.76,Henry IV,LADY PERCY,10.0,"But hear you, my lord.",line
+942,943,2.3.77,Henry IV,HOTSPUR,11.0,"What sayst thou, my lady?",line
+943,944,2.3.78,Henry IV,LADY PERCY,12.0,What is it carries you away?,line
+944,945,2.3.79,Henry IV,HOTSPUR,13.0,"Why, my horse, my love, my horse.",line
+945,946,2.3.80,Henry IV,LADY PERCY,14.0,"Out, you mad-headed ape!",line
+946,947,2.3.81,Henry IV,LADY PERCY,14.0,A weasel hath not such a deal of spleen,line
+947,948,2.3.82,Henry IV,LADY PERCY,14.0,"As you are tossd with. In faith,",line
+948,949,2.3.83,Henry IV,LADY PERCY,14.0,"Ill know your business, Harry, that I will.",line
+949,950,2.3.84,Henry IV,LADY PERCY,14.0,I fear my brother Mortimer doth stir,line
+950,951,2.3.85,Henry IV,LADY PERCY,14.0,"About his title, and hath sent for you",line
+951,952,2.3.86,Henry IV,LADY PERCY,14.0,"To line his enterprise: but if you go,--",line
+952,953,2.3.87,Henry IV,HOTSPUR,15.0,"So far afoot, I shall be weary, love.",line
+953,954,2.3.88,Henry IV,LADY PERCY,16.0,"Come, come, you paraquito, answer me",line
+954,955,2.3.89,Henry IV,LADY PERCY,16.0,Directly unto this question that I ask:,line
+955,956,2.3.90,Henry IV,LADY PERCY,16.0,"In faith, Ill break thy little finger, Harry,",line
+956,957,2.3.91,Henry IV,LADY PERCY,16.0,An if thou wilt not tell me all things true.,line
+957,958,2.3.92,Henry IV,HOTSPUR,17.0,"Away,",line
+958,959,2.3.93,Henry IV,HOTSPUR,17.0,"Away, you trifler! Love! I love thee not,",line
+959,960,2.3.94,Henry IV,HOTSPUR,17.0,"I care not for thee, Kate: this is no world",line
+960,961,2.3.95,Henry IV,HOTSPUR,17.0,To play with mammets and to tilt with lips:,line
+961,962,2.3.96,Henry IV,HOTSPUR,17.0,"We must have bloody noses and crackd crowns,",line
+962,963,2.3.97,Henry IV,HOTSPUR,17.0,"And pass them current too. Gods me, my horse!",line
+963,964,2.3.98,Henry IV,HOTSPUR,17.0,"What sayst thou, Kate? what wouldst thou",line
+964,965,2.3.99,Henry IV,HOTSPUR,17.0,have with me?,line
+965,966,2.3.100,Henry IV,LADY PERCY,18.0,"Do you not love me? do you not, indeed?",line
+966,967,2.3.101,Henry IV,LADY PERCY,18.0,"Well, do not then; for since you love me not,",line
+967,968,2.3.102,Henry IV,LADY PERCY,18.0,I will not love myself. Do you not love me?,line
+968,969,2.3.103,Henry IV,LADY PERCY,18.0,"Nay, tell me if you speak in jest or no.",line
+969,970,2.3.104,Henry IV,HOTSPUR,19.0,"Come, wilt thou see me ride?",line
+970,971,2.3.105,Henry IV,HOTSPUR,19.0,"And when I am on horseback, I will swear",line
+971,972,2.3.106,Henry IV,HOTSPUR,19.0,"I love thee infinitely. But hark you, Kate;",line
+972,973,2.3.107,Henry IV,HOTSPUR,19.0,I must not have you henceforth question me,line
+973,974,2.3.108,Henry IV,HOTSPUR,19.0,"Whither I go, nor reason whereabout:",line
+974,975,2.3.109,Henry IV,HOTSPUR,19.0,"Whither I must, I must; and, to conclude,",line
+975,976,2.3.110,Henry IV,HOTSPUR,19.0,"This evening must I leave you, gentle Kate.",line
+976,977,2.3.111,Henry IV,HOTSPUR,19.0,"I know you wise, but yet no farther wise",line
+977,978,2.3.112,Henry IV,HOTSPUR,19.0,"Than Harry Percys wife: constant you are,",line
+978,979,2.3.113,Henry IV,HOTSPUR,19.0,"But yet a woman: and for secrecy,",line
+979,980,2.3.114,Henry IV,HOTSPUR,19.0,No lady closer; for I well believe,line
+980,981,2.3.115,Henry IV,HOTSPUR,19.0,Thou wilt not utter what thou dost not know;,line
+981,982,2.3.116,Henry IV,HOTSPUR,19.0,"And so far will I trust thee, gentle Kate.",line
+982,983,2.3.117,Henry IV,LADY PERCY,20.0,How! so far?,line
+983,984,2.3.118,Henry IV,HOTSPUR,21.0,"Not an inch further. But hark you, Kate:",line
+984,985,2.3.119,Henry IV,HOTSPUR,21.0,"Whither I go, thither shall you go too;",line
+985,986,2.3.120,Henry IV,HOTSPUR,21.0,"To-day will I set forth, to-morrow you.",line
+986,987,2.3.121,Henry IV,HOTSPUR,21.0,"Will this content you, Kate?",line
+987,988,2.3.122,Henry IV,LADY PERCY,22.0,It must of force.,line
+988,989,,Henry IV,LADY PERCY,22.0,Exeunt,line
+989,990,,Henry IV,LADY PERCY,22.0,"SCENE IV. The Boars-Head Tavern, Eastcheap.",scene
+990,991,,Henry IV,LADY PERCY,22.0,Enter PRINCE HENRY and POINS,line
+991,992,2.4.1,Henry IV,PRINCE HENRY,1.0,"Ned, prithee, come out of that fat room, and lend me",line
+992,993,2.4.2,Henry IV,PRINCE HENRY,1.0,thy hand to laugh a little.,line
+993,994,2.4.3,Henry IV,POINS,2.0,"Where hast been, Hal?",line
+994,995,2.4.4,Henry IV,PRINCE HENRY,3.0,With three or four loggerheads amongst three or four,line
+995,996,2.4.5,Henry IV,PRINCE HENRY,3.0,score hogsheads. I have sounded the very,line
+996,997,2.4.6,Henry IV,PRINCE HENRY,3.0,"base-string of humility. Sirrah, I am sworn brother",line
+997,998,2.4.7,Henry IV,PRINCE HENRY,3.0,to a leash of drawers; and can call them all by,line
+998,999,2.4.8,Henry IV,PRINCE HENRY,3.0,"their christen names, as Tom, Dick, and Francis.",line
+999,1000,2.4.9,Henry IV,PRINCE HENRY,3.0,"They take it already upon their salvation, that",line
